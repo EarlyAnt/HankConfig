@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+    <PropertyItem>
+    <Number>1</Number>
+    <Id>60001</Id>
+    <Type>6</Type>
+    <Name>bread</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>5</Price>
+    <Sale>1</Sale>
+    <Hp>4</Hp>
+    <Exp>0</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_bread_small</DefaultIcon>
+    <HighLightIcon>food_bread</HighLightIcon>
+    <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>2</Number>
+    <Id>60002</Id>
+    <Type>6</Type>
+    <Name>milk</Name>
+    <Tag>drink</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>10</Price>
+    <Sale>1</Sale>
+    <Hp>8</Hp>
+    <Exp>0</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_milk_small</DefaultIcon>
+    <HighLightIcon>food_milk</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>3</Number>
+    <Id>60003</Id>
+    <Type>6</Type>
+    <Name>rice</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>16</Hp>
+    <Exp>1</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_rice_small</DefaultIcon>
+    <HighLightIcon>food_rice</HighLightIcon>
+    <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>4</Number>
+    <Id>60004</Id>
+    <Type>6</Type>
+    <Name>donut</Name>
+    <Tag>snack</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>3</UnlockLevel>
+    <Rarity>5</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>20</Hp>
+    <Exp>0</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_donut_small</DefaultIcon>
+    <HighLightIcon>food_donut</HighLightIcon>
+    <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>5</Number>
+    <Id>60005</Id>
+    <Type>6</Type>
+    <Name>salad</Name>
+    <Tag>snack</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>5</UnlockLevel>
+    <Rarity>10</Rarity>
+    <Price>30</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_salad_small</DefaultIcon>
+    <HighLightIcon>food_salad</HighLightIcon>
+    <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>6</Number>
+    <Id>60006</Id>
+    <Type>6</Type>
+    <Name>chocolate</Name>
+    <Tag>snack</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>8</UnlockLevel>
+    <Rarity>20</Rarity>
+    <Price>40</Price>
+    <Sale>1</Sale>
+    <Hp>34</Hp>
+    <Exp>5</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_chocolate_small</DefaultIcon>
+    <HighLightIcon>food_chocolate</HighLightIcon>
+    <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>7</Number>
+    <Id>60007</Id>
+    <Type>6</Type>
+    <Name>carrot</Name>
+    <Tag>vegetable</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>11</UnlockLevel>
+    <Rarity>10</Rarity>
+    <Price>30</Price>
+    <Sale>1</Sale>
+    <Hp>30</Hp>
+    <Exp>0</Exp>
+    <IsShow>FALSE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>60007_default_icon</DefaultIcon>
+    <HighLightIcon>60007_highlight_icon</HighLightIcon>
+    <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>8</Number>
+    <Id>60008</Id>
+    <Type>6</Type>
+    <Name>sweet potato</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>11</UnlockLevel>
+    <Rarity>15</Rarity>
+    <Price>40</Price>
+    <Sale>1</Sale>
+    <Hp>38</Hp>
+    <Exp>3</Exp>
+    <IsShow>FALSE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>60008_default_icon</DefaultIcon>
+    <HighLightIcon>60008_highlight_icon</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>9</Number>
+    <Id>60009</Id>
+    <Type>6</Type>
+    <Name>fried chicken</Name>
+    <Tag>snack</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>13</UnlockLevel>
+    <Rarity>35</Rarity>
+    <Price>40</Price>
+    <Sale>1</Sale>
+    <Hp>30</Hp>
+    <Exp>8</Exp>
+    <IsShow>FALSE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>60009_default_icon</DefaultIcon>
+    <HighLightIcon>60009_highlight_icon</HighLightIcon>
+    <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>10</Number>
+    <Id>60010</Id>
+    <Type>6</Type>
+    <Name>sweet star</Name>
+    <Tag>snack</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>NULL</StartTime>
+    <EndTime>NULL</EndTime>
+    <UnlockLevel>15</UnlockLevel>
+    <Rarity>25</Rarity>
+    <Price>35</Price>
+    <Sale>1</Sale>
+    <Hp>34</Hp>
+    <Exp>2</Exp>
+    <IsShow>FALSE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>60010_default_icon</DefaultIcon>
+    <HighLightIcon>60010_highlight_icon</HighLightIcon>
+    <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>11</Number>
+    <Id>69001</Id>
+    <Type>6</Type>
+    <Name>pork mooncake</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-9-11 00:00:00</StartTime>
+    <EndTime>2019-9-24 23:59:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>moomcake_small</DefaultIcon>
+    <HighLightIcon>moomcake01</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>12</Number>
+    <Id>69002</Id>
+    <Type>6</Type>
+    <Name>yolk mooncake</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+        <StartTime>2019-9-11 00:00:00</StartTime>
+        <EndTime>2019-9-24 23:59:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>yolk_small</DefaultIcon>
+    <HighLightIcon>yolkmcake</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>13</Number>
+    <Id>69003</Id>
+    <Type>6</Type>
+    <Name>kernel mooncake</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+        <StartTime>2019-9-11 00:00:00</StartTime>
+        <EndTime>2019-9-24 23:59:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>taro_small</DefaultIcon>
+    <HighLightIcon>taro001</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
+</PropertyItem>
+</Properties>

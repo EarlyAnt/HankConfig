@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project Name="Gululu" Version="">
+  <Sounds>
+    <!-- 宠物动作音效 -->
+    <!-- ninji -->
+    <Sound Type="nin_level_end_01">
+      <Clip SoundPath="nin_level_end_01" />
+    </Sound>
+    <Sound Type="nin_hello_01">
+      <Clip SoundPath="nin_hello_01" />
+    </Sound>
+    <Sound Type="nin_sleep_begin_01">
+      <Clip SoundPath="nin_nod_01_01" />
+      <Clip SoundPath="nin_nod_01_02" />
+      <Clip SoundPath="nin_nod_01_03" />
+    </Sound>
+    <Sound Type="nin_drink_remind_begin_01">
+      <Clip SoundPath="nin_drink_remind_begin_01" />
+    </Sound>
+    <Sound Type="nin_drink_remind_loop_01">
+      <Clip SoundPath="nin_drink_remind_loop_01" />
+    </Sound>
+    <Sound Type="nin_drink_remind_end_01">
+      <Clip SoundPath="nin_drink_remind_end_01" />
+    </Sound>
+    <Sound Type="nin_friend_search_01">
+      <Clip SoundPath="nin_friend_search_01" />
+    </Sound>
+    <Sound Type="nin_friend_host_01">
+      <Clip SoundPath="nin_friend_host_01" />
+    </Sound>
+    <Sound Type="nin_friend_guest_01">
+      <Clip SoundPath="nin_friend_guest_01" />
+    </Sound>
+    <Sound Type="nin_friend_guest_out_01">
+      <Clip SoundPath="nin_friend_guest_out_01" />
+    </Sound>
+    <Sound Type="nin_friend_fail_01">
+      <Clip SoundPath="nin_friend_fail_01" />
+    </Sound>
+    <Sound Type="nin_idle_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="nin_sleep_loop_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="nin_sleep_end_01">
+      <Clip SoundPath="nin_morning_01_01" />
+      <Clip SoundPath="nin_morning_01_02" />
+      <Clip SoundPath="nin_morning_01_03" />
+      <Clip SoundPath="nin_morning_01_04" />
+      <Clip SoundPath="nin_morning_01_05" />
+      <Clip SoundPath="nin_morning_01_06" />
+      <Clip SoundPath="nin_morning_01_07" />
+      <Clip SoundPath="nin_morning_01_08" />
+    </Sound>
+    <Sound Type="nin_play_up_01">
+      <Clip SoundPath="nin_play_up_01" />
+      <Clip SoundPath="nin_play_up_02" />
+      <Clip SoundPath="nin_play_up_03" />
+      <Clip SoundPath="nin_play_up_04" />
+    </Sound>
+    <Sound Type="nin_play_down_01">
+      <Clip SoundPath="nin_play_down_01" />
+      <Clip SoundPath="nin_play_down_02" />
+      <Clip SoundPath="nin_play_down_03" />
+      <Clip SoundPath="nin_play_down_04" />
+    </Sound>
+    <Sound Type="nin_play_up_down_01">
+      <Clip SoundPath="nin_play_up_down_01" />
+      <Clip SoundPath="nin_play_up_down_02" />
+      <Clip SoundPath="nin_play_up_down_03" />
+      <Clip SoundPath="nin_play_up_down_04" />
+      <Clip SoundPath="nin_play_up_down_05" />
+    </Sound>
+    <!-- Sansa -->
+    <Sound Type="san_level_end_01">
+      <Clip SoundPath="san_level_end_01" />
+    </Sound>
+    <Sound Type="san_hello_01">
+      <Clip SoundPath="san_hello_01" />
+    </Sound>
+    <Sound Type="san_sleep_begin_01">
+      <Clip SoundPath="san_nod_01_01" />
+      <Clip SoundPath="san_nod_01_02" />
+      <Clip SoundPath="san_nod_01_03" />
+    </Sound>
+    <Sound Type="san_drink_remind_begin_01">
+      <Clip SoundPath="san_drink_remind_begin_01" />
+    </Sound>
+    <Sound Type="san_drink_remind_loop_01">
+      <Clip SoundPath="san_drink_remind_loop_01" />
+    </Sound>
+    <Sound Type="san_drink_remind_end_01">
+      <Clip SoundPath="san_drink_remind_end_01" />
+    </Sound>
+    <Sound Type="san_friend_search_01">
+      <Clip SoundPath="san_friend_search_01" />
+    </Sound>
+    <Sound Type="san_friend_host_01">
+      <Clip SoundPath="san_friend_host_01" />
+    </Sound>
+    <Sound Type="san_friend_guest_01">
+      <Clip SoundPath="san_friend_guest_01" />
+    </Sound>
+    <Sound Type="san_friend_guest_out_01">
+      <Clip SoundPath="san_friend_guest_out_01" />
+    </Sound>
+    <Sound Type="san_friend_guest_back_01">
+      <Clip SoundPath="san_friend_guest_back_01" />
+    </Sound>
+    <Sound Type="san_friend_fail_01">
+      <Clip SoundPath="san_friend_fail_01" />
+    </Sound>
+    <Sound Type="san_idle_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="san_sleep_loop_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="san_sleep_end_01">
+      <Clip SoundPath="san_morning_01_01" />
+      <Clip SoundPath="san_morning_01_02" />
+      <Clip SoundPath="san_morning_01_03" />
+      <Clip SoundPath="san_morning_01_04" />
+      <Clip SoundPath="san_morning_01_05" />
+      <Clip SoundPath="san_morning_01_06" />
+      <Clip SoundPath="san_morning_01_07" />
+      <Clip SoundPath="san_morning_01_08" />
+    </Sound>
+    <Sound Type="san_play_up_01">
+      <Clip SoundPath="san_play_up_01" />
+      <Clip SoundPath="san_play_up_02" />
+      <Clip SoundPath="san_play_up_03" />
+      <Clip SoundPath="san_play_up_04" />
+      <Clip SoundPath="san_play_up_05" />
+    </Sound>
+    <Sound Type="san_play_down_01">
+      <Clip SoundPath="san_play_down_01" />
+      <Clip SoundPath="san_play_down_02" />
+      <Clip SoundPath="san_play_down_03" />
+      <Clip SoundPath="san_play_down_04" />
+      <Clip SoundPath="san_play_down_05" />
+    </Sound>
+    <Sound Type="san_play_up_down_01">
+      <Clip SoundPath="san_play_up_down_01_01" />
+      <Clip SoundPath="san_play_up_down_01_02" />
+      <Clip SoundPath="san_play_up_down_01_03" />
+    </Sound>
+    <!-- Purpie -->
+    <Sound Type="pur_level_end_01">
+      <Clip SoundPath="pur_level_end_01" />
+    </Sound>
+    <Sound Type="pur_hello_01">
+      <Clip SoundPath="pur_hello_01" />
+    </Sound>
+    <Sound Type="pur_sleep_begin_01">
+      <Clip SoundPath="pur_nod_01_01" />
+      <Clip SoundPath="pur_nod_01_02" />
+      <Clip SoundPath="pur_nod_01_03" />
+    </Sound>
+    <Sound Type="pur_drink_remind_begin_01">
+      <Clip SoundPath="pur_drink_remind_begin_01" />
+    </Sound>
+    <Sound Type="pur_drink_remind_loop_01">
+      <Clip SoundPath="pur_drink_remind_loop_01" />
+    </Sound>
+    <Sound Type="pur_drink_remind_end_01">
+      <Clip SoundPath="pur_drink_remind_end_01" />
+    </Sound>
+    <Sound Type="pur_friend_search_01">
+      <Clip SoundPath="pur_friend_search_01" />
+    </Sound>
+    <Sound Type="pur_friend_host_01">
+      <Clip SoundPath="pur_friend_host_01" />
+    </Sound>
+    <Sound Type="pur_friend_guest_01">
+      <Clip SoundPath="pur_friend_guest_01" />
+    </Sound>
+    <Sound Type="pur_friend_guest_out_01">
+      <Clip SoundPath="pur_friend_guest_out_01" />
+    </Sound>
+    <Sound Type="pur_friend_guest_back_01">
+      <Clip SoundPath="pur_friend_guest_back_01" />
+    </Sound>
+    <Sound Type="pur_friend_fail_01">
+      <Clip SoundPath="pur_friend_fail_01" />
+    </Sound>
+    <Sound Type="pur_idle_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="pur_sleep_loop_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="pur_sleep_end_01">
+      <Clip SoundPath="pur_morning_01_01" />
+      <Clip SoundPath="pur_morning_01_02" />
+      <Clip SoundPath="pur_morning_01_03" />
+      <Clip SoundPath="pur_morning_01_04" />
+      <Clip SoundPath="pur_morning_01_05" />
+      <Clip SoundPath="pur_morning_01_06" />
+      <Clip SoundPath="pur_morning_01_07" />
+      <Clip SoundPath="pur_morning_01_08" />
+    </Sound>
+    <Sound Type="pur_play_up_01">
+      <Clip SoundPath="pur_play_up_01" />
+      <Clip SoundPath="pur_play_up_02" />
+      <Clip SoundPath="pur_play_up_03" />
+      <Clip SoundPath="pur_play_up_04" />
+    </Sound>
+    <Sound Type="pur_play_down_01">
+      <Clip SoundPath="pur_play_down_01" />
+      <Clip SoundPath="pur_play_down_02" />
+      <Clip SoundPath="pur_play_down_03" />
+      <Clip SoundPath="pur_play_down_04" />
+    </Sound>
+    <Sound Type="pur_play_up_down_01">
+      <Clip SoundPath="pur_play_up_down_01_01" />
+      <Clip SoundPath="pur_play_up_down_01_02" />
+      <Clip SoundPath="pur_play_up_down_01_03" />
+    </Sound>
+    <!-- Dony -->
+    <Sound Type="dony_level_end_01">
+      <Clip SoundPath="dony_level_end_01" />
+    </Sound>
+    <Sound Type="dony_hello_01">
+      <Clip SoundPath="dony_hello_01" />
+    </Sound>
+    <Sound Type="dony_sleep_begin_01">
+      <Clip SoundPath="dony_nod_01_01" />
+      <Clip SoundPath="dony_nod_01_02" />
+      <Clip SoundPath="dony_nod_01_03" />
+    </Sound>
+    <Sound Type="dony_drink_remind_begin_01">
+      <Clip SoundPath="dony_drink_remind_begin_01" />
+    </Sound>
+    <Sound Type="dony_drink_remind_loop_01">
+      <Clip SoundPath="dony_drink_remind_loop_01" />
+    </Sound>
+    <Sound Type="dony_drink_remind_end_01">
+      <Clip SoundPath="dony_drink_remind_end_01" />
+    </Sound>
+    <Sound Type="dony_friend_search_01">
+      <Clip SoundPath="dony_friend_search_01_01" />
+      <Clip SoundPath="dony_friend_search_01_02" />
+    </Sound>
+    <Sound Type="dony_friend_host_01">
+      <Clip SoundPath="dony_friend_host_01" />
+    </Sound>
+    <Sound Type="dony_friend_guest_01">
+      <Clip SoundPath="dony_friend_guest_01" />
+    </Sound>
+    <Sound Type="dony_friend_guest_out_01">
+      <Clip SoundPath="dony_friend_guest_out_01" />
+    </Sound>
+    <Sound Type="dony_friend_guest_back_01">
+      <Clip SoundPath="dony_friend_guest_back_01" />
+    </Sound>
+    <Sound Type="dony_friend_fail_01">
+      <Clip SoundPath="dony_friend_fail_01" />
+    </Sound>
+    <Sound Type="dony_idle_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="dony_sleep_loop_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="dony_sleep_end_01">
+      <Clip SoundPath="dony_morning_01_01" />
+      <Clip SoundPath="dony_morning_01_02" />
+      <Clip SoundPath="dony_morning_01_03" />
+      <Clip SoundPath="dony_morning_01_04" />
+      <Clip SoundPath="dony_morning_01_05" />
+      <Clip SoundPath="dony_morning_01_06" />
+      <Clip SoundPath="dony_morning_01_07" />
+      <Clip SoundPath="dony_morning_01_08" />
+    </Sound>
+    <Sound Type="dony_play_up_01">
+      <Clip SoundPath="dony_play_up_01_01" />
+      <Clip SoundPath="dony_play_up_01_02" />
+      <Clip SoundPath="dony_play_up_01_03" />
+    </Sound>
+    <Sound Type="dony_play_down_01">
+      <Clip SoundPath="dony_play_down_01_01" />
+      <Clip SoundPath="dony_play_down_01_02" />
+    </Sound>
+    <Sound Type="dony_play_up_down_01">
+      <Clip SoundPath="dony_play_up_down_01_01" />
+      <Clip SoundPath="dony_play_up_down_01_02" />
+      <Clip SoundPath="dony_play_up_down_01_03" />
+    </Sound>
+
+    <!-- Yoyo -->
+    <Sound Type="yoyo_level_end_01">
+      <Clip SoundPath="yoyo_level_end_01" />
+    </Sound>
+    <Sound Type="yoyo_hello_01">
+      <Clip SoundPath="yoyo_hello_01" />
+    </Sound>
+    <Sound Type="yoyo_sleep_begin_01">
+      <Clip SoundPath="yoyo_nod_01_01" />
+      <Clip SoundPath="yoyo_nod_01_02" />
+      <Clip SoundPath="yoyo_nod_01_03" />
+    </Sound>
+    <Sound Type="yoyo_drink_remind_begin_01">
+      <Clip SoundPath="yoyo_drink_remind_begin_01" />
+    </Sound>
+    <Sound Type="yoyo_drink_remind_loop_01">
+      <Clip SoundPath="yoyo_drink_remind_loop_01" />
+    </Sound>
+    <Sound Type="yoyo_drink_remind_end_01">
+      <Clip SoundPath="yoyo_drink_remind_end_01" />
+    </Sound>
+    <Sound Type="yoyo_friend_search_01">
+      <Clip SoundPath="yoyo_friend_search_01_01" />
+      <Clip SoundPath="yoyo_friend_search_01_02" />
+      <Clip SoundPath="yoyo_friend_search_01_03" />
+    </Sound>
+    <Sound Type="yoyo_friend_host_01">
+      <Clip SoundPath="yoyo_friend_host_01" />
+    </Sound>
+    <Sound Type="yoyo_friend_guest_01">
+      <Clip SoundPath="yoyo_friend_guest_01" />
+    </Sound>
+    <Sound Type="yoyo_friend_guest_out_01">
+      <Clip SoundPath="yoyo_friend_guest_out_01" />
+      <Clip SoundPath="yoyo_friend_guest_out_02" />
+    </Sound>
+    <Sound Type="yoyo_friend_guest_back_01">
+      <Clip SoundPath="yoyo_friend_guest_back_01" />
+    </Sound>
+    <Sound Type="yoyo_friend_fail_01">
+      <Clip SoundPath="yoyo_friend_fail_01" />
+    </Sound>
+    <Sound Type="yoyo_idle_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="yoyo_sleep_loop_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="yoyo_sleep_end_01">
+      <Clip SoundPath="yoyo_morning_01_01" />
+      <Clip SoundPath="yoyo_morning_01_02" />
+      <Clip SoundPath="yoyo_morning_01_03" />
+    </Sound>
+    <Sound Type="yoyo_play_up_01">
+      <Clip SoundPath="yoyo_play_up_01_01" />
+      <Clip SoundPath="yoyo_play_up_01_02" />
+    </Sound>
+    <Sound Type="yoyo_play_down_01">
+      <Clip SoundPath="yoyo_play_down_01_01" />
+      <Clip SoundPath="yoyo_play_down_01_02" />
+    </Sound>
+    <Sound Type="yoyo_play_up_down_01">
+      <Clip SoundPath="yoyo_play_up_down_01_01" />
+      <Clip SoundPath="yoyo_play_up_down_01_02" />
+    </Sound>
+    <!-- Nuonuo -->
+    <Sound Type="nuo_level_end_01">
+      <Clip SoundPath="nuo_level_end_01" />
+    </Sound>
+    <Sound Type="nuo_hello_01">
+      <Clip SoundPath="nuo_hello_01" />
+    </Sound>
+    <Sound Type="nuo_sleep_begin_01">
+      <Clip SoundPath="nuo_sleep_begin_01" />
+    </Sound>
+    <Sound Type="nuo_drink_remind_begin_01">
+      <Clip SoundPath="nuo_drink_remind_begin_01" />
+    </Sound>
+    <Sound Type="nuo_drink_remind_loop_01">
+      <Clip SoundPath="nuo_drink_remind_loop_01" />
+    </Sound>
+    <Sound Type="nuo_drink_remind_end_01">
+      <Clip SoundPath="nuo_drink_remind_end_01" />
+    </Sound>
+    <Sound Type="nuo_friend_search_01">
+      <Clip SoundPath="nuo_friend_search_01" />
+    </Sound>
+    <Sound Type="nuo_friend_host_01">
+      <Clip SoundPath="nuo_friend_host_01" />
+    </Sound>
+    <Sound Type="nuo_friend_guest_01">
+      <Clip SoundPath="nuo_friend_guest_01" />
+    </Sound>
+    <Sound Type="nuo_friend_guest_out_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="nuo_friend_guest_back_01">
+      <Clip SoundPath="nuo_friend_guest_back_01" />
+    </Sound>
+    <Sound Type="nuo_friend_fail_01">
+      <Clip SoundPath="nuo_friend_fail_01" />
+    </Sound>
+    <Sound Type="nuo_idle_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="nuo_sleep_loop_01">
+      <Clip SoundPath="" />
+    </Sound>
+    <Sound Type="nuo_sleep_end_01">
+      <Clip SoundPath="nuo_morning_01" />
+    </Sound>
+    <Sound Type="nuo_play_up_01">
+      <Clip SoundPath="nuo_play_up_01" />
+    </Sound>
+    <Sound Type="nuo_play_down_01">
+      <Clip SoundPath="nuo_play_down_01" />
+    </Sound>
+    <Sound Type="nuo_play_up_down_01">
+      <Clip SoundPath="nuo_play_up_down_01" />
+    </Sound>
+
+    <!-- 背景音乐 -->
+    <Sound Type="friend_bgm" Des="好友互动时的背景音乐">
+      <Clip SoundPath="friend_bgm_01" />
+    </Sound>
+
+    <!-- 游戏音效 -->
+    <Sound Type="water_drop_down" Des="水滴下">
+      <Clip SoundPath="water_drop_down_01" />
+    </Sound>
+    <Sound Type="water_raise" Des="水位上升">
+      <Clip SoundPath="water_raise_01" />
+    </Sound>
+    <Sound Type="water_cheat" Des="水未滴下（判定作弊）">
+      <Clip SoundPath="water_cheat_01" />
+    </Sound>
+    <Sound Type="nim_chest_open_NINJI" Des="小忍小生物宝箱">
+      <Clip SoundPath="nim_chest_open_nin_01" />
+      <Clip SoundPath="nim_chest_open_nin_02" />
+      <Clip SoundPath="nim_chest_open_nin_03" />
+      <Clip SoundPath="nim_chest_open_nin_04" />
+      <Clip SoundPath="nim_chest_open_nin_05" />
+      <Clip SoundPath="nim_chest_open_nin_06" />
+    </Sound>
+    <Sound Type="nim_chest_open_SANSA" Des="姗姗小生物宝箱">
+      <Clip SoundPath="nim_chest_open_san_01" />
+      <Clip SoundPath="nim_chest_open_san_02" />
+      <Clip SoundPath="nim_chest_open_san_03" />
+      <Clip SoundPath="nim_chest_open_san_04" />
+      <Clip SoundPath="nim_chest_open_san_05" />
+    </Sound>
+    <Sound Type="nim_chest_open_PURPIE" Des="胖紫小生物宝箱">
+      <Clip SoundPath="nim_chest_open_pur_01" />
+      <Clip SoundPath="nim_chest_open_pur_02" />
+      <Clip SoundPath="nim_chest_open_pur_03" />
+      <Clip SoundPath="nim_chest_open_pur_04" />
+      <Clip SoundPath="nim_chest_open_pur_05" />
+      <Clip SoundPath="nim_chest_open_pur_06" />
+    </Sound>
+    <Sound Type="nim_chest_open_DONNY" Des="逗泥小生物宝箱">
+      <Clip SoundPath="nim_chest_open_dony_01" />
+      <Clip SoundPath="nim_chest_open_dony_02" />
+      <Clip SoundPath="nim_chest_open_dony_03" />
+      <Clip SoundPath="nim_chest_open_dony_04" />
+      <Clip SoundPath="nim_chest_open_dony_05" />
+    </Sound>
+    <Sound Type="nim_chest_open_YOYO" Des="呦呦小生物宝箱">
+      <Clip SoundPath="nim_chest_open_yoyo_01" />
+      <Clip SoundPath="nim_chest_open_yoyo_02" />
+      <Clip SoundPath="nim_chest_open_yoyo_03" />
+      <Clip SoundPath="nim_chest_open_yoyo_04" />
+    </Sound>
+    <Sound Type="nim_chest_open_NUO" Des="喏喏小生物宝箱">
+      <Clip SoundPath="nuo_chest_open_01" />
+      <Clip SoundPath="nuo_chest_open_02" />
+      <Clip SoundPath="nuo_chest_open_03" />
+    </Sound>
+    <Sound Type="nim_chest_get_nim" Des="打开宝箱后获取小生物">
+      <Clip SoundPath="nim_chest_get_nim_01" />
+    </Sound>
+    <Sound Type="daily_goal_progress_init_bgm" Des="初始化dailygoal进度条背景音乐">
+      <Clip SoundPath="daily_goal_progress_init_bgm" />
+    </Sound>
+    <Sound Type="daily_goal_progress_done_bgm" Des="dailygoal100%时的背景音乐">
+      <Clip SoundPath="daily_goal_progress_done_bgm" />
+    </Sound>
+    <Sound Type="daily_goal_crown_jump_in" Des="皇冠跳入到进度条上">
+      <Clip SoundPath="daily_goal_crown_jump_in" />
+    </Sound>
+    <Sound Type="daily_goal_crown_jump_out" Des="皇冠跳入到进度条上">
+      <Clip SoundPath="daily_goal_crown_jump_out" />
+    </Sound>
+    <Sound Type="daily_goal_progress_node_active_1" Des="进度条第1个节点点亮">
+      <Clip SoundPath="daily_goal_progress_node_active_1" />
+    </Sound>
+    <Sound Type="daily_goal_progress_node_active_2" Des="进度条第2个节点点亮">
+      <Clip SoundPath="daily_goal_progress_node_active_2" />
+    </Sound>
+    <Sound Type="daily_goal_progress_node_active_3" Des="进度条第3个节点点亮">
+      <Clip SoundPath="daily_goal_progress_node_active_3" />
+    </Sound>
+    <Sound Type="daily_goal_crown_fly_in_shapeshift" Des="dailygoal节点时皇冠飞入屏幕">
+      <Clip SoundPath="daily_goal_crown_fly_in_shapeshift" />
+    </Sound>
+    <Sound Type="daily_goal_crown_fly_out" Des="dailygoal节点时皇冠飞出屏幕">
+      <Clip SoundPath="daily_goal_crown_fly_out" />
+    </Sound>
+    <Sound Type="daily_goal_claim_award" Des="达成dailygoal30%，60%，100%时，奖励界面中点按钮后显示奖励内容时的配音">
+      <Clip SoundPath="daily_goal_claim_award" />
+    </Sound>
+    <Sound Type="daily_goal_milestone_01_crown_shapeshift" Des="达成日目标30%皇冠变身">
+      <Clip SoundPath="daily_goal_crown_fly_in_shapeshift" />
+    </Sound>
+    <Sound Type="daily_goal_milestone_02_crown_shapeshift" Des="达成日目标60%皇冠变身">
+      <Clip SoundPath="daily_goal_crown_fly_in_shapeshift" />
+    </Sound>
+    <Sound Type="daily_goal_milestone_03_crown_shapeshift" Des="达成日目标100%皇冠变身">
+      <Clip SoundPath="daily_goal_crown_fly_in_shapeshift" />
+    </Sound>
+    <Sound Type="daily_goal_mission_complete_tick" Des="达成dailygoal+关卡完成后的关卡名称牌打钩">
+      <Clip SoundPath="daily_goal_mission_complete_tick" />
+    </Sound>
+    <Sound Type="mission_complete_init" Des="过关初始化，闪烁+文字">
+      <Clip SoundPath="mission_complete_init" />
+    </Sound>
+    <Sound Type="mission_complete_board_fly_in" Des="结算面板飞入屏幕">
+      <Clip SoundPath="mission_complete_board_fly_in" />
+    </Sound>
+    <Sound Type="mission_complete_board_fly_out" Des="结算面板飞出屏幕">
+      <Clip SoundPath="mission_complete_board_fly_in" />
+    </Sound>
+    <Sound Type="mission_complete_bonus" Des="过关奖励提示（每个）">
+      <Clip SoundPath="mission_complete_bonus" />
+    </Sound>
+    <Sound Type="mission_complete_num_counting" Des="经验/宝石数字跳动计数">
+      <Clip SoundPath="mission_complete_num_counting" />
+    </Sound>
+    <Sound Type="mission_complete_bgm" Des="结算背景音乐">
+      <Clip SoundPath="mission_complete_bgm" />
+    </Sound>
+    <Sound Type="mission_locked" Des="进入未解锁的关卡，锁跳动，提示未解锁">
+      <Clip SoundPath="mission_locked" />
+    </Sound>
+    <Sound Type="mission_unlock_action" Des="关卡锁打开">
+      <Clip SoundPath="mission_unlock_action" />
+    </Sound>
+    <Sound Type="mission_unlock_enter_new_mission" Des="解锁后进入新关卡的过度">
+      <Clip SoundPath="mission_unlock_enter_new_mission" />
+    </Sound>
+    <Sound Type="level_up_NINJI" Des="小忍升级">
+      <Clip SoundPath="level_up_nin_01" />
+      <Clip SoundPath="level_up_nin_02" />
+      <Clip SoundPath="level_up_nin_03" />
+    </Sound>
+    <Sound Type="level_up_SANSA" Des="姗姗升级">
+      <Clip SoundPath="level_up_san_01" />
+      <Clip SoundPath="level_up_san_02" />
+      <Clip SoundPath="level_up_san_03" />
+    </Sound>
+    <Sound Type="level_up_PURPIE" Des="胖紫升级">
+      <Clip SoundPath="level_up_pur_01" />
+      <Clip SoundPath="level_up_pur_02" />
+      <Clip SoundPath="level_up_pur_03" />
+    </Sound>
+    <Sound Type="level_up_DONNY" Des="逗泥升级">
+      <Clip SoundPath="level_up_dony_01" />
+      <Clip SoundPath="level_up_dony_02" />
+    </Sound>
+    <Sound Type="level_up_YOYO" Des="哟哟升级">
+      <Clip SoundPath="level_up_yoyo_01" />
+      <Clip SoundPath="level_up_yoyo_02" />
+    </Sound>
+    <Sound Type="level_up_NUO" Des="诺诺升级">
+      <Clip SoundPath="nuo_level_up_01" />
+      <Clip SoundPath="nuo_level_up_02" />
+    </Sound>
+
+
+    <!-- 系统音效 -->
+    <Sound Type="system_charging_start" Des="进入充电状态">
+      <Clip SoundPath="system_charging_start" />
+    </Sound>
+    <Sound Type="system_charging_low_battery_in" Des="低电量救护车进入">
+      <Clip SoundPath="system_charging_low_battery_in" />
+    </Sound>
+    <Sound Type="system_charging_low_battery_out" Des="电量符号缩小到右下角">
+      <Clip SoundPath="system_charging_low_battery_out" />
+    </Sound>
+    <Sound Type="system_button_click" Des="点击按钮">
+      <Clip SoundPath="system_button_click_01" />
+    </Sound>
+    <Sound Type="popup_alarm_sync" Des="闹钟设置已在水杯生效">
+      <Clip SoundPath="popup_alarm_sync" />
+    </Sound>
+    <Sound Type="popup_dailygoal_sync" Des="饮水目标更改已在水杯生效">
+      <Clip SoundPath="popup_dailygoal_sync" />
+    </Sound>
+    <Sound Type="popup_donotdisturb_sync" Des="勿扰模式更改已在水杯生效">
+      <Clip SoundPath="popup_donotdisturb_sync" />
+    </Sound>
+    <Sound Type="popup_newapk_sync" Des="新的APK下载完成，等待升级">
+      <Clip SoundPath="popup_newapk_sync" />
+    </Sound>
+    <Sound Type="popup_no_network" Des="天猫没有网络">
+      <Clip SoundPath="ai_popup_no_network" />
+    </Sound>
+    <Sound Type="popup_no_notauthorized" Des="天猫未授权">
+      <Clip SoundPath="ai_popup_notauthorized" />
+    </Sound>
+
+    <!-- 闹铃 -->
+    <Sound Type="alarm_morning" Des="起床闹铃">
+      <Clip SoundPath="alarm_morning" />
+    </Sound>
+    <Sound Type="alarm_other" Des="其他闹铃">
+      <Clip SoundPath="alarm_other" />
+    </Sound>
+    <Sound Type="alarm_sleep" Des="睡觉闹铃">
+      <Clip SoundPath="alarm_sleep" />
+    </Sound>
+    <Sound Type="alarm_study" Des="学习闹铃">
+      <Clip SoundPath="alarm_study" />
+    </Sound>
+    <!-- 天猫精灵 -->
+    <Sound Type="AI_scene_vad" Des="天猫精灵开始收音的音效">
+      <Clip SoundPath="AI_scene_vad" />
+    </Sound>
+    <Sound Type="ai_popup_not_activated" Des="天猫精灵没配对的音效">
+      <Clip SoundPath="ai_popup_not_activated" />
+    </Sound>
+
+    <!-- 语音提示 -->
+    <Sound Type="pair_start_cn" Des="收到密码，开始配对">
+      <Clip SoundPath="pair_start_cn" />
+    </Sound>
+    <Sound Type="pair_active_success_cn" Des="配对成功">
+      <Clip SoundPath="pair_active_success_cn" />
+    </Sound>
+    <Sound Type="pair_connect_to_cloud_fail_cn" Des="连接服务器失败（后半段失败）">
+      <Clip SoundPath="pair_connect_to_cloud_fail_cn" />
+    </Sound>
+    <Sound Type="pair_connect_to_router_fail_password_cn" Des="连接路由失败（前半段失败，密码错误）">
+      <Clip SoundPath="pair_connect_to_router_fail_password_cn" />
+    </Sound>
+    <Sound Type="pair_connect_to_router_fail_other_cn" Des="连接路由失败（前半段失败，其他错误）">
+      <Clip SoundPath="pair_connect_to_router_fail_other_cn" />
+    </Sound>
+    <Sound Type="pair_syncdata_start_cn" Des="开始同步数据">
+      <Clip SoundPath="pair_syncdata_start_cn" />
+    </Sound>
+    <Sound Type="pair_syncdata_success_cn" Des="数据同步完成">
+      <Clip SoundPath="pair_syncdata_success_cn" />
+    </Sound>
+    <Sound Type="pair_update_wifi_success_cn" Des="更新Wi-Fi成功">
+      <Clip SoundPath="pair_update_wifi_success_cn" />
+    </Sound>
+    <Sound Type="hint_map_lock_cn" Des="地图锁定">
+      <Clip SoundPath="hint_map_lock_cn" />
+    </Sound>
+    <Sound Type="hint_app_download_01_cn" Des="提示下载app">
+      <Clip SoundPath="hint_app_download_01_cn" />
+    </Sound>
+    <Sound Type="hint_app_download_crcode_cn" Des="摇一摇时提示扫描二维码下载app">
+      <Clip SoundPath="hint_app_download_crcode_cn" />
+    </Sound>
+    <Sound Type="guide_id" Des="id页面引导语音">
+      <Clip SoundPath="guide_2_id_1" />
+    </Sound>
+    <Sound Type="guide_system_page" Des="system页面引导语音">
+      <Clip SoundPath="guide_2_systempage_1" />
+    </Sound>
+    <Sound Type="fresh_news" Des="收到新闻">
+      <Clip SoundPath="fresh_news_01" />
+      <Clip SoundPath="fresh_news_02" />
+      <Clip SoundPath="fresh_news_03" />
+      <Clip SoundPath="fresh_news_04" />
+    </Sound>
+    <Sound Type="comming_soon" Des="暂未开放的功能">
+      <Clip SoundPath="navmenu_comingsoon_1" />
+      <Clip SoundPath="navmenu_comingsoon_2" />
+      <Clip SoundPath="navmenu_comingsoon_3" />
+      <!--<Clip SoundPath="navmenu_comingsoon_4" />-->
+    </Sound>
+    <Sound Type="collection_story_tip1" Des="请继续喝水解锁更多的小宠物">
+      <Clip SoundPath="collection_story_tip1" />
+    </Sound>
+    <Sound Type="collection_story_tip2" Des="更多资源(小宠物故事)正在制作中">
+      <Clip SoundPath="collection_story_tip2" />
+    </Sound>
+    <Sound Type="dony_eat_act_loop" Des="DONNY吃食物的音效">
+      <Clip SoundPath="dony_eat_act_loop"/>
+    </Sound>
+    <Sound Type="DONNY_eat_act_loop_after" Des="DONNY吃完食物之后播放的随机音效">
+      <Clip SoundPath="dony_eat_act_01"/>
+      <Clip SoundPath="dony_eat_act_02"/>
+      <Clip SoundPath="dony_eat_act_03"/>
+    </Sound>
+    <Sound Type="dony_eat_full_loop" Des="DONNY吃饱了的音效">
+      <Clip SoundPath="dony_eat_full_loop"/>
+    </Sound>
+    <Sound Type="dony_eat_satisfaction" Des="DONNY吃满意的音效">
+      <Clip SoundPath="dony_eat_satisfaction"/>
+    </Sound>
+    <Sound Type="ninji_eat_act_loop" Des="NINJI吃食物的音效">
+      <Clip SoundPath="ninji_eat_act_loop"/>
+    </Sound>
+    <Sound Type="NINJI_eat_act_loop_after" Des="MINJI吃完食物之后播放的随机音效">
+      <Clip SoundPath="ninji_eat_act_01"/>
+      <Clip SoundPath="ninji_eat_act_02"/>
+      <Clip SoundPath="ninji_eat_act_03"/>
+    </Sound>
+    <Sound Type="ninji_eat_full_loop" Des="NINJI吃饱了的音效">
+      <Clip SoundPath="ninji_eat_full_loop"/>
+    </Sound>
+    <Sound Type="ninji_eat_satisfaction" Des="NINJI吃满意的音效">
+      <Clip SoundPath="ninji_eat_satisfaction"/>
+    </Sound>
+    <Sound Type="sansa_eat_act_loop" Des="SANSA吃食物的音效">
+      <Clip SoundPath="sansa_eat_act_loop"/>
+    </Sound>
+    <Sound Type="SANSA_eat_act_loop_after" Des="SANSA吃完食物之后播放的随机音效">
+      <Clip SoundPath="sansa_eat_act_01"/>
+      <Clip SoundPath="sansa_eat_act_02"/>
+      <Clip SoundPath="sansa_eat_act_03"/>
+    </Sound>
+    <Sound Type="sansa_eat_full_loop" Des="SANSA吃饱了的音效">
+      <Clip SoundPath="sansa_eat_full_loop"/>
+    </Sound>
+    <Sound Type="sansa_eat_satisfaction" Des="SANSA吃满意的音效">
+      <Clip SoundPath="sansa_eat_satisfaction"/>
+    </Sound>
+    <Sound Type="yoyo_eat_act_loop" Des="YOYO吃食物的音效">
+      <Clip SoundPath="yoyo_eat_act_loop"/>
+    </Sound>
+    <Sound Type="YOYO_eat_act_loop_after" Des="YOYO吃完食物之后播放的随机音效">
+      <Clip SoundPath="yoyo_eat_act_01"/>
+      <Clip SoundPath="yoyo_eat_act_02"/>
+      <Clip SoundPath="yoyo_eat_act_03"/>
+    </Sound>
+    <Sound Type="yoyo_eat_full_loop" Des="YOYO吃饱了的音效">
+      <Clip SoundPath="yoyo_eat_full_loop"/>
+    </Sound>
+    <Sound Type="yoyo_eat_satisfaction" Des="YOYO吃满意的音效">
+      <Clip SoundPath="yoyo_eat_satisfaction"/>
+    </Sound>
+    <Sound Type="nuo_eat_act_loop" Des="NUO吃食物的音效">
+      <Clip SoundPath="nuo_eat_act_loop"/>
+    </Sound>
+    <Sound Type="NUO_eat_act_loop_after" Des="NUO吃完食物之后播放的随机音效">
+      <Clip SoundPath="nuo_eat_act_01"/>
+      <Clip SoundPath="nuo_eat_act_02"/>
+      <Clip SoundPath="nuo_eat_act_03"/>
+    </Sound>
+    <Sound Type="nuo_eat_full_loop" Des="NUO吃饱了的音效">
+      <Clip SoundPath="nuo_eat_full_loop"/>
+    </Sound>
+    <Sound Type="nuo_eat_satisfaction" Des="NUO吃满意的音效">
+      <Clip SoundPath="nuo_eat_satisfaction"/>
+    </Sound>
+    <Sound Type="pur_eat_act_loop" Des="PUR吃食物的音效">
+      <Clip SoundPath="pur_eat_act_loop"/>
+    </Sound>
+    <Sound Type="PURPIE_eat_act_loop_after" Des="PUR吃完食物之后播放的随机音效">
+      <Clip SoundPath="pur_eat_act_01"/>
+      <Clip SoundPath="pur_eat_act_02"/>
+      <Clip SoundPath="pur_eat_act_03"/>
+    </Sound>
+    <Sound Type="pur_eat_full_loop" Des="PUR吃饱了的音效">
+      <Clip SoundPath="pur_eat_full_loop"/>
+    </Sound>
+    <Sound Type="pur_eat_satisfaction" Des="PUR吃满意的音效">
+      <Clip SoundPath="pur_eat_satisfaction"/>
+    </Sound>
+    <Sound Type="gain_coin" Des="喝水或其他途径获得金币时的音效">
+      <Clip SoundPath="gain_coin"/>
+    </Sound>    
+    <Sound Type="popup_download" Des="开始下载资源文件时的音效">
+      <Clip SoundPath="popup_download"/>
+    </Sound>
+    <Sound Type="popup_download_cancel" Des="确认是否退出下载时的音效">
+      <Clip SoundPath="popup_download_cancel"/>
+    </Sound>
+    <Sound Type="download_popup_no_network" Des="下载过程中断网时的音效">
+      <Clip SoundPath="popup_no_network"/>
+    </Sound>
+    <Sound Type="first_enter_feed_scene" Des="第一次进入喂食场景">
+      <Clip SoundPath="popup_feed_welcome"/>
+    </Sound>
+    <Sound Type="welcome_enter_feed_scene" Des="每次进入喂食场景">
+      <Clip SoundPath="feed_welcome_001"/>
+      <Clip SoundPath="feed_welcome_002"/>
+      <Clip SoundPath="feed_welcome_003"/>
+      <Clip SoundPath="feed_welcome_004"/>
+      <Clip SoundPath="feed_welcome_005"/>
+    </Sound>
+    <Sound Type="no_coin" Des="金币不足">
+      <Clip SoundPath="popup_no_coin_001"/>
+      <Clip SoundPath="popup_no_coin_002"/>
+      <Clip SoundPath="popup_no_coin_003"/>
+    </Sound>
+    <Sound Type="moon_festival" Des="中秋节欢迎音频">
+      <Clip SoundPath="feed_welcome_moonfestival01"/>
+      <Clip SoundPath="feed_welcome_moonfestival02"/>
+      <Clip SoundPath="feed_welcome_moonfestival03"/>
+      <Clip SoundPath="feed_welcome_moonfestival04"/>
+      <Clip SoundPath="feed_welcome_moonfestival05"/>
+    </Sound>
+    <Sound Type="pet_hungry_tips" Des="宠物饥饿提醒">
+      <Clip SoundPath="feed_hungry_alert_001"/>
+      <Clip SoundPath="feed_hungry_alert_002"/>
+      <Clip SoundPath="feed_hungry_alert_003"/>
+    </Sound>
+
+    <!-- 新手引导 
+    <Sound Type="guide_1_welcome_1.1" Des="新手引导1.1-欢迎进入">
+      <Clip SoundPath="guide_1_welcome_1.1" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.1.1" Des="新手引导1.1.1-主按键引导">
+      <Clip SoundPath="guide_1_welcome_1.1.1" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_2_qrcode_2.1.1" Des="新手引导2.1.1-引导下载App">
+      <Clip SoundPath="guide_2_qrcode_2.1.1" />
+    </Sound>
+    <Sound Type="guide_2_qrcode_2.1.2" Des="新手引导2.1.2-引导按键跳过">
+      <Clip SoundPath="guide_2_qrcode_2.1.2" />
+    </Sound>
+    <Sound Type="guide_2_qrcode_2.2" Des="新手引导2.2-引导进入配对">
+      <Clip SoundPath="guide_2_qrcode_2.2" />
+    </Sound>
+    <Sound Type="guide_3_qrcode_3" Des="新手引导3-放弃配对提示">
+      <Clip SoundPath="guide_3_qrcode_3" />
+    </Sound>
+    <Sound Type="guide_4_washbottle_4.1.1" Des="新手引导4.1.1-引导洗杯子">
+      <Clip SoundPath="guide_4_washbottle_4.1.1" />
+    </Sound>
+    <Sound Type="guide_4_washbottle_4.1.2" Des="新手引导4.1.2-装水后继续">
+      <Clip SoundPath="guide_4_washbottle_4.1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    <Sound Type="guide_1_welcome_1.2" Des="新手引导1.2-片头后引导主按键">
+      <Clip SoundPath="guide_1_welcome_1.2" />
+    </Sound>
+    -->
+  </Sounds>
+</Project>
