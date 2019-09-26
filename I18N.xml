@@ -17,10 +17,12 @@
       <Text Key="Feed_Sold_Out" Value="已下架|HKHB" />
       <Text Key="Feed_No_Coin" Value="金币不足|HKHB" />
       <Text Key="退出下载" Value="退出下载|HKHB" />
-      
+      <Text Key="关卡进度" Value="关卡进度|HKHB" />
+
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
       <Image Key="Feed_Prescribe" Value="Texture/PetFeed/limited_CHS" />
+      <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_CHS" />
 
       <!--动画配置-->
       <Animation Key="CommingSoon" Value="CommingSoon_CHS" />
@@ -89,14 +91,47 @@
       <Audio Key="popup_no_coin_001" Value="CHS/popup_no_coin_001" />
       <Audio Key="popup_no_coin_002" Value="CHS/popup_no_coin_002" />
       <Audio Key="popup_no_coin_003" Value="CHS/popup_no_coin_003" />
+      <Audio Key="feed_hungry_alert_001" Value="CHS/feed_hungry_alert_001" />
+      <Audio Key="feed_hungry_alert_002" Value="CHS/feed_hungry_alert_002" />
+      <Audio Key="feed_hungry_alert_003" Value="CHS/feed_hungry_alert_003" />
       <Audio Key="feed_welcome_moonfestival01" Value="CHS/feed_welcome_moonfestival01" />
       <Audio Key="feed_welcome_moonfestival02" Value="CHS/feed_welcome_moonfestival02" />
       <Audio Key="feed_welcome_moonfestival03" Value="CHS/feed_welcome_moonfestival03" />
       <Audio Key="feed_welcome_moonfestival04" Value="CHS/feed_welcome_moonfestival04" />
       <Audio Key="feed_welcome_moonfestival05" Value="CHS/feed_welcome_moonfestival05" />
-      <Audio Key="feed_hungry_alert_001" Value="CHS/feed_hungry_alert_001" />
-      <Audio Key="feed_hungry_alert_002" Value="CHS/feed_hungry_alert_002" />
-      <Audio Key="feed_hungry_alert_003" Value="CHS/feed_hungry_alert_003" />
+      <Audio Key="dony_eat_act_01" Value="CHS/dony_eat_act_01" />
+      <Audio Key="dony_eat_act_02" Value="CHS/dony_eat_act_02" />
+      <Audio Key="dony_eat_act_03" Value="CHS/dony_eat_act_03" />
+      <Audio Key="sansa_eat_act_01" Value="CHS/sansa_eat_act_01" />
+      <Audio Key="sansa_eat_act_02" Value="CHS/sansa_eat_act_02" />
+      <Audio Key="sansa_eat_act_03" Value="CHS/sansa_eat_act_03" />
+      <Audio Key="yoyo_eat_act_01" Value="CHS/yoyo_eat_act_01" />
+      <Audio Key="yoyo_eat_act_02" Value="CHS/yoyo_eat_act_02" />
+      <Audio Key="yoyo_eat_act_03" Value="CHS/yoyo_eat_act_03" />
+      <Audio Key="purpie_eat_act_01" Value="CHS/purpie_eat_act_01" />
+      <Audio Key="purpie_eat_act_02" Value="CHS/purpie_eat_act_02" />
+      <Audio Key="purpie_eat_act_03" Value="CHS/purpie_eat_act_03" />
+      <Audio Key="ninji_eat_act_01" Value="CHS/ninji_eat_act_01" />
+      <Audio Key="ninji_eat_act_02" Value="CHS/ninji_eat_act_02" />
+      <Audio Key="ninji_eat_act_03" Value="CHS/ninji_eat_act_03" />
+      <Audio Key="nuo_eat_act_01" Value="CHS/nuo_eat_act_01" />
+      <Audio Key="nuo_eat_act_02" Value="CHS/nuo_eat_act_02" />
+      <Audio Key="nuo_eat_act_03" Value="CHS/nuo_eat_act_03" />
+      <Audio Key="feed_welcome_china_001" Value="CHS/feed_welcome_china_001" />
+      <Audio Key="feed_welcome_china_002" Value="CHS/feed_welcome_china_002" />
+      <Audio Key="feed_welcome_china_003" Value="CHS/feed_welcome_china_003" />
+      <Audio Key="feed_welcome_china_004" Value="CHS/feed_welcome_china_004" />
+      <Audio Key="feed_welcome_china_005" Value="CHS/feed_welcome_china_005" />
+      <Audio Key="goods_soldout" Value="CHS/goods_soldout" />
+      <Audio Key="galaxy_welcome_new" Value="CHS/galaxy_welcome_new" />
+      <Audio Key="galaxy_new_world_welcome_001" Value="CHS/galaxy_new_world_welcome_001" />
+      <Audio Key="galaxy_new_world_welcome_002" Value="CHS/galaxy_new_world_welcome_002" />
+      <Audio Key="galaxy_welcome_001" Value="CHS/galaxy_welcome_001" />
+      <Audio Key="galaxy_welcome_002" Value="CHS/galaxy_welcome_002" />
+      <Audio Key="galaxy_welcome_003" Value="CHS/galaxy_welcome_003" />
+      <Audio Key="galaxy_welcome_004" Value="CHS/galaxy_welcome_004" />
+      <Audio Key="galaxy_welcome_005" Value="CHS/galaxy_welcome_005" />
+      <Audio Key="mission_complete_retry" Value="CHS/mission_complete_retry" />
     </ResConfig>
 
     <ResConfig Language="CHT" Des="中文繁体">
@@ -113,10 +148,12 @@
       <Text Key="Feed_Sold_Out" Value="已下架|DFPT" />
       <Text Key="Feed_No_Coin" Value="金幣不足|DFPT" />
       <Text Key="退出下载" Value="退出下載|DFPT" />
+      <Text Key="关卡进度" Value="關卡進度|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
       <Image Key="Feed_Prescribe" Value="Texture/PetFeed/limited_CHT" />
+      <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_CHT" />
 
       <!--动画配置-->
       <Animation Key="CommingSoon" Value="CommingSoon_CHT" />
@@ -185,14 +222,47 @@
       <Audio Key="popup_no_coin_001" Value="CHS/popup_no_coin_001" />
       <Audio Key="popup_no_coin_002" Value="CHS/popup_no_coin_002" />
       <Audio Key="popup_no_coin_003" Value="CHS/popup_no_coin_003" />
+      <Audio Key="feed_hungry_alert_001" Value="CHS/feed_hungry_alert_001" />
+      <Audio Key="feed_hungry_alert_002" Value="CHS/feed_hungry_alert_002" />
+      <Audio Key="feed_hungry_alert_003" Value="CHS/feed_hungry_alert_003" />
       <Audio Key="feed_welcome_moonfestival01" Value="CHS/feed_welcome_moonfestival01" />
       <Audio Key="feed_welcome_moonfestival02" Value="CHS/feed_welcome_moonfestival02" />
       <Audio Key="feed_welcome_moonfestival03" Value="CHS/feed_welcome_moonfestival03" />
       <Audio Key="feed_welcome_moonfestival04" Value="CHS/feed_welcome_moonfestival04" />
       <Audio Key="feed_welcome_moonfestival05" Value="CHS/feed_welcome_moonfestival05" />
-      <Audio Key="feed_hungry_alert_001" Value="CHS/feed_hungry_alert_001" />
-      <Audio Key="feed_hungry_alert_002" Value="CHS/feed_hungry_alert_002" />
-      <Audio Key="feed_hungry_alert_003" Value="CHS/feed_hungry_alert_003" />
+      <Audio Key="dony_eat_act_01" Value="CHS/dony_eat_act_01" />
+      <Audio Key="dony_eat_act_02" Value="CHS/dony_eat_act_02" />
+      <Audio Key="dony_eat_act_03" Value="CHS/dony_eat_act_03" />
+      <Audio Key="sansa_eat_act_01" Value="CHS/sansa_eat_act_01" />
+      <Audio Key="sansa_eat_act_02" Value="CHS/sansa_eat_act_02" />
+      <Audio Key="sansa_eat_act_03" Value="CHS/sansa_eat_act_03" />
+      <Audio Key="yoyo_eat_act_01" Value="CHS/yoyo_eat_act_01" />
+      <Audio Key="yoyo_eat_act_02" Value="CHS/yoyo_eat_act_02" />
+      <Audio Key="yoyo_eat_act_03" Value="CHS/yoyo_eat_act_03" />
+      <Audio Key="purpie_eat_act_01" Value="CHS/purpie_eat_act_01" />
+      <Audio Key="purpie_eat_act_02" Value="CHS/purpie_eat_act_02" />
+      <Audio Key="purpie_eat_act_03" Value="CHS/purpie_eat_act_03" />
+      <Audio Key="ninji_eat_act_01" Value="CHS/ninji_eat_act_01" />
+      <Audio Key="ninji_eat_act_02" Value="CHS/ninji_eat_act_02" />
+      <Audio Key="ninji_eat_act_03" Value="CHS/ninji_eat_act_03" />
+      <Audio Key="nuo_eat_act_01" Value="CHS/nuo_eat_act_01" />
+      <Audio Key="nuo_eat_act_02" Value="CHS/nuo_eat_act_02" />
+      <Audio Key="nuo_eat_act_03" Value="CHS/nuo_eat_act_03" />
+      <Audio Key="feed_welcome_china_001" Value="CHS/feed_welcome_china_001" />
+      <Audio Key="feed_welcome_china_002" Value="CHS/feed_welcome_china_002" />
+      <Audio Key="feed_welcome_china_003" Value="CHS/feed_welcome_china_003" />
+      <Audio Key="feed_welcome_china_004" Value="CHS/feed_welcome_china_004" />
+      <Audio Key="feed_welcome_china_005" Value="CHS/feed_welcome_china_005" />
+      <Audio Key="goods_soldout" Value="CHS/goods_soldout" />
+      <Audio Key="galaxy_welcome_new" Value="CHS/galaxy_welcome_new" />
+      <Audio Key="galaxy_new_world_welcome_001" Value="CHS/galaxy_new_world_welcome_001" />
+      <Audio Key="galaxy_new_world_welcome_002" Value="CHS/galaxy_new_world_welcome_002" />
+      <Audio Key="galaxy_welcome_001" Value="CHS/galaxy_welcome_001" />
+      <Audio Key="galaxy_welcome_002" Value="CHS/galaxy_welcome_002" />
+      <Audio Key="galaxy_welcome_003" Value="CHS/galaxy_welcome_003" />
+      <Audio Key="galaxy_welcome_004" Value="CHS/galaxy_welcome_004" />
+      <Audio Key="galaxy_welcome_005" Value="CHS/galaxy_welcome_005" />
+      <Audio Key="mission_complete_retry" Value="CHS/mission_complete_retry" />
     </ResConfig>
 
     <ResConfig Language="EN" DES="英文">
@@ -209,10 +279,12 @@
       <Text Key="Feed_Sold_Out" Value="Sold Out|DFPT" />
       <Text Key="Feed_No_Coin" Value="Not enough coins|DFPT" />
       <Text Key="退出下载" Value="Abort download|DFPT" />
+      <Text Key="关卡进度" Value="Progress|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
       <Image Key="Feed_Prescribe" Value="Texture/PetFeed/limited_EN" />
+      <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_EN" />
 
       <!--动画配置-->
       <Animation Key="CommingSoon" Value="CommingSoon_EN" />
@@ -281,14 +353,47 @@
       <Audio Key="popup_no_coin_001" Value="EN/popup_no_coin_001" />
       <Audio Key="popup_no_coin_002" Value="EN/popup_no_coin_002" />
       <Audio Key="popup_no_coin_003" Value="EN/popup_no_coin_003" />
+      <Audio Key="feed_hungry_alert_001" Value="EN/feed_hungry_alert_001" />
+      <Audio Key="feed_hungry_alert_002" Value="EN/feed_hungry_alert_002" />
+      <Audio Key="feed_hungry_alert_003" Value="EN/feed_hungry_alert_003" />
       <Audio Key="feed_welcome_moonfestival01" Value="EN/feed_welcome_moonfestival01" />
       <Audio Key="feed_welcome_moonfestival02" Value="EN/feed_welcome_moonfestival02" />
       <Audio Key="feed_welcome_moonfestival03" Value="EN/feed_welcome_moonfestival03" />
       <Audio Key="feed_welcome_moonfestival04" Value="EN/feed_welcome_moonfestival04" />
       <Audio Key="feed_welcome_moonfestival05" Value="EN/feed_welcome_moonfestival05" />
-      <Audio Key="feed_hungry_alert_001" Value="EN/feed_hungry_alert_001" />
-      <Audio Key="feed_hungry_alert_002" Value="EN/feed_hungry_alert_002" />
-      <Audio Key="feed_hungry_alert_003" Value="EN/feed_hungry_alert_003" />
+      <Audio Key="dony_eat_act_01" Value="EN/dony_eat_act_01" />
+      <Audio Key="dony_eat_act_02" Value="EN/dony_eat_act_02" />
+      <Audio Key="dony_eat_act_03" Value="EN/dony_eat_act_03" />
+      <Audio Key="sansa_eat_act_01" Value="EN/sansa_eat_act_01" />
+      <Audio Key="sansa_eat_act_02" Value="EN/sansa_eat_act_02" />
+      <Audio Key="sansa_eat_act_03" Value="EN/sansa_eat_act_03" />
+      <Audio Key="yoyo_eat_act_01" Value="EN/yoyo_eat_act_01" />
+      <Audio Key="yoyo_eat_act_02" Value="EN/yoyo_eat_act_02" />
+      <Audio Key="yoyo_eat_act_03" Value="EN/yoyo_eat_act_03" />
+      <Audio Key="purpie_eat_act_01" Value="EN/purpie_eat_act_01" />
+      <Audio Key="purpie_eat_act_02" Value="EN/purpie_eat_act_02" />
+      <Audio Key="purpie_eat_act_03" Value="EN/purpie_eat_act_03" />
+      <Audio Key="ninji_eat_act_01" Value="EN/ninji_eat_act_01" />
+      <Audio Key="ninji_eat_act_02" Value="EN/ninji_eat_act_02" />
+      <Audio Key="ninji_eat_act_03" Value="EN/ninji_eat_act_03" />
+      <Audio Key="nuo_eat_act_01" Value="EN/nuo_eat_act_01" />
+      <Audio Key="nuo_eat_act_02" Value="EN/nuo_eat_act_02" />
+      <Audio Key="nuo_eat_act_03" Value="EN/nuo_eat_act_03" />
+      <Audio Key="feed_welcome_china_001" Value="EN/feed_welcome_china_001" />
+      <Audio Key="feed_welcome_china_002" Value="EN/feed_welcome_china_002" />
+      <Audio Key="feed_welcome_china_003" Value="EN/feed_welcome_china_003" />
+      <Audio Key="feed_welcome_china_004" Value="EN/feed_welcome_china_004" />
+      <Audio Key="feed_welcome_china_005" Value="EN/feed_welcome_china_005" />
+      <Audio Key="goods_soldout" Value="EN/goods_soldout" />
+      <Audio Key="galaxy_welcome_new" Value="EN/galaxy_welcome_new" />
+      <Audio Key="galaxy_new_world_welcome_001" Value="EN/galaxy_new_world_welcome_001" />
+      <Audio Key="galaxy_new_world_welcome_002" Value="EN/galaxy_new_world_welcome_002" />
+      <Audio Key="galaxy_welcome_001" Value="EN/galaxy_welcome_001" />
+      <Audio Key="galaxy_welcome_002" Value="EN/galaxy_welcome_002" />
+      <Audio Key="galaxy_welcome_003" Value="EN/galaxy_welcome_003" />
+      <Audio Key="galaxy_welcome_004" Value="EN/galaxy_welcome_004" />
+      <Audio Key="galaxy_welcome_005" Value="EN/galaxy_welcome_005" />
+      <Audio Key="mission_complete_retry" Value="EN/mission_complete_retry" />
     </ResConfig>
   </ResConfigs>
 </Project>

@@ -286,4 +286,92 @@
     <HighLightIcon>taro001</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
 </PropertyItem>
+    <PropertyItem>
+    <Number>14</Number>
+    <Id>69004</Id>
+    <Type>6</Type>
+    <Name>flagjuice</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-9-27 00:00:00</StartTime>
+    <EndTime>2019-10-26 23:59:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_flagjuice_small</DefaultIcon>
+    <HighLightIcon>food_flagjuice</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:3</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>15</Number>
+    <Id>69005</Id>
+    <Type>6</Type>
+    <Name>bombmuffin</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+        <StartTime>2019-9-27 00:00:00</StartTime>
+        <EndTime>2019-10-26 23:59:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_bombmuffin_small</DefaultIcon>
+    <HighLightIcon>food_bombmuffin</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:4</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>16</Number>
+    <Id>69006</Id>
+    <Type>6</Type>
+    <Name>nestcake</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+        <StartTime>2019-9-27 00:00:00</StartTime>
+        <EndTime>2019-10-26 23:59:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_nestcake_small</DefaultIcon>
+    <HighLightIcon>food_nestcake</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:5</ReactionAnim>
+</PropertyItem>
+    <PropertyItem>
+    <Number>17</Number>
+    <Id>69007</Id>
+    <Type>6</Type>
+    <Name>rocketcookie</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+        <StartTime>2019-9-27 00:00:00</StartTime>
+        <EndTime>2019-10-26 23:59:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_rocketcookie_small</DefaultIcon>
+    <HighLightIcon>food_rocketcookie</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:6</ReactionAnim>
+</PropertyItem>
 </Properties>

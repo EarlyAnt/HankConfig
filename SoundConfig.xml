@@ -753,9 +753,9 @@
       <Clip SoundPath="pur_eat_act_loop"/>
     </Sound>
     <Sound Type="PURPIE_eat_act_loop_after" Des="PUR吃完食物之后播放的随机音效">
-      <Clip SoundPath="pur_eat_act_01"/>
-      <Clip SoundPath="pur_eat_act_02"/>
-      <Clip SoundPath="pur_eat_act_03"/>
+      <Clip SoundPath="purpie_eat_act_01"/>
+      <Clip SoundPath="purpie_eat_act_02"/>
+      <Clip SoundPath="purpie_eat_act_03"/>
     </Sound>
     <Sound Type="pur_eat_full_loop" Des="PUR吃饱了的音效">
       <Clip SoundPath="pur_eat_full_loop"/>
@@ -790,17 +790,47 @@
       <Clip SoundPath="popup_no_coin_002"/>
       <Clip SoundPath="popup_no_coin_003"/>
     </Sound>
-    <Sound Type="moon_festival" Des="中秋节欢迎音频">
-      <Clip SoundPath="feed_welcome_moonfestival01"/>
-      <Clip SoundPath="feed_welcome_moonfestival02"/>
-      <Clip SoundPath="feed_welcome_moonfestival03"/>
-      <Clip SoundPath="feed_welcome_moonfestival04"/>
-      <Clip SoundPath="feed_welcome_moonfestival05"/>
+    <Sound Type="moon_moonfestival" Des="中秋节欢迎音频">
+      <Clip SoundPath="feed_welcome_moonfestival_01"/>
+      <Clip SoundPath="feed_welcome_moonfestival_02"/>
+      <Clip SoundPath="feed_welcome_moonfestival_03"/>
+      <Clip SoundPath="feed_welcome_moonfestival_04"/>
+      <Clip SoundPath="feed_welcome_moonfestival_05"/>
     </Sound>
     <Sound Type="pet_hungry_tips" Des="宠物饥饿提醒">
       <Clip SoundPath="feed_hungry_alert_001"/>
       <Clip SoundPath="feed_hungry_alert_002"/>
       <Clip SoundPath="feed_hungry_alert_003"/>
+    </Sound>
+    <Sound Type="welcome_nationalday" Des="国庆节欢迎音频">
+      <Clip SoundPath="feed_welcome_china_001"/>
+      <Clip SoundPath="feed_welcome_china_002"/>
+      <Clip SoundPath="feed_welcome_china_003"/>
+      <Clip SoundPath="feed_welcome_china_004"/>
+      <Clip SoundPath="feed_welcome_china_005"/>
+    </Sound>
+    <Sound Type="sale_out" Des="已下架提示音效">
+      <Clip SoundPath="goods_soldout" />
+    </Sound>
+    <Sound Type="galaxy_welcome_new" Des="世界地图页首次进入欢迎音效">
+      <Clip SoundPath="galaxy_welcome_new"/>
+    </Sound>
+    <Sound Type="galaxy_welcome" Des="世界地图页非首次进入欢迎音效">
+      <Clip SoundPath="galaxy_welcome_001"/>
+      <Clip SoundPath="galaxy_welcome_002"/>
+      <Clip SoundPath="galaxy_welcome_003"/>
+      <Clip SoundPath="galaxy_welcome_004"/>
+      <Clip SoundPath="galaxy_welcome_005"/>
+    </Sound>
+    <Sound Type="world_scene_BGM" Des="世界地图背景音乐">
+      <Clip SoundPath="world_scene_BGM"/>
+    </Sound>
+    <Sound Type="galaxy_new_world_welcome" Des="世界地图页单击弹出确认页面时的提示音">
+      <Clip SoundPath="galaxy_new_world_welcome_001"/>
+      <Clip SoundPath="galaxy_new_world_welcome_002"/>
+    </Sound>
+    <Sound Type="mission_complete_retry" Des="完成副本星球的所有关卡重新回到第1关时的提示音">
+      <Clip SoundPath="mission_complete_retry"/>
     </Sound>
 
     <!-- 新手引导 

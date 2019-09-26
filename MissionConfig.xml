@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
-  <World Name="Ima星球" ID="10000" Title="title_ima" Photo="planet_ima" Preview="preview_ima" Unlock="NONE">
+  <World Name="Ima星球" ID="10000" Type="1" Title="title_ima" Photo="planet_ima" Preview="preview_ima" Unlock="NONE" SleepBackgournd="home_good night">
     <Scene Name="原始海洋" Index="0" TitleBg="Title_Bg_0101" TitleColor="0.435,1,0.969">
       <Mission Id="11001" Name="MissionName11001" Background="Home_Backgrond_ocean brim (1)" Model="11001" NimIcon="atom_icon0022" QuestId="20001" dailyGoalPercent="0.33" AwardCoin="32">
         <TreasureBox BoxId="10001" Height="3" />
@@ -300,28 +300,26 @@
         <TreasureBox BoxId="10145" Height="3" />
         <TreasureBox BoxId="10146" Height="8" />
       </Mission>
-      <Mission Id="20000" Name="MissionName13021" Background="home_good night" Model="13021" NimIcon="atom_icon0127" QuestId="20063" dailyGoalPercent="1" AwardCoin="0">
-        <TreasureBox BoxId="10125" Height="3" />
-        <TreasureBox BoxId="10126" Height="8" />
-      </Mission>
     </Scene>
   </World>
-  <World Name="地球" ID="90000" Title="title_earth" Photo="planet_earth" Preview="preview_earth" Unlock="Date|2019-9-30">
-    <Mission Id="91001" Name="MissionName91001" Background="" Model="91001" NimIcon="" QuestId="20074" dailyGoalPercent="0.5" AwardCoin="50">
-      <TreasureBox BoxId="19001" Height="3" />
-      <TreasureBox BoxId="19002" Height="8" />
-    </Mission>
-    <Mission Id="91002" Name="MissionName91002" Background="" Model="91002" NimIcon="" QuestId="20075" dailyGoalPercent="0.5" AwardCoin="50">
-      <TreasureBox BoxId="19003" Height="3" />
-      <TreasureBox BoxId="19004" Height="8" />
-    </Mission>
-    <Mission Id="91003" Name="MissionName91003" Background="" Model="91003" NimIcon="" QuestId="20076" dailyGoalPercent="0.5" AwardCoin="50">
-      <TreasureBox BoxId="19005" Height="3" />
-      <TreasureBox BoxId="19006" Height="8" />
-    </Mission>
-    <Mission Id="91004" Name="MissionName91004" Background="" Model="91004" NimIcon="" QuestId="20077" dailyGoalPercent="0.5" AwardCoin="50">
-      <TreasureBox BoxId="19007" Height="3" />
-      <TreasureBox BoxId="19008" Height="8" />
-    </Mission>
+  <World Name="地球" ID="90000" Type="9" Title="title_earth" Photo="planet_earth" Preview="preview_earth" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
+    <Scene Name="中华美食街" Index="0" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
+      <Mission Id="91001" Name="MissionName91001" Background="Home_Backgrond_nationalday_01" Model="91001" NimIcon="" QuestId="20074" dailyGoalPercent="0.5" AwardCoin="50">
+        <TreasureBox BoxId="91001" Height="3" />
+        <TreasureBox BoxId="91002" Height="8" />
+      </Mission>
+      <Mission Id="91002" Name="MissionName91002" Background="Home_Backgrond_nationalday_02" Model="91001" NimIcon="" QuestId="20075" dailyGoalPercent="0.5" AwardCoin="50">
+        <TreasureBox BoxId="91003" Height="3" />
+        <TreasureBox BoxId="91004" Height="8" />
+      </Mission>
+      <Mission Id="91003" Name="MissionName91003" Background="Home_Backgrond_nationalday_03" Model="91001" NimIcon="" QuestId="20076" dailyGoalPercent="0.5" AwardCoin="50">
+        <TreasureBox BoxId="91005" Height="3" />
+        <TreasureBox BoxId="91006" Height="8" />
+      </Mission>
+      <Mission Id="91004" Name="MissionName91004" Background="Home_Backgrond_nationalday_04" Model="91001" NimIcon="" QuestId="20077" dailyGoalPercent="0.5" AwardCoin="50">
+        <TreasureBox BoxId="91007" Height="3" />
+        <TreasureBox BoxId="91008" Height="8" />
+      </Mission>
+    </Scene>
   </World>
 </Project>
