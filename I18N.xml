@@ -82,6 +82,17 @@
       <Audio Key="popup_download" Value="CHS/popup_download" />
       <Audio Key="popup_download_cancel" Value="CHS/popup_download_cancel" />
       <Audio Key="popup_no_network" Value="CHS/popup_no_network" />
+      <Audio Key="guide_homepage_001" Value="CHS/guide_homepage_001" />
+      <Audio Key="guide_homepage_002" Value="CHS/guide_homepage_002" />
+      <Audio Key="guide_homepage_003" Value="CHS/guide_homepage_003" />
+      <Audio Key="guide_homepage_004" Value="CHS/guide_homepage_004" />
+      <Audio Key="guide_homepage_005" Value="CHS/guide_homepage_005" />
+      <Audio Key="guide_homepage_006" Value="CHS/guide_homepage_006" />
+      <Audio Key="guide_homepage_007" Value="CHS/guide_homepage_007" />
+      <Audio Key="guide_homepage_008" Value="CHS/guide_homepage_008" />
+      <Audio Key="guide_homepage_009" Value="CHS/guide_homepage_009" />
+      <Audio Key="guide_homepage_010" Value="CHS/guide_homepage_010" />
+      <Audio Key="guide_homepage_011" Value="CHS/guide_homepage_011" />
       <Audio Key="popup_feed_welcome" Value="CHS/popup_feed_welcome" />
       <Audio Key="feed_welcome_001" Value="CHS/feed_welcome_001" />
       <Audio Key="feed_welcome_002" Value="CHS/feed_welcome_002" />
@@ -213,6 +224,17 @@
       <Audio Key="popup_download" Value="CHS/popup_download" />
       <Audio Key="popup_download_cancel" Value="CHS/popup_download_cancel" />
       <Audio Key="popup_no_network" Value="CHS/popup_no_network" />
+      <Audio Key="guide_homepage_001" Value="CHS/guide_homepage_001" />
+      <Audio Key="guide_homepage_002" Value="CHS/guide_homepage_002" />
+      <Audio Key="guide_homepage_003" Value="CHS/guide_homepage_003" />
+      <Audio Key="guide_homepage_004" Value="CHS/guide_homepage_004" />
+      <Audio Key="guide_homepage_005" Value="CHS/guide_homepage_005" />
+      <Audio Key="guide_homepage_006" Value="CHS/guide_homepage_006" />
+      <Audio Key="guide_homepage_007" Value="CHS/guide_homepage_007" />
+      <Audio Key="guide_homepage_008" Value="CHS/guide_homepage_008" />
+      <Audio Key="guide_homepage_009" Value="CHS/guide_homepage_009" />
+      <Audio Key="guide_homepage_010" Value="CHS/guide_homepage_010" />
+      <Audio Key="guide_homepage_011" Value="CHS/guide_homepage_011" />
       <Audio Key="popup_feed_welcome" Value="CHS/popup_feed_welcome" />
       <Audio Key="feed_welcome_001" Value="CHS/feed_welcome_001" />
       <Audio Key="feed_welcome_002" Value="CHS/feed_welcome_002" />
@@ -344,6 +366,17 @@
       <Audio Key="popup_download" Value="EN/popup_download" />
       <Audio Key="popup_download_cancel" Value="EN/popup_download_cancel" />
       <Audio Key="popup_no_network" Value="EN/popup_no_network" />
+      <Audio Key="guide_homepage_001" Value="EN/guide_homepage_001" />
+      <Audio Key="guide_homepage_002" Value="EN/guide_homepage_002" />
+      <Audio Key="guide_homepage_003" Value="EN/guide_homepage_003" />
+      <Audio Key="guide_homepage_004" Value="EN/guide_homepage_004" />
+      <Audio Key="guide_homepage_005" Value="EN/guide_homepage_005" />
+      <Audio Key="guide_homepage_006" Value="EN/guide_homepage_006" />
+      <Audio Key="guide_homepage_007" Value="EN/guide_homepage_007" />
+      <Audio Key="guide_homepage_008" Value="EN/guide_homepage_008" />
+      <Audio Key="guide_homepage_009" Value="EN/guide_homepage_009" />
+      <Audio Key="guide_homepage_010" Value="EN/guide_homepage_010" />
+      <Audio Key="guide_homepage_011" Value="EN/guide_homepage_011" />
       <Audio Key="popup_feed_welcome" Value="EN/popup_feed_welcome" />
       <Audio Key="feed_welcome_001" Value="EN/feed_welcome_001" />
       <Audio Key="feed_welcome_002" Value="EN/feed_welcome_002" />
