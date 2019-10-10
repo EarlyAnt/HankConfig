@@ -159,5 +159,9 @@
     <Item Id="69005" Type="6" Name="bombmuffin" getImage="Home_box_nim_food_bombmuffin" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69006" Type="6" Name="nestcake" getImage="Home_box_nim_food_nestcake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69007" Type="6" Name="rocketcookie" getImage="Home_box_nim_food_rocketcookie" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69008" Type="6" Name="spider cake" getImage="food_spider_cake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69009" Type="6" Name="toffee apple" getImage="food_toffee_apple" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69010" Type="6" Name="mummy chocolate" getImage="food_mummy_chocolate" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69011" Type="6" Name="skull cookie" getImage="food_skull_cookie" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>

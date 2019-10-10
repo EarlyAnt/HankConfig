@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Properties>
-    <PropertyItem>
+  <PropertyItem>
     <Number>1</Number>
     <Id>60001</Id>
     <Type>6</Type>
@@ -21,8 +21,8 @@
     <DefaultIcon>food_bread_small</DefaultIcon>
     <HighLightIcon>food_bread</HighLightIcon>
     <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>2</Number>
     <Id>60002</Id>
     <Type>6</Type>
@@ -43,8 +43,8 @@
     <DefaultIcon>food_milk_small</DefaultIcon>
     <HighLightIcon>food_milk</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>3</Number>
     <Id>60003</Id>
     <Type>6</Type>
@@ -65,8 +65,8 @@
     <DefaultIcon>food_rice_small</DefaultIcon>
     <HighLightIcon>food_rice</HighLightIcon>
     <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>4</Number>
     <Id>60004</Id>
     <Type>6</Type>
@@ -87,8 +87,8 @@
     <DefaultIcon>food_donut_small</DefaultIcon>
     <HighLightIcon>food_donut</HighLightIcon>
     <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>5</Number>
     <Id>60005</Id>
     <Type>6</Type>
@@ -109,8 +109,8 @@
     <DefaultIcon>food_salad_small</DefaultIcon>
     <HighLightIcon>food_salad</HighLightIcon>
     <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>6</Number>
     <Id>60006</Id>
     <Type>6</Type>
@@ -131,8 +131,8 @@
     <DefaultIcon>food_chocolate_small</DefaultIcon>
     <HighLightIcon>food_chocolate</HighLightIcon>
     <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>7</Number>
     <Id>60007</Id>
     <Type>6</Type>
@@ -153,8 +153,8 @@
     <DefaultIcon>60007_default_icon</DefaultIcon>
     <HighLightIcon>60007_highlight_icon</HighLightIcon>
     <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>8</Number>
     <Id>60008</Id>
     <Type>6</Type>
@@ -175,8 +175,8 @@
     <DefaultIcon>60008_default_icon</DefaultIcon>
     <HighLightIcon>60008_highlight_icon</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>9</Number>
     <Id>60009</Id>
     <Type>6</Type>
@@ -197,8 +197,8 @@
     <DefaultIcon>60009_default_icon</DefaultIcon>
     <HighLightIcon>60009_highlight_icon</HighLightIcon>
     <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>10</Number>
     <Id>60010</Id>
     <Type>6</Type>
@@ -219,8 +219,8 @@
     <DefaultIcon>60010_default_icon</DefaultIcon>
     <HighLightIcon>60010_highlight_icon</HighLightIcon>
     <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>11</Number>
     <Id>69001</Id>
     <Type>6</Type>
@@ -241,8 +241,8 @@
     <DefaultIcon>moomcake_small</DefaultIcon>
     <HighLightIcon>moomcake01</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>12</Number>
     <Id>69002</Id>
     <Type>6</Type>
@@ -250,8 +250,8 @@
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-        <StartTime>2019-9-11 00:00:00</StartTime>
-        <EndTime>2019-9-24 23:59:00</EndTime>
+    <StartTime>2019-9-11 00:00:00</StartTime>
+    <EndTime>2019-9-24 23:59:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -263,8 +263,8 @@
     <DefaultIcon>yolk_small</DefaultIcon>
     <HighLightIcon>yolkmcake</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>13</Number>
     <Id>69003</Id>
     <Type>6</Type>
@@ -272,8 +272,8 @@
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-        <StartTime>2019-9-11 00:00:00</StartTime>
-        <EndTime>2019-9-24 23:59:00</EndTime>
+    <StartTime>2019-9-11 00:00:00</StartTime>
+    <EndTime>2019-9-24 23:59:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -285,8 +285,8 @@
     <DefaultIcon>taro_small</DefaultIcon>
     <HighLightIcon>taro001</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>14</Number>
     <Id>69004</Id>
     <Type>6</Type>
@@ -307,8 +307,8 @@
     <DefaultIcon>food_flagjuice_small</DefaultIcon>
     <HighLightIcon>food_flagjuice</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:3</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>15</Number>
     <Id>69005</Id>
     <Type>6</Type>
@@ -316,8 +316,8 @@
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-        <StartTime>2019-9-27 00:00:00</StartTime>
-        <EndTime>2019-10-26 23:59:00</EndTime>
+    <StartTime>2019-9-27 00:00:00</StartTime>
+    <EndTime>2019-10-26 23:59:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -329,8 +329,8 @@
     <DefaultIcon>food_bombmuffin_small</DefaultIcon>
     <HighLightIcon>food_bombmuffin</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:4</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>16</Number>
     <Id>69006</Id>
     <Type>6</Type>
@@ -338,8 +338,8 @@
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-        <StartTime>2019-9-27 00:00:00</StartTime>
-        <EndTime>2019-10-26 23:59:00</EndTime>
+    <StartTime>2019-9-27 00:00:00</StartTime>
+    <EndTime>2019-10-26 23:59:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -351,8 +351,8 @@
     <DefaultIcon>food_nestcake_small</DefaultIcon>
     <HighLightIcon>food_nestcake</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:5</ReactionAnim>
-</PropertyItem>
-    <PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
     <Number>17</Number>
     <Id>69007</Id>
     <Type>6</Type>
@@ -360,8 +360,8 @@
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-        <StartTime>2019-9-27 00:00:00</StartTime>
-        <EndTime>2019-10-26 23:59:00</EndTime>
+    <StartTime>2019-9-27 00:00:00</StartTime>
+    <EndTime>2019-10-26 23:59:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -373,5 +373,93 @@
     <DefaultIcon>food_rocketcookie_small</DefaultIcon>
     <HighLightIcon>food_rocketcookie</HighLightIcon>
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:6</ReactionAnim>
-</PropertyItem>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>18</Number>
+    <Id>69008</Id>
+    <Type>6</Type>
+    <Name>spider cake</Name>
+    <Tag>snack</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-10-27 00:00</StartTime>
+    <EndTime>2019-11-26 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>10</Price>
+    <Sale>1</Sale>
+    <Hp>10</Hp>
+    <Exp>0</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_spider_cake_small</DefaultIcon>
+    <HighLightIcon>food_spider_cake</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>19</Number>
+    <Id>69009</Id>
+    <Type>6</Type>
+    <Name>toffee apple</Name>
+    <Tag>fruit</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-10-27 00:00</StartTime>
+    <EndTime>2019-11-26 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>8</Price>
+    <Sale>1</Sale>
+    <Hp>6</Hp>
+    <Exp>0</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_toffee_apple_small</DefaultIcon>
+    <HighLightIcon>food_toffee_apple</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>20</Number>
+    <Id>69010</Id>
+    <Type>6</Type>
+    <Name>mummy chocolate</Name>
+    <Tag>snack</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-10-27 00:00</StartTime>
+    <EndTime>2019-11-26 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>40</Price>
+    <Sale>1</Sale>
+    <Hp>40</Hp>
+    <Exp>6</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_mummy_chocolate_small</DefaultIcon>
+    <HighLightIcon>food_mummy_chocolate</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>21</Number>
+    <Id>69011</Id>
+    <Type>6</Type>
+    <Name>skull cookie</Name>
+    <Tag>snack</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-10-27 00:00</StartTime>
+    <EndTime>2019-11-26 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_skull_cookie_small</DefaultIcon>
+    <HighLightIcon>food_skull_cookie</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
 </Properties>

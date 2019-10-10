@@ -302,6 +302,26 @@
       </Mission>
     </Scene>
   </World>
+  <World Name="童话王国" ID="80000" Type="9" Title="title_earth" Photo="planet_earth" Preview="preview_earth" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
+    <Scene Name="万圣节" Index="0" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
+      <Mission Id="81001" Name="MissionName81001" Background="Home_hallowmas__bg_01" Model="81001" NimIcon="" QuestId="20078" dailyGoalPercent="0.5" AwardCoin="50" Sound="hallowmas_effect">
+        <TreasureBox BoxId="81001" Height="3" />
+        <TreasureBox BoxId="81002" Height="8" />
+      </Mission>
+      <Mission Id="81002" Name="MissionName81002" Background="Home_hallowmas__bg_02" Model="81002" NimIcon="" QuestId="20079" dailyGoalPercent="0.5" AwardCoin="50" Sound="hallowmas_effect">
+        <TreasureBox BoxId="81003" Height="3" />
+        <TreasureBox BoxId="81004" Height="8" />
+      </Mission>
+      <Mission Id="81003" Name="MissionName81003" Background="Home_hallowmas__bg_03" Model="81003" NimIcon="" QuestId="20080" dailyGoalPercent="0.5" AwardCoin="50" Sound="hallowmas_effect">
+        <TreasureBox BoxId="81005" Height="3" />
+        <TreasureBox BoxId="81006" Height="8" />
+      </Mission>
+      <Mission Id="81004" Name="MissionName81004" Background="Home_hallowmas__bg_04" Model="81004" NimIcon="" QuestId="20081" dailyGoalPercent="0.5" AwardCoin="50" Sound="hallowmas_effect">
+        <TreasureBox BoxId="81007" Height="3" />
+        <TreasureBox BoxId="81008" Height="8" />
+      </Mission>
+    </Scene>
+  </World>
   <World Name="地球" ID="90000" Type="9" Title="title_earth" Photo="planet_earth" Preview="preview_earth" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
     <Scene Name="中华美食街" Index="0" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
       <Mission Id="91001" Name="MissionName91001" Background="Home_Backgrond_nationalday_01" Model="91001" NimIcon="" QuestId="20074" dailyGoalPercent="0.5" AwardCoin="50">

@@ -765,7 +765,7 @@
     </Sound>
     <Sound Type="gain_coin" Des="喝水或其他途径获得金币时的音效">
       <Clip SoundPath="gain_coin"/>
-    </Sound>    
+    </Sound>
     <Sound Type="popup_download" Des="开始下载资源文件时的音效">
       <Clip SoundPath="popup_download"/>
     </Sound>
@@ -831,6 +831,28 @@
     </Sound>
     <Sound Type="mission_complete_retry" Des="完成副本星球的所有关卡重新回到第1关时的提示音">
       <Clip SoundPath="mission_complete_retry"/>
+    </Sound>
+    <Sound Type="guide_homepage" Des="各页面功能退出返回主页面时播放的功能介绍提示音">
+      <Clip SoundPath="guide_homepage_001" />
+      <Clip SoundPath="guide_homepage_002" />
+      <Clip SoundPath="guide_homepage_003" />
+      <Clip SoundPath="guide_homepage_004" />
+      <Clip SoundPath="guide_homepage_005" />
+      <Clip SoundPath="guide_homepage_006" />
+      <Clip SoundPath="guide_homepage_007" />
+      <Clip SoundPath="guide_homepage_008" />
+      <Clip SoundPath="guide_homepage_009" />
+      <Clip SoundPath="guide_homepage_010" />
+      <Clip SoundPath="guide_homepage_011" />
+    </Sound>
+    <Sound Type="mainview_tips_sfx" Des="功能介绍提示音前的叮咚音效">
+      <Clip SoundPath="mainview_tips_sfx" />
+    </Sound>
+    <Sound Type="hallowmas_effect" Des="万圣节场景音效">
+      <Clip SoundPath="sfx_halloween_01"/>
+      <Clip SoundPath="sfx_halloween_02"/>
+      <Clip SoundPath="sfx_halloween_03"/>
+      <Clip SoundPath="sfx_halloween_04"/>
     </Sound>
 
     <!-- 新手引导 
