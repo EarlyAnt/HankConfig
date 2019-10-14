@@ -420,6 +420,18 @@
     <Sound Type="water_drop_down" Des="水滴下">
       <Clip SoundPath="water_drop_down_01" />
     </Sound>
+    <Sound Type="water_drop_down_81001" Des="水滴下">
+      <Clip SoundPath="water_drop_down_81001" />
+    </Sound>
+    <Sound Type="water_drop_down_81002" Des="水滴下">
+      <Clip SoundPath="water_drop_down_81002" />
+    </Sound>
+    <Sound Type="water_drop_down_81003" Des="水滴下">
+      <Clip SoundPath="water_drop_down_81003" />
+    </Sound>
+    <Sound Type="water_drop_down_81004" Des="水滴下">
+      <Clip SoundPath="water_drop_down_81004" />
+    </Sound>
     <Sound Type="water_raise" Des="水位上升">
       <Clip SoundPath="water_raise_01" />
     </Sound>
@@ -848,11 +860,18 @@
     <Sound Type="mainview_tips_sfx" Des="功能介绍提示音前的叮咚音效">
       <Clip SoundPath="mainview_tips_sfx" />
     </Sound>
+    <Sound Type="hallowmas_bgm" Des="万圣节场景背景音乐">
+      <Clip SoundPath="sfx_halloween_11" Rate="100"/>
+      <Clip SoundPath="sfx_halloween_12" Rate="100"/>
+      <Clip SoundPath="sfx_halloween_13" Rate="100"/>
+    </Sound>
     <Sound Type="hallowmas_effect" Des="万圣节场景音效">
-      <Clip SoundPath="sfx_halloween_01"/>
-      <Clip SoundPath="sfx_halloween_02"/>
-      <Clip SoundPath="sfx_halloween_03"/>
-      <Clip SoundPath="sfx_halloween_04"/>
+      <Clip SoundPath="sfx_halloween_01" Rate="100"/>
+      <Clip SoundPath="sfx_halloween_03" Rate="50"/>
+      <Clip SoundPath="sfx_halloween_04" Rate="100"/>
+      <Clip SoundPath="sfx_halloween_05" Rate="100"/>
+      <Clip SoundPath="sfx_halloween_07" Rate="100"/>
+      <Clip SoundPath="sfx_halloween_08" Rate="100"/>
     </Sound>
 
     <!-- 新手引导 
