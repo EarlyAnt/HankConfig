@@ -833,6 +833,7 @@
       <Clip SoundPath="galaxy_welcome_003"/>
       <Clip SoundPath="galaxy_welcome_004"/>
       <Clip SoundPath="galaxy_welcome_005"/>
+      <Clip SoundPath="galaxy_welcome_006"/>
     </Sound>
     <Sound Type="world_scene_BGM" Des="世界地图背景音乐">
       <Clip SoundPath="world_scene_BGM"/>

@@ -142,6 +142,7 @@
       <Audio Key="galaxy_welcome_003" Value="CHS/galaxy_welcome_003" />
       <Audio Key="galaxy_welcome_004" Value="CHS/galaxy_welcome_004" />
       <Audio Key="galaxy_welcome_005" Value="CHS/galaxy_welcome_005" />
+      <Audio Key="galaxy_welcome_006" Value="CHS/galaxy_welcome_006" />
       <Audio Key="mission_complete_retry" Value="CHS/mission_complete_retry" />
     </ResConfig>
 
@@ -284,6 +285,7 @@
       <Audio Key="galaxy_welcome_003" Value="CHS/galaxy_welcome_003" />
       <Audio Key="galaxy_welcome_004" Value="CHS/galaxy_welcome_004" />
       <Audio Key="galaxy_welcome_005" Value="CHS/galaxy_welcome_005" />
+      <Audio Key="galaxy_welcome_006" Value="CHS/galaxy_welcome_006" />
       <Audio Key="mission_complete_retry" Value="CHS/mission_complete_retry" />
     </ResConfig>
 
@@ -426,6 +428,7 @@
       <Audio Key="galaxy_welcome_003" Value="EN/galaxy_welcome_003" />
       <Audio Key="galaxy_welcome_004" Value="EN/galaxy_welcome_004" />
       <Audio Key="galaxy_welcome_005" Value="EN/galaxy_welcome_005" />
+      <Audio Key="galaxy_welcome_006" Value="EN/galaxy_welcome_006" />
       <Audio Key="mission_complete_retry" Value="EN/mission_complete_retry" />
     </ResConfig>
   </ResConfigs>
