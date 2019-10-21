@@ -25,6 +25,9 @@
     <Sound Type="nin_friend_guest_out_01" Storage="Remote" Dec="">
       <Clip SoundPath="nin_friend_guest_out_01" />
     </Sound>
+    <Sound Type="nin_friend_guest_back_01" Storage="Remote" Dec="">
+      <Clip SoundPath="nin_friend_guest_back_01" />
+    </Sound>
     <Sound Type="nin_friend_fail_01" Storage="Remote" Dec="">
       <Clip SoundPath="nin_friend_fail_01" />
     </Sound>
@@ -427,11 +430,11 @@
     <Sound Type="nuo_friend_guest_01" Storage="Remote" Dec="">
       <Clip SoundPath="nuo_friend_guest_01" />
     </Sound>
-    <Sound Type="nuo_friend_guest_out_01" Storage="Remote" Dec="">
-      <Clip SoundPath="nuo_friend_guest_01" />
-    </Sound>
     <Sound Type="nuo_friend_guest_back_01" Storage="Remote" Dec="">
       <Clip SoundPath="nuo_friend_guest_back_01" />
+    </Sound>
+    <Sound Type="nuo_friend_guest_out_01" Storage="Remote" Dec="">
+      <Clip SoundPath="nuo_friend_guest_out_01" />
     </Sound>
     <Sound Type="nuo_friend_fail_01" Storage="Remote" Dec="">
       <Clip SoundPath="nuo_friend_fail_01" />
