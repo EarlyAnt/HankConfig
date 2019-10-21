@@ -13,15 +13,6 @@
       <Clip SoundPath="nin_nod_01_02" />
       <Clip SoundPath="nin_nod_01_03" />
     </Sound>
-    <Sound Type="nin_drink_remind_begin_01" Storage="Remote" Dec="">
-      <Clip SoundPath="nin_drink_remind_begin_01" />
-    </Sound>
-    <Sound Type="nin_drink_remind_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="nin_drink_remind_loop_01" />
-    </Sound>
-    <Sound Type="nin_drink_remind_end_01" Storage="Remote" Dec="">
-      <Clip SoundPath="nin_drink_remind_end_01" />
-    </Sound>
     <Sound Type="nin_friend_search_01" Storage="Remote" Dec="">
       <Clip SoundPath="nin_friend_search_01" />
     </Sound>
@@ -36,12 +27,6 @@
     </Sound>
     <Sound Type="nin_friend_fail_01" Storage="Remote" Dec="">
       <Clip SoundPath="nin_friend_fail_01" />
-    </Sound>
-    <Sound Type="nin_idle_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
-    </Sound>
-    <Sound Type="nin_sleep_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
     </Sound>
     <Sound Type="nin_sleep_end_01" Storage="Remote" Dec="">
       <Clip SoundPath="nin_morning_01_01" />
@@ -111,15 +96,6 @@
       <Clip SoundPath="san_nod_01_02" />
       <Clip SoundPath="san_nod_01_03" />
     </Sound>
-    <Sound Type="san_drink_remind_begin_01" Storage="Remote" Dec="">
-      <Clip SoundPath="san_drink_remind_begin_01" />
-    </Sound>
-    <Sound Type="san_drink_remind_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="san_drink_remind_loop_01" />
-    </Sound>
-    <Sound Type="san_drink_remind_end_01" Storage="Remote" Dec="">
-      <Clip SoundPath="san_drink_remind_end_01" />
-    </Sound>
     <Sound Type="san_friend_search_01" Storage="Remote" Dec="">
       <Clip SoundPath="san_friend_search_01" />
     </Sound>
@@ -137,12 +113,6 @@
     </Sound>
     <Sound Type="san_friend_fail_01" Storage="Remote" Dec="">
       <Clip SoundPath="san_friend_fail_01" />
-    </Sound>
-    <Sound Type="san_idle_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
-    </Sound>
-    <Sound Type="san_sleep_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
     </Sound>
     <Sound Type="san_sleep_end_01" Storage="Remote" Dec="">
       <Clip SoundPath="san_morning_01_01" />
@@ -211,15 +181,6 @@
       <Clip SoundPath="pur_nod_01_02" />
       <Clip SoundPath="pur_nod_01_03" />
     </Sound>
-    <Sound Type="pur_drink_remind_begin_01" Storage="Remote" Dec="">
-      <Clip SoundPath="pur_drink_remind_begin_01" />
-    </Sound>
-    <Sound Type="pur_drink_remind_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="pur_drink_remind_loop_01" />
-    </Sound>
-    <Sound Type="pur_drink_remind_end_01" Storage="Remote" Dec="">
-      <Clip SoundPath="pur_drink_remind_end_01" />
-    </Sound>
     <Sound Type="pur_friend_search_01" Storage="Remote" Dec="">
       <Clip SoundPath="pur_friend_search_01" />
     </Sound>
@@ -237,12 +198,6 @@
     </Sound>
     <Sound Type="pur_friend_fail_01" Storage="Remote" Dec="">
       <Clip SoundPath="pur_friend_fail_01" />
-    </Sound>
-    <Sound Type="pur_idle_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
-    </Sound>
-    <Sound Type="pur_sleep_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
     </Sound>
     <Sound Type="pur_sleep_end_01" Storage="Remote" Dec="">
       <Clip SoundPath="pur_morning_01_01" />
@@ -310,15 +265,6 @@
       <Clip SoundPath="dony_nod_01_02" />
       <Clip SoundPath="dony_nod_01_03" />
     </Sound>
-    <Sound Type="dony_drink_remind_begin_01" Storage="Remote" Dec="">
-      <Clip SoundPath="dony_drink_remind_begin_01" />
-    </Sound>
-    <Sound Type="dony_drink_remind_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="dony_drink_remind_loop_01" />
-    </Sound>
-    <Sound Type="dony_drink_remind_end_01" Storage="Remote" Dec="">
-      <Clip SoundPath="dony_drink_remind_end_01" />
-    </Sound>
     <Sound Type="dony_friend_search_01" Storage="Remote" Dec="">
       <Clip SoundPath="dony_friend_search_01_01" />
       <Clip SoundPath="dony_friend_search_01_02" />
@@ -337,12 +283,6 @@
     </Sound>
     <Sound Type="dony_friend_fail_01" Storage="Remote" Dec="">
       <Clip SoundPath="dony_friend_fail_01" />
-    </Sound>
-    <Sound Type="dony_idle_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
-    </Sound>
-    <Sound Type="dony_sleep_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
     </Sound>
     <Sound Type="dony_sleep_end_01" Storage="Remote" Dec="">
       <Clip SoundPath="dony_morning_01_01" />
@@ -406,15 +346,6 @@
       <Clip SoundPath="yoyo_nod_01_02" />
       <Clip SoundPath="yoyo_nod_01_03" />
     </Sound>
-    <Sound Type="yoyo_drink_remind_begin_01" Storage="Remote" Dec="">
-      <Clip SoundPath="yoyo_drink_remind_begin_01" />
-    </Sound>
-    <Sound Type="yoyo_drink_remind_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="yoyo_drink_remind_loop_01" />
-    </Sound>
-    <Sound Type="yoyo_drink_remind_end_01" Storage="Remote" Dec="">
-      <Clip SoundPath="yoyo_drink_remind_end_01" />
-    </Sound>
     <Sound Type="yoyo_friend_search_01" Storage="Remote" Dec="">
       <Clip SoundPath="yoyo_friend_search_01_01" />
       <Clip SoundPath="yoyo_friend_search_01_02" />
@@ -435,12 +366,6 @@
     </Sound>
     <Sound Type="yoyo_friend_fail_01" Storage="Remote" Dec="">
       <Clip SoundPath="yoyo_friend_fail_01" />
-    </Sound>
-    <Sound Type="yoyo_idle_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
-    </Sound>
-    <Sound Type="yoyo_sleep_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
     </Sound>
     <Sound Type="yoyo_sleep_end_01" Storage="Remote" Dec="">
       <Clip SoundPath="yoyo_morning_01_01" />
@@ -493,15 +418,6 @@
     <Sound Type="nuo_sleep_begin_01" Storage="Remote" Dec="">
       <Clip SoundPath="nuo_sleep_begin_01" />
     </Sound>
-    <Sound Type="nuo_drink_remind_begin_01" Storage="Remote" Dec="">
-      <Clip SoundPath="nuo_drink_remind_begin_01" />
-    </Sound>
-    <Sound Type="nuo_drink_remind_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="nuo_drink_remind_loop_01" />
-    </Sound>
-    <Sound Type="nuo_drink_remind_end_01" Storage="Remote" Dec="">
-      <Clip SoundPath="nuo_drink_remind_end_01" />
-    </Sound>
     <Sound Type="nuo_friend_search_01" Storage="Remote" Dec="">
       <Clip SoundPath="nuo_friend_search_01" />
     </Sound>
@@ -512,19 +428,13 @@
       <Clip SoundPath="nuo_friend_guest_01" />
     </Sound>
     <Sound Type="nuo_friend_guest_out_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
+      <Clip SoundPath="nuo_friend_guest_01" />
     </Sound>
     <Sound Type="nuo_friend_guest_back_01" Storage="Remote" Dec="">
       <Clip SoundPath="nuo_friend_guest_back_01" />
     </Sound>
     <Sound Type="nuo_friend_fail_01" Storage="Remote" Dec="">
       <Clip SoundPath="nuo_friend_fail_01" />
-    </Sound>
-    <Sound Type="nuo_idle_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
-    </Sound>
-    <Sound Type="nuo_sleep_loop_01" Storage="Remote" Dec="">
-      <Clip SoundPath="" />
     </Sound>
     <Sound Type="nuo_sleep_end_01" Storage="Remote" Dec="">
       <Clip SoundPath="nuo_morning_01" />
@@ -540,8 +450,8 @@
     </Sound>
     0
     <Sound Type="level_up_NUO" Storage="Remote" Dec="诺诺升级">
-      <Clip SoundPath="nuo_level_up_01" />
-      <Clip SoundPath="nuo_level_up_02" />
+      <Clip SoundPath="level_up_nuo_01" />
+      <Clip SoundPath="level_up_nuo_02" />
     </Sound>
     <Sound Type="nim_chest_open_NUO" Storage="Remote" Dec="喏喏小生物宝箱">
       <Clip SoundPath="nuo_chest_open_01" />
@@ -585,12 +495,6 @@
     <Sound Type="water_raise" Storage="Remote" Dec="水位上升">
       <Clip SoundPath="water_raise_01" />
     </Sound>
-    <Sound Type="water_cheat" Storage="Remote" Dec="水未滴下（判定作弊）">
-      <Clip SoundPath="water_cheat_01" />
-    </Sound>
-    <Sound Type="nim_chest_get_nim" Storage="Remote" Dec="打开宝箱后获取小生物">
-      <Clip SoundPath="nim_chest_get_nim_01" />
-    </Sound>
     <Sound Type="daily_goal_progress_init_bgm" Storage="Remote" Dec="初始化dailygoal进度条背景音乐">
       <Clip SoundPath="daily_goal_progress_init_bgm" />
     </Sound>
@@ -630,9 +534,6 @@
     <Sound Type="daily_goal_milestone_03_crown_shapeshift" Storage="Remote" Dec="达成日目标100%皇冠变身">
       <Clip SoundPath="daily_goal_crown_fly_in_shapeshift" />
     </Sound>
-    <Sound Type="daily_goal_mission_complete_tick" Storage="Remote" Dec="达成dailygoal+关卡完成后的关卡名称牌打钩">
-      <Clip SoundPath="daily_goal_mission_complete_tick" />
-    </Sound>
     <Sound Type="mission_complete_init" Storage="Remote" Dec="过关初始化，闪烁+文字">
       <Clip SoundPath="mission_complete_init" />
     </Sound>
@@ -642,23 +543,11 @@
     <Sound Type="mission_complete_board_fly_out" Storage="Remote" Dec="结算面板飞出屏幕">
       <Clip SoundPath="mission_complete_board_fly_in" />
     </Sound>
-    <Sound Type="mission_complete_bonus" Storage="Remote" Dec="过关奖励提示（每个）">
-      <Clip SoundPath="mission_complete_bonus" />
-    </Sound>
-    <Sound Type="mission_complete_num_counting" Storage="Remote" Dec="经验/宝石数字跳动计数">
-      <Clip SoundPath="mission_complete_num_counting" />
-    </Sound>
-    <Sound Type="mission_complete_bgm" Storage="Remote" Dec="结算背景音乐">
-      <Clip SoundPath="mission_complete_bgm" />
-    </Sound>
     <Sound Type="mission_locked" Storage="Remote" Dec="进入未解锁的关卡，锁跳动，提示未解锁">
       <Clip SoundPath="mission_locked" />
     </Sound>
     <Sound Type="mission_unlock_action" Storage="Remote" Dec="关卡锁打开">
       <Clip SoundPath="mission_unlock_action" />
-    </Sound>
-    <Sound Type="mission_unlock_enter_new_mission" Storage="Remote" Dec="解锁后进入新关卡的过度">
-      <Clip SoundPath="mission_unlock_enter_new_mission" />
     </Sound>
     <!--========系统音效========-->
     <Sound Type="system_charging_start" Storage="Remote" Dec="进入充电状态">
