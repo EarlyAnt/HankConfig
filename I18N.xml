@@ -431,5 +431,148 @@
       <Audio Key="galaxy_welcome_006" Value="EN/galaxy_welcome_006" />
       <Audio Key="mission_complete_retry" Value="EN/mission_complete_retry" />
     </ResConfig>
+
+    <ResConfig Language="JP" DES="日文">
+      <!--文本配置-->
+      <Text Key="PURPIE" Value="プリン|Pomeranian" />
+      <Text Key="DONNY" Value="ドニー|Pomeranian" />
+      <Text Key="NINJI" Value="ニンジ|Pomeranian" />
+      <Text Key="SANSA" Value="サンサ|Pomeranian" />
+      <Text Key="YOYO" Value="ヨーヨー|Pomeranian" />
+      <Text Key="NUO" Value="ヌーオ|Pomeranian" />
+      <Text Key="达到等级可解锁" Value="レベル{0}でロック解除可能|Pomeranian" />
+      <Text Key="解锁宠物" Value="ふ化|Pomeranian" />
+      <Text Key="Feed_Prescribe" Value="限定|Pomeranian" />
+      <Text Key="Feed_Sold_Out" Value="売り切れ|Pomeranian" />
+      <Text Key="Feed_No_Coin" Value="コインが足りない|Pomeranian" />
+      <Text Key="退出下载" Value="DL中止|Pomeranian" />
+      <Text Key="关卡进度" Value="進行状況|Pomeranian" />
+
+      <!--图片配置-->
+      <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
+      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/limited_JP" />
+      <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_JP" />
+
+      <!--动画配置-->
+      <Animation Key="CommingSoon" Value="CommingSoon_JP" />
+      <Animation Key="animation3" Value="animation3_JP" />
+      <Animation Key="guide2.2" Value="guide2.2_JP" />
+      <Animation Key="guide3" Value="guide3_JP" />
+      <Animation Key="animation" Value="animation_JP" />
+
+      <!--音频配置-->
+      <Audio Key="NoviceGuide" Value="NoviceGuide/NoviceGuide_JP" />
+      <Audio Key="guide_1_welcome_1.1.1" Value="NoviceGuide/JP/guide_1_welcome_1.1.1" />
+      <Audio Key="guide_1_welcome_1.1" Value="NoviceGuide/JP/guide_1_welcome_1.1" />
+      <Audio Key="guide_1_welcome_1.2" Value="NoviceGuide/JP/guide_1_welcome_1.2" />
+      <Audio Key="guide_2_qrcode_2.1.1" Value="NoviceGuide/JP/guide_2_qrcode_2.1.1" />
+      <Audio Key="guide_2_qrcode_2.1.2" Value="NoviceGuide/JP/guide_2_qrcode_2.1.2" />
+      <Audio Key="guide_2_qrcode_2.2" Value="NoviceGuide/JP/guide_2_qrcode_2.2" />
+      <Audio Key="guide_3_qrcode_3" Value="NoviceGuide/JP/guide_3_qrcode_3" />
+      <Audio Key="guide_4_washbottle_4.1.1" Value="NoviceGuide/JP/guide_4_washbottle_4.1.1" />
+      <Audio Key="guide_4_washbottle_4.1.2" Value="NoviceGuide/JP/guide_4_washbottle_4.1.2" />
+      <Audio Key="guide_5_game_5.1.1" Value="NoviceGuide/JP/guide_5_game_5.1.1" />
+      <Audio Key="guide_5_game_5.1.2" Value="NoviceGuide/JP/guide_5_game_5.1.2" />
+      <Audio Key="guide_5_game_5.3.1" Value="NoviceGuide/JP/guide_5_game_5.3.1" />
+      <Audio Key="guide_5_game_5.3.2" Value="NoviceGuide/JP/guide_5_game_5.3.2" />
+      <Audio Key="guide_5_game_5.4.1" Value="NoviceGuide/JP/guide_5_game_5.4.1" />
+      <Audio Key="guide_5_game_5.4.2" Value="NoviceGuide/JP/guide_5_game_5.4.2" />
+      <Audio Key="guide_5_game_5.4.3" Value="NoviceGuide/JP/guide_5_game_5.4.3" />
+      <Audio Key="guide_5_game_5.5.1" Value="NoviceGuide/JP/guide_5_game_5.5.1" />
+      <Audio Key="guide_5_game_5.5.2" Value="NoviceGuide/JP/guide_5_game_5.5.2" />
+      <Audio Key="guide_5_game_dailygoal_5.6.1" Value="NoviceGuide/JP/guide_5_game_dailygoal_5.6.1" />
+      <Audio Key="guide_5_game_dailygoal_5.6.2" Value="NoviceGuide/JP/guide_5_game_dailygoal_5.6.2" />
+      <Audio Key="guide_6_skill_5.7" Value="NoviceGuide/JP/guide_6_skill_5.7" />
+      <Audio Key="guide_6_skill_5.8" Value="NoviceGuide/JP/guide_6_skill_5.8" />
+      <Audio Key="guide_6_skill_5.9" Value="NoviceGuide/JP/guide_6_skill_5.9" />
+      <Audio Key="guide_7_complete_510" Value="NoviceGuide/JP/guide_7_complete_510" />
+      <Audio Key="pair_active_success_cn" Value="JP/pair_active_success_cn" />
+      <Audio Key="pair_connect_to_cloud_fail_cn" Value="JP/pair_connect_to_cloud_fail_cn" />
+      <Audio Key="pair_connect_to_router_fail_cn" Value="JP/pair_connect_to_router_fail_cn" />
+      <Audio Key="pair_connect_to_router_fail_other_cn" Value="JP/pair_connect_to_router_fail_other_cn" />
+      <Audio Key="pair_connect_to_router_fail_password_cn" Value="JP/pair_connect_to_router_fail_password_cn" />
+      <Audio Key="pair_start_cn" Value="JP/pair_start_cn" />
+      <Audio Key="pair_update_wifi_success_cn" Value="JP/pair_update_wifi_success_cn" />
+      <Audio Key="ai_popup_notactivated" Value="JP/ai_popup_notactivated" />
+      <Audio Key="collection_story_tip1" Value="JP/collection_story_tip1" />
+      <Audio Key="collection_story_tip2" Value="JP/collection_story_tip2" />
+      <Audio Key="hint_app_download_crcode_cn" Value="JP/hint_app_download_crcode_cn" />
+      <Audio Key="navmenu_comingsoon_1" Value="JP/navmenu_comingsoon_1" />
+      <Audio Key="navmenu_comingsoon_2" Value="JP/navmenu_comingsoon_2" />
+      <Audio Key="navmenu_comingsoon_3" Value="JP/navmenu_comingsoon_3" />
+      <Audio Key="navmenu_comingsoon_4" Value="JP/navmenu_comingsoon_4" />
+      <Audio Key="system_charging_low_battery_in" Value="JP/system_charging_low_battery_in" />
+      <Audio Key="guide_2_systempage_1" Value="JP/guide_2_systempage_1" />
+      <Audio Key="guide_2_id_1" Value="JP/guide_2_id_1" />
+      <Audio Key="hint_app_download_01_cn" Value="JP/hint_app_download_01_cn" />
+      <Audio Key="popup_alarm_sync" Value="JP/popup_alarm_sync" />
+      <Audio Key="popup_dailygoal_sync" Value="JP/popup_dailygoal_sync" />
+      <Audio Key="popup_donotdisturb_sync" Value="JP/popup_donotdisturb_sync" />
+      <Audio Key="popup_download" Value="JP/popup_download" />
+      <Audio Key="popup_download_cancel" Value="JP/popup_download_cancel" />
+      <Audio Key="popup_no_network" Value="JP/popup_no_network" />
+      <Audio Key="guide_homepage_001" Value="JP/guide_homepage_001" />
+      <Audio Key="guide_homepage_002" Value="JP/guide_homepage_002" />
+      <Audio Key="guide_homepage_003" Value="JP/guide_homepage_003" />
+      <Audio Key="guide_homepage_004" Value="JP/guide_homepage_004" />
+      <Audio Key="guide_homepage_005" Value="JP/guide_homepage_005" />
+      <Audio Key="guide_homepage_006" Value="JP/guide_homepage_006" />
+      <Audio Key="guide_homepage_007" Value="JP/guide_homepage_007" />
+      <Audio Key="guide_homepage_008" Value="JP/guide_homepage_008" />
+      <Audio Key="guide_homepage_009" Value="JP/guide_homepage_009" />
+      <Audio Key="guide_homepage_010" Value="JP/guide_homepage_010" />
+      <Audio Key="guide_homepage_011" Value="JP/guide_homepage_011" />
+      <Audio Key="popup_feed_welcome" Value="JP/popup_feed_welcome" />
+      <Audio Key="feed_welcome_001" Value="JP/feed_welcome_001" />
+      <Audio Key="feed_welcome_002" Value="JP/feed_welcome_002" />
+      <Audio Key="feed_welcome_003" Value="JP/feed_welcome_003" />
+      <Audio Key="feed_welcome_004" Value="JP/feed_welcome_004" />
+      <Audio Key="feed_welcome_005" Value="JP/feed_welcome_005" />
+      <Audio Key="popup_no_coin_001" Value="JP/popup_no_coin_001" />
+      <Audio Key="popup_no_coin_002" Value="JP/popup_no_coin_002" />
+      <Audio Key="popup_no_coin_003" Value="JP/popup_no_coin_003" />
+      <Audio Key="feed_hungry_alert_001" Value="JP/feed_hungry_alert_001" />
+      <Audio Key="feed_hungry_alert_002" Value="JP/feed_hungry_alert_002" />
+      <Audio Key="feed_hungry_alert_003" Value="JP/feed_hungry_alert_003" />
+      <Audio Key="feed_welcome_moonfestival01" Value="JP/feed_welcome_moonfestival01" />
+      <Audio Key="feed_welcome_moonfestival02" Value="JP/feed_welcome_moonfestival02" />
+      <Audio Key="feed_welcome_moonfestival03" Value="JP/feed_welcome_moonfestival03" />
+      <Audio Key="feed_welcome_moonfestival04" Value="JP/feed_welcome_moonfestival04" />
+      <Audio Key="feed_welcome_moonfestival05" Value="JP/feed_welcome_moonfestival05" />
+      <Audio Key="dony_eat_act_01" Value="JP/dony_eat_act_01" />
+      <Audio Key="dony_eat_act_02" Value="JP/dony_eat_act_02" />
+      <Audio Key="dony_eat_act_03" Value="JP/dony_eat_act_03" />
+      <Audio Key="sansa_eat_act_01" Value="JP/sansa_eat_act_01" />
+      <Audio Key="sansa_eat_act_02" Value="JP/sansa_eat_act_02" />
+      <Audio Key="sansa_eat_act_03" Value="JP/sansa_eat_act_03" />
+      <Audio Key="yoyo_eat_act_01" Value="JP/yoyo_eat_act_01" />
+      <Audio Key="yoyo_eat_act_02" Value="JP/yoyo_eat_act_02" />
+      <Audio Key="yoyo_eat_act_03" Value="JP/yoyo_eat_act_03" />
+      <Audio Key="purpie_eat_act_01" Value="JP/purpie_eat_act_01" />
+      <Audio Key="purpie_eat_act_02" Value="JP/purpie_eat_act_02" />
+      <Audio Key="purpie_eat_act_03" Value="JP/purpie_eat_act_03" />
+      <Audio Key="ninji_eat_act_01" Value="JP/ninji_eat_act_01" />
+      <Audio Key="ninji_eat_act_02" Value="JP/ninji_eat_act_02" />
+      <Audio Key="ninji_eat_act_03" Value="JP/ninji_eat_act_03" />
+      <Audio Key="nuo_eat_act_01" Value="JP/nuo_eat_act_01" />
+      <Audio Key="nuo_eat_act_02" Value="JP/nuo_eat_act_02" />
+      <Audio Key="nuo_eat_act_03" Value="JP/nuo_eat_act_03" />
+      <Audio Key="feed_welcome_china_001" Value="JP/feed_welcome_china_001" />
+      <Audio Key="feed_welcome_china_002" Value="JP/feed_welcome_china_002" />
+      <Audio Key="feed_welcome_china_003" Value="JP/feed_welcome_china_003" />
+      <Audio Key="feed_welcome_china_004" Value="JP/feed_welcome_china_004" />
+      <Audio Key="feed_welcome_china_005" Value="JP/feed_welcome_china_005" />
+      <Audio Key="goods_soldout" Value="JP/goods_soldout" />
+      <Audio Key="galaxy_welcome_new" Value="JP/galaxy_welcome_new" />
+      <Audio Key="galaxy_new_world_welcome_001" Value="JP/galaxy_new_world_welcome_001" />
+      <Audio Key="galaxy_new_world_welcome_002" Value="JP/galaxy_new_world_welcome_002" />
+      <Audio Key="galaxy_welcome_001" Value="JP/galaxy_welcome_001" />
+      <Audio Key="galaxy_welcome_002" Value="JP/galaxy_welcome_002" />
+      <Audio Key="galaxy_welcome_003" Value="JP/galaxy_welcome_003" />
+      <Audio Key="galaxy_welcome_004" Value="JP/galaxy_welcome_004" />
+      <Audio Key="galaxy_welcome_005" Value="JP/galaxy_welcome_005" />
+      <Audio Key="galaxy_welcome_006" Value="JP/galaxy_welcome_006" />
+      <Audio Key="mission_complete_retry" Value="JP/mission_complete_retry" />
+    </ResConfig>
   </ResConfigs>
 </Project>
