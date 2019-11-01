@@ -441,7 +441,7 @@
       <Text Key="YOYO" Value="ヨーヨー|Pomeranian" />
       <Text Key="NUO" Value="ヌーオ|Pomeranian" />
       <Text Key="达到等级可解锁" Value="レベル{0}でロック解除可能|Pomeranian" />
-      <Text Key="解锁宠物" Value="ふ化|Pomeranian" />
+      <Text Key="解锁宠物" Value="ふ化{0}|Pomeranian" />
       <Text Key="Feed_Prescribe" Value="限定|Pomeranian" />
       <Text Key="Feed_Sold_Out" Value="売り切れ|Pomeranian" />
       <Text Key="Feed_No_Coin" Value="コインが足りない|Pomeranian" />
