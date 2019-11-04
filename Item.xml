@@ -163,5 +163,9 @@
     <Item Id="69009" Type="6" Name="toffee apple" getImage="food_toffee_apple" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69010" Type="6" Name="mummy chocolate" getImage="food_mummy_chocolate" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69011" Type="6" Name="skull cookie" getImage="food_skull_cookie" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69012" Type="6" Name="spider cake" getImage="food_spider_cake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69013" Type="6" Name="toffee apple" getImage="food_toffee_apple" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69014" Type="6" Name="mummy chocolate" getImage="food_mummy_chocolate" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69015" Type="6" Name="skull cookie" getImage="food_skull_cookie" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>

@@ -462,4 +462,92 @@
     <HighLightIcon>food_skull_cookie</HighLightIcon>
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
+  <PropertyItem>
+    <Number>22</Number>
+    <Id>69012</Id>
+    <Type>6</Type>
+    <Name>spider cake</Name>
+    <Tag>snack</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-10-27 00:00</StartTime>
+    <EndTime>2019-11-26 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>10</Price>
+    <Sale>1</Sale>
+    <Hp>10</Hp>
+    <Exp>0</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_spider_cake_small</DefaultIcon>
+    <HighLightIcon>food_spider_cake</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>23</Number>
+    <Id>69013</Id>
+    <Type>6</Type>
+    <Name>toffee apple</Name>
+    <Tag>fruit</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-10-27 00:00</StartTime>
+    <EndTime>2019-11-26 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>8</Price>
+    <Sale>1</Sale>
+    <Hp>6</Hp>
+    <Exp>0</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_toffee_apple_small</DefaultIcon>
+    <HighLightIcon>food_toffee_apple</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>24</Number>
+    <Id>69014</Id>
+    <Type>6</Type>
+    <Name>mummy chocolate</Name>
+    <Tag>snack</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-10-27 00:00</StartTime>
+    <EndTime>2019-11-26 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>40</Price>
+    <Sale>1</Sale>
+    <Hp>40</Hp>
+    <Exp>6</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_mummy_chocolate_small</DefaultIcon>
+    <HighLightIcon>food_mummy_chocolate</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>25</Number>
+    <Id>69015</Id>
+    <Type>6</Type>
+    <Name>skull cookie</Name>
+    <Tag>snack</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-10-27 00:00</StartTime>
+    <EndTime>2019-11-26 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>25</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_skull_cookie_small</DefaultIcon>
+    <HighLightIcon>food_skull_cookie</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
 </Properties>

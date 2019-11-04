@@ -321,6 +321,24 @@
         <TreasureBox BoxId="81008" Height="8" />
       </Mission>
     </Scene>
+    <Scene Name="丹麦" Index="1" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
+      <Mission Id="82001" Name="MissionName82001" Background="Home_denmark_bg_01" Model="82001" NimIcon="" QuestId="20082" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81009" Height="3" />
+        <TreasureBox BoxId="81010" Height="8" />
+      </Mission>
+      <Mission Id="82002" Name="MissionName82002" Background="Home_denmark_bg_01" Model="82002" NimIcon="" QuestId="20083" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81011" Height="3" />
+        <TreasureBox BoxId="81012" Height="8" />
+      </Mission>
+      <Mission Id="82003" Name="MissionName82003" Background="Home_denmark_bg_01" Model="82003" NimIcon="" QuestId="20084" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81013" Height="3" />
+        <TreasureBox BoxId="81014" Height="8" />
+      </Mission>
+      <Mission Id="82004" Name="MissionName82004" Background="Home_denmark_bg_01" Model="82004" NimIcon="" QuestId="20085" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81015" Height="3" />
+        <TreasureBox BoxId="81016" Height="8" />
+      </Mission>
+    </Scene>
   </World>
   <World Name="地球" ID="90000" Type="9" Title="title_earth" Photo="planet_earth" Preview="preview_earth" BoxType="bag" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
     <Scene Name="中华美食街" Index="0" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
