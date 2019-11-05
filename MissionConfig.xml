@@ -343,20 +343,20 @@
     </Scene>
     <Scene Name="丹麦" Index="2" Icon="Denmark" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
       <Mission Id="92001" Name="MissionName92001" Background="Home_denmark_bg_01" Model="92001" NimIcon="" QuestId="20082" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
-        <TreasureBox BoxId="81009" Height="3" />
-        <TreasureBox BoxId="81010" Height="8" />
+        <TreasureBox BoxId="91009" Height="3" />
+        <TreasureBox BoxId="91010" Height="8" />
       </Mission>
-      <Mission Id="92002" Name="MissionName92002" Background="Home_denmark_bg_01" Model="92002" NimIcon="" QuestId="20083" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
-        <TreasureBox BoxId="81011" Height="3" />
-        <TreasureBox BoxId="81012" Height="8" />
+      <Mission Id="92002" Name="MissionName92002" Background="Home_denmark_bg_02" Model="92002" NimIcon="" QuestId="20083" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="91011" Height="3" />
+        <TreasureBox BoxId="91012" Height="8" />
       </Mission>
-      <Mission Id="92003" Name="MissionName92003" Background="Home_denmark_bg_01" Model="92003" NimIcon="" QuestId="20084" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
-        <TreasureBox BoxId="81013" Height="3" />
-        <TreasureBox BoxId="81014" Height="8" />
+      <Mission Id="92003" Name="MissionName92003" Background="Home_denmark_bg_03" Model="92003" NimIcon="" QuestId="20084" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="91013" Height="3" />
+        <TreasureBox BoxId="91014" Height="8" />
       </Mission>
-      <Mission Id="92004" Name="MissionName92004" Background="Home_denmark_bg_01" Model="92004" NimIcon="" QuestId="20085" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
-        <TreasureBox BoxId="81015" Height="3" />
-        <TreasureBox BoxId="81016" Height="8" />
+      <Mission Id="92004" Name="MissionName92004" Background="Home_denmark_bg_04" Model="92004" NimIcon="" QuestId="20085" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="91015" Height="3" />
+        <TreasureBox BoxId="91016" Height="8" />
       </Mission>
     </Scene>
   </World>
