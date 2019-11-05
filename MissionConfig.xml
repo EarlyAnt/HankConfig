@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
   <World Name="Ima星球" ID="10000" Type="1" Title="title_ima" Photo="planet_ima" Preview="preview_ima" BoxType="box" Unlock="NONE" SleepBackgournd="home_good night">
-    <Scene Name="原始海洋" Index="0" TitleBg="Title_Bg_0101" TitleColor="0.435,1,0.969">
+    <Scene Name="原始海洋" Index="1" Icon="Sea" TitleBg="Title_Bg_0101" TitleColor="0.435,1,0.969">
       <Mission Id="11001" Name="MissionName11001" Background="Home_Backgrond_ocean brim (1)" Model="11001" NimIcon="atom_icon0022" QuestId="20001" dailyGoalPercent="0.33" AwardCoin="32" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="10001" Height="3" />
         <TreasureBox BoxId="10002" Height="8" />
@@ -87,7 +87,7 @@
         <TreasureBox BoxId="10042" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="绿梦森林" Index="1" TitleBg="Title_Bg_0102" TitleColor="0.612,1,0.38">
+    <Scene Name="绿梦森林" Index="2" Icon="Forest" TitleBg="Title_Bg_0102" TitleColor="0.612,1,0.38">
       <Mission Id="12001" Name="MissionName12001" Background="Home_Backgrond_wonder woods (1)" Model="12001" NimIcon="atom_icon0064" QuestId="20022" dailyGoalPercent="0.52" AwardCoin="74" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="10043" Height="3" />
         <TreasureBox BoxId="10044" Height="8" />
@@ -173,7 +173,7 @@
         <TreasureBox BoxId="10084" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="漂流沙漠" Index="2" TitleBg="Title_Bg_0103" TitleColor="0.8,0.251,0.004">
+    <Scene Name="漂流沙漠" Index="3" Icon="Desert" TitleBg="Title_Bg_0103" TitleColor="0.8,0.251,0.004">
       <Mission Id="13001" Name="MissionName13001" Background="Home_Backgrond_desert daze (1)" Model="13001" NimIcon="atom_icon0106" QuestId="20043" dailyGoalPercent="0.9" AwardCoin="116" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="10085" Height="3" />
         <TreasureBox BoxId="10086" Height="8" />
@@ -259,7 +259,7 @@
         <TreasureBox BoxId="10126" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="神秘红岩" Index="3" TitleBg="Title_Bg_0104" TitleColor="0.424,0.11,0.122">
+    <Scene Name="神秘红岩" Index="4" Icon="Rock" TitleBg="Title_Bg_0104" TitleColor="0.424,0.11,0.122">
       <Mission Id="14001" Name="MissionName14001" Background="Home_Backgrond__mystery red0001" Model="14001" NimIcon="atom_icon0157" QuestId="20064" dailyGoalPercent="1.25" AwardCoin="158" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="10127" Height="3" />
         <TreasureBox BoxId="10128" Height="8" />
@@ -303,7 +303,7 @@
     </Scene>
   </World>
   <World Name="童话王国" ID="80000" Type="9" Title="title_castle" Photo="planet_castle" Preview="preview_castle" BoxType="pumpkin" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
-    <Scene Name="万圣节" Index="0" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
+    <Scene Name="万圣节" Index="1" Icon="Hallowmas" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
       <Mission Id="81001" Name="MissionName81001" Background="Home_hallowmas__bg_01" Model="81001" NimIcon="" QuestId="20078" dailyGoalPercent="0.5" AwardCoin="50" BGM="hallowmas_bgm" Sound="hallowmas_effect" WaterDrop="07KuLou" WaterDropAudio="water_drop_down_81001">
         <TreasureBox BoxId="81001" Height="3" />
         <TreasureBox BoxId="81002" Height="8" />
@@ -321,27 +321,9 @@
         <TreasureBox BoxId="81008" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="丹麦" Index="1" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
-      <Mission Id="82001" Name="MissionName82001" Background="Home_denmark_bg_01" Model="82001" NimIcon="" QuestId="20082" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
-        <TreasureBox BoxId="81009" Height="3" />
-        <TreasureBox BoxId="81010" Height="8" />
-      </Mission>
-      <Mission Id="82002" Name="MissionName82002" Background="Home_denmark_bg_01" Model="82002" NimIcon="" QuestId="20083" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
-        <TreasureBox BoxId="81011" Height="3" />
-        <TreasureBox BoxId="81012" Height="8" />
-      </Mission>
-      <Mission Id="82003" Name="MissionName82003" Background="Home_denmark_bg_01" Model="82003" NimIcon="" QuestId="20084" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
-        <TreasureBox BoxId="81013" Height="3" />
-        <TreasureBox BoxId="81014" Height="8" />
-      </Mission>
-      <Mission Id="82004" Name="MissionName82004" Background="Home_denmark_bg_01" Model="82004" NimIcon="" QuestId="20085" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
-        <TreasureBox BoxId="81015" Height="3" />
-        <TreasureBox BoxId="81016" Height="8" />
-      </Mission>
-    </Scene>
   </World>
   <World Name="地球" ID="90000" Type="9" Title="title_earth" Photo="planet_earth" Preview="preview_earth" BoxType="bag" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
-    <Scene Name="中华美食街" Index="0" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
+    <Scene Name="中华美食街" Index="1" Icon="China" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
       <Mission Id="91001" Name="MissionName91001" Background="Home_Backgrond_nationalday_01" Model="91001" NimIcon="" QuestId="20074" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="91001" Height="3" />
         <TreasureBox BoxId="91002" Height="8" />
@@ -357,6 +339,24 @@
       <Mission Id="91004" Name="MissionName91004" Background="Home_Backgrond_nationalday_04" Model="91001" NimIcon="" QuestId="20077" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="91007" Height="3" />
         <TreasureBox BoxId="91008" Height="8" />
+      </Mission>
+    </Scene>
+    <Scene Name="丹麦" Index="2" Icon="Denmark" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694">
+      <Mission Id="92001" Name="MissionName92001" Background="Home_denmark_bg_01" Model="92001" NimIcon="" QuestId="20082" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81009" Height="3" />
+        <TreasureBox BoxId="81010" Height="8" />
+      </Mission>
+      <Mission Id="92002" Name="MissionName92002" Background="Home_denmark_bg_01" Model="92002" NimIcon="" QuestId="20083" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81011" Height="3" />
+        <TreasureBox BoxId="81012" Height="8" />
+      </Mission>
+      <Mission Id="92003" Name="MissionName92003" Background="Home_denmark_bg_01" Model="92003" NimIcon="" QuestId="20084" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81013" Height="3" />
+        <TreasureBox BoxId="81014" Height="8" />
+      </Mission>
+      <Mission Id="92004" Name="MissionName92004" Background="Home_denmark_bg_01" Model="92004" NimIcon="" QuestId="20085" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81015" Height="3" />
+        <TreasureBox BoxId="81016" Height="8" />
       </Mission>
     </Scene>
   </World>
