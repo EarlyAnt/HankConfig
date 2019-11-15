@@ -466,88 +466,88 @@
     <Number>22</Number>
     <Id>69012</Id>
     <Type>6</Type>
-    <Name>spider cake</Name>
-    <Tag>snack</Tag>
+    <Name>opensandwich</Name>
+    <Tag>mainFood</Tag>
     <IsNew>TRUE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-10-27 00:00</StartTime>
-    <EndTime>2019-11-26 23:59</EndTime>
+    <StartTime>2019-11-27 00:00</StartTime>
+    <EndTime>2019-12-19 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
-    <Price>10</Price>
+    <Price>20</Price>
     <Sale>1</Sale>
-    <Hp>10</Hp>
-    <Exp>0</Exp>
+    <Hp>24</Hp>
+    <Exp>5</Exp>
     <IsShow>TRUE</IsShow>
     <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>food_spider_cake_small</DefaultIcon>
-    <HighLightIcon>food_spider_cake</HighLightIcon>
+    <DefaultIcon>food_opensandwich_small</DefaultIcon>
+    <HighLightIcon>food_opensandwich</HighLightIcon>
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
     <Number>23</Number>
     <Id>69013</Id>
     <Type>6</Type>
-    <Name>toffee apple</Name>
-    <Tag>fruit</Tag>
+    <Name>fruitdanish</Name>
+    <Tag>snack</Tag>
     <IsNew>TRUE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-10-27 00:00</StartTime>
-    <EndTime>2019-11-26 23:59</EndTime>
+    <StartTime>2019-11-27 00:00</StartTime>
+    <EndTime>2019-12-19 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
-    <Price>8</Price>
+    <Price>15</Price>
     <Sale>1</Sale>
-    <Hp>6</Hp>
-    <Exp>0</Exp>
+    <Hp>18</Hp>
+    <Exp>2</Exp>
     <IsShow>TRUE</IsShow>
     <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>food_toffee_apple_small</DefaultIcon>
-    <HighLightIcon>food_toffee_apple</HighLightIcon>
+    <DefaultIcon>food_fruitdanish_small</DefaultIcon>
+    <HighLightIcon>food_fruitdanish</HighLightIcon>
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
     <Number>24</Number>
     <Id>69014</Id>
     <Type>6</Type>
-    <Name>mummy chocolate</Name>
-    <Tag>snack</Tag>
+    <Name>herring</Name>
+    <Tag>fish</Tag>
     <IsNew>TRUE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-10-27 00:00</StartTime>
-    <EndTime>2019-11-26 23:59</EndTime>
+    <StartTime>2019-11-27 00:00</StartTime>
+    <EndTime>2019-12-19 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
-    <Price>40</Price>
+    <Price>10</Price>
     <Sale>1</Sale>
-    <Hp>40</Hp>
-    <Exp>6</Exp>
+    <Hp>8</Hp>
+    <Exp>5</Exp>
     <IsShow>TRUE</IsShow>
     <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>food_mummy_chocolate_small</DefaultIcon>
-    <HighLightIcon>food_mummy_chocolate</HighLightIcon>
+    <DefaultIcon>food_herring_small</DefaultIcon>
+    <HighLightIcon>food_herring</HighLightIcon>
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
     <Number>25</Number>
     <Id>69015</Id>
     <Type>6</Type>
-    <Name>skull cookie</Name>
-    <Tag>snack</Tag>
+    <Name>meatball</Name>
+    <Tag>mainFood</Tag>
     <IsNew>TRUE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-10-27 00:00</StartTime>
-    <EndTime>2019-11-26 23:59</EndTime>
+    <StartTime>2019-11-27 00:00</StartTime>
+    <EndTime>2019-12-19 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
-    <Price>20</Price>
+    <Price>40</Price>
     <Sale>1</Sale>
-    <Hp>25</Hp>
-    <Exp>2</Exp>
+    <Hp>50</Hp>
+    <Exp>0</Exp>
     <IsShow>TRUE</IsShow>
     <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>food_skull_cookie_small</DefaultIcon>
-    <HighLightIcon>food_skull_cookie</HighLightIcon>
+    <DefaultIcon>food_meatball_small</DefaultIcon>
+    <HighLightIcon>food_meatball</HighLightIcon>
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
 </Properties>

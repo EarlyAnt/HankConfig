@@ -6,7 +6,14 @@
     <Item Id="10003" Type="1" Name="BronzeCrown" Icon="iconBronzeCrown" Interactivity="0" Des="铜皇冠"/>
     <Item Id="10004" Type="1" Name="SilverCrown" Icon="iconSilverCrown" Interactivity="0" Des="银皇冠"/>
     <Item Id="10005" Type="1" Name="GoldenCrown" Icon="iconGoldenCrown" Interactivity="0" Des="金皇冠"/>
-  	<Item Id="20000" Type="2" Name="HatNin01" Icon="" Interactivity="0" Des="小忍蓝披风"/>
+    <Item Id="20001" Type="2" Name="wizard hat" getImage="icon" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20002" Type="2" Name="devil wing" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20003" Type="2" Name="ghost" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20004" Type="2" Name="pumpkin" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20005" Type="2" Name="snow cloud" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20006" Type="2" Name="snow wing" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20007" Type="2" Name="cornu cervi" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20008" Type="2" Name="snowman" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   	<Item Id="30000" Type="3" Name="Chest001" Icon="" Interactivity="1" Des="一级小宝箱"/>
     <Item Id="50001" Type="5" Name="Coin" Icon="" Interactivity="0" Des="金币"/>
     <Item Id="40001" Type="4" Name="nim0101" getImage="Home_box_nim_ocean brim01 (1)" Icon="" StoryBg="" AudioId="" Description="" PetType="1" Image="atom_icon0001" Audio="Sea/1-1-128" Animation="40001" Preview="Ocean/imgNim01011"/>
@@ -163,9 +170,9 @@
     <Item Id="69009" Type="6" Name="toffee apple" getImage="food_toffee_apple" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69010" Type="6" Name="mummy chocolate" getImage="food_mummy_chocolate" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69011" Type="6" Name="skull cookie" getImage="food_skull_cookie" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="69012" Type="6" Name="spider cake" getImage="food_spider_cake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="69013" Type="6" Name="toffee apple" getImage="food_toffee_apple" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="69014" Type="6" Name="mummy chocolate" getImage="food_mummy_chocolate" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="69015" Type="6" Name="skull cookie" getImage="food_skull_cookie" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69012" Type="6" Name="opensandwich" getImage="food_opensandwich" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69013" Type="6" Name="fruitdanish" getImage="food_fruitdanish" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69014" Type="6" Name="herring" getImage="food_herring" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69015" Type="6" Name="meatball" getImage="food_meatball" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>
