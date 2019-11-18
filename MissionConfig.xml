@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
-  <World Name="Ima星球" ID="10000" Type="1" Title="title_ima" Photo="planet_ima" Preview="preview_ima" BoxType="box" Unlock="NONE" SleepBackgournd="home_good night">
-    <Scene Name="原始海洋" Index="1" Icon="ima_sea" TitleBg="Title_Bg_0101" TitleColor="0.435,1,0.969" Preview="IMA_BG01">
+  <World Name="Ima星球" ID="10000" Type="1" Title="title_ima" Photo="planet_ima" Preview="preview_ima" Unlock="NONE" SleepBackgournd="home_good night">
+    <Scene Name="原始海洋" Index="1" Icon="ima_sea" TitleBg="Title_Bg_0101" TitleColor="0.435,1,0.969" BoxType="box" Preview="IMA_BG01">
       <Mission Id="11001" Name="MissionName11001" Background="Home_Backgrond_ocean brim (1)" Model="11001" NimIcon="atom_icon0022" QuestId="20001" dailyGoalPercent="0.33" AwardCoin="32" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="10001" Height="3" />
         <TreasureBox BoxId="10002" Height="8" />
@@ -87,7 +87,7 @@
         <TreasureBox BoxId="10042" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="绿梦森林" Index="2" Icon="ima_forest" TitleBg="Title_Bg_0102" TitleColor="0.612,1,0.38" Preview="IMA_BG02">
+    <Scene Name="绿梦森林" Index="2" Icon="ima_forest" TitleBg="Title_Bg_0102" TitleColor="0.612,1,0.38" BoxType="box" Preview="IMA_BG02">
       <Mission Id="12001" Name="MissionName12001" Background="Home_Backgrond_wonder woods (1)" Model="12001" NimIcon="atom_icon0064" QuestId="20022" dailyGoalPercent="0.52" AwardCoin="74" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="10043" Height="3" />
         <TreasureBox BoxId="10044" Height="8" />
@@ -173,7 +173,7 @@
         <TreasureBox BoxId="10084" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="漂流沙漠" Index="3" Icon="ima_desert" TitleBg="Title_Bg_0103" TitleColor="0.8,0.251,0.004" Preview="IMA_BG03">
+    <Scene Name="漂流沙漠" Index="3" Icon="ima_desert" TitleBg="Title_Bg_0103" TitleColor="0.8,0.251,0.004" BoxType="box" Preview="IMA_BG03">
       <Mission Id="13001" Name="MissionName13001" Background="Home_Backgrond_desert daze (1)" Model="13001" NimIcon="atom_icon0106" QuestId="20043" dailyGoalPercent="0.9" AwardCoin="116" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="10085" Height="3" />
         <TreasureBox BoxId="10086" Height="8" />
@@ -259,7 +259,7 @@
         <TreasureBox BoxId="10126" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="神秘红岩" Index="4" Icon="ima_volcano" TitleBg="Title_Bg_0104" TitleColor="0.424,0.11,0.122" Preview="IMA_BG04">
+    <Scene Name="神秘红岩" Index="4" Icon="ima_volcano" TitleBg="Title_Bg_0104" TitleColor="0.424,0.11,0.122" BoxType="box" Preview="IMA_BG04">
       <Mission Id="14001" Name="MissionName14001" Background="Home_Backgrond__mystery red0001" Model="14001" NimIcon="atom_icon0157" QuestId="20064" dailyGoalPercent="1.25" AwardCoin="158" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="10127" Height="3" />
         <TreasureBox BoxId="10128" Height="8" />
@@ -302,8 +302,8 @@
       </Mission>
     </Scene>
   </World>
-  <World Name="童话王国" ID="80000" Type="9" Title="title_castle" Photo="planet_castle" Preview="preview_castle" BoxType="pumpkin" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
-    <Scene Name="万圣节" Index="1" Icon="magic_halloween" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" Preview="MAGIC_BG01">
+  <World Name="童话王国" ID="80000" Type="9" Title="title_castle" Photo="planet_castle" Preview="preview_castle" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
+    <Scene Name="万圣节" Index="1" Icon="magic_halloween" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" BoxType="pumpkin" Preview="MAGIC_BG01">
       <Mission Id="81001" Name="MissionName81001" Background="Home_hallowmas__bg_01" Model="81001" NimIcon="" QuestId="20078" dailyGoalPercent="0.5" AwardCoin="50" BGM="hallowmas_bgm" Sound="hallowmas_effect" WaterDrop="07KuLou" WaterDropAudio="water_drop_down_81001">
         <TreasureBox BoxId="81001" Height="3" />
         <TreasureBox BoxId="81002" Height="8" />
@@ -322,8 +322,8 @@
       </Mission>
     </Scene>
   </World>
-  <World Name="地球" ID="90000" Type="9" Title="title_earth" Photo="planet_earth" Preview="preview_earth" BoxType="bag" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
-    <Scene Name="中华美食街" Index="1" Icon="earth_Asia" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" Preview="EARTH_BG01">
+  <World Name="地球" ID="90000" Type="9" Title="title_earth" Photo="planet_earth" Preview="preview_earth" Unlock="Date|2019-9-10" SleepBackgournd="home_good night">
+    <Scene Name="中华美食街" Index="1" Icon="earth_Asia" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" BoxType="bag" Preview="EARTH_BG01">
       <Mission Id="91001" Name="MissionName91001" Background="Home_Backgrond_nationalday_01" Model="91001" NimIcon="" QuestId="20074" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="91001" Height="3" />
         <TreasureBox BoxId="91002" Height="8" />
@@ -341,7 +341,7 @@
         <TreasureBox BoxId="91008" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="丹麦" Index="2" Icon="earth_Europe" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" Preview="EARTH_BG02">
+    <Scene Name="丹麦" Index="2" Icon="earth_Europe" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" BoxType="box_snow" Preview="EARTH_BG02">
       <Mission Id="92001" Name="MissionName92001" Background="Home_Backgrond_hfairy_tale_bg_01" Model="92001" NimIcon="" QuestId="20082" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="91009" Height="3" />
         <TreasureBox BoxId="91010" Height="8" />
