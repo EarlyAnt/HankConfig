@@ -134,6 +134,11 @@
       <Audio Key="feed_welcome_china_004" Value="CHS/feed_welcome_china_004" />
       <Audio Key="feed_welcome_china_005" Value="CHS/feed_welcome_china_005" />
       <Audio Key="goods_soldout" Value="CHS/goods_soldout" />
+      <Audio Key="feed_welcome_dk_001" Value="CHS/feed_welcome_dk_001" />
+      <Audio Key="feed_welcome_dk_002" Value="CHS/feed_welcome_dk_002" />
+      <Audio Key="feed_welcome_dk_003" Value="CHS/feed_welcome_dk_003" />
+      <Audio Key="feed_welcome_dk_004" Value="CHS/feed_welcome_dk_004" />
+      <Audio Key="feed_welcome_dk_005" Value="CHS/feed_welcome_dk_005" />
       <Audio Key="galaxy_welcome_new" Value="CHS/galaxy_welcome_new" />
       <Audio Key="galaxy_new_world_welcome_001" Value="CHS/galaxy_new_world_welcome_001" />
       <Audio Key="galaxy_new_world_welcome_002" Value="CHS/galaxy_new_world_welcome_002" />
@@ -277,6 +282,11 @@
       <Audio Key="feed_welcome_china_004" Value="CHS/feed_welcome_china_004" />
       <Audio Key="feed_welcome_china_005" Value="CHS/feed_welcome_china_005" />
       <Audio Key="goods_soldout" Value="CHS/goods_soldout" />
+      <Audio Key="feed_welcome_dk_001" Value="CHS/feed_welcome_dk_001" />
+      <Audio Key="feed_welcome_dk_002" Value="CHS/feed_welcome_dk_002" />
+      <Audio Key="feed_welcome_dk_003" Value="CHS/feed_welcome_dk_003" />
+      <Audio Key="feed_welcome_dk_004" Value="CHS/feed_welcome_dk_004" />
+      <Audio Key="feed_welcome_dk_005" Value="CHS/feed_welcome_dk_005" />
       <Audio Key="galaxy_welcome_new" Value="CHS/galaxy_welcome_new" />
       <Audio Key="galaxy_new_world_welcome_001" Value="CHS/galaxy_new_world_welcome_001" />
       <Audio Key="galaxy_new_world_welcome_002" Value="CHS/galaxy_new_world_welcome_002" />
@@ -420,6 +430,11 @@
       <Audio Key="feed_welcome_china_004" Value="EN/feed_welcome_china_004" />
       <Audio Key="feed_welcome_china_005" Value="EN/feed_welcome_china_005" />
       <Audio Key="goods_soldout" Value="EN/goods_soldout" />
+      <Audio Key="feed_welcome_dk_001" Value="EN/feed_welcome_dk_001" />
+      <Audio Key="feed_welcome_dk_002" Value="EN/feed_welcome_dk_002" />
+      <Audio Key="feed_welcome_dk_003" Value="EN/feed_welcome_dk_003" />
+      <Audio Key="feed_welcome_dk_004" Value="EN/feed_welcome_dk_004" />
+      <Audio Key="feed_welcome_dk_005" Value="EN/feed_welcome_dk_005" />
       <Audio Key="galaxy_welcome_new" Value="EN/galaxy_welcome_new" />
       <Audio Key="galaxy_new_world_welcome_001" Value="EN/galaxy_new_world_welcome_001" />
       <Audio Key="galaxy_new_world_welcome_002" Value="EN/galaxy_new_world_welcome_002" />
@@ -563,6 +578,11 @@
       <Audio Key="feed_welcome_china_004" Value="JP/feed_welcome_china_004" />
       <Audio Key="feed_welcome_china_005" Value="JP/feed_welcome_china_005" />
       <Audio Key="goods_soldout" Value="JP/goods_soldout" />
+      <Audio Key="feed_welcome_dk_001" Value="JP/feed_welcome_dk_001" />
+      <Audio Key="feed_welcome_dk_002" Value="JP/feed_welcome_dk_002" />
+      <Audio Key="feed_welcome_dk_003" Value="JP/feed_welcome_dk_003" />
+      <Audio Key="feed_welcome_dk_004" Value="JP/feed_welcome_dk_004" />
+      <Audio Key="feed_welcome_dk_005" Value="JP/feed_welcome_dk_005" />
       <Audio Key="galaxy_welcome_new" Value="JP/galaxy_welcome_new" />
       <Audio Key="galaxy_new_world_welcome_001" Value="JP/galaxy_new_world_welcome_001" />
       <Audio Key="galaxy_new_world_welcome_002" Value="JP/galaxy_new_world_welcome_002" />
