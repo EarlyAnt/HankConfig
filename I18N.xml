@@ -18,6 +18,8 @@
       <Text Key="Feed_No_Coin" Value="金币不足|HKHB" />
       <Text Key="退出下载" Value="退出下载|HKHB" />
       <Text Key="关卡进度" Value="关卡进度|HKHB" />
+      <Text Key="倒计天" Value="倒计时{0}天|HKHB" />
+      <Text Key="倒计时" Value="倒计时{0}小时|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -166,6 +168,8 @@
       <Text Key="Feed_No_Coin" Value="金幣不足|DFPT" />
       <Text Key="退出下载" Value="退出下載|DFPT" />
       <Text Key="关卡进度" Value="關卡進度|DFPT" />
+      <Text Key="倒计天" Value="倒計時{0}天|DFPT" />
+      <Text Key="倒计时" Value="倒計時{0}小時|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -314,6 +318,8 @@
       <Text Key="Feed_No_Coin" Value="Not enough coins|DFPT" />
       <Text Key="退出下载" Value="Abort download|DFPT" />
       <Text Key="关卡进度" Value="Progress|DFPT" />
+      <Text Key="倒计天" Value="{0}d countdown|DFPT" />
+      <Text Key="倒计时" Value="{0}h countdown|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -462,6 +468,8 @@
       <Text Key="Feed_No_Coin" Value="コインが足りない|Pomeranian" />
       <Text Key="退出下载" Value="DL中止|Pomeranian" />
       <Text Key="关卡进度" Value="進行状況|Pomeranian" />
+      <Text Key="倒计天" Value="カウントダウン{0}日|Pomeranian" />
+      <Text Key="倒计时" Value="カウントダウン{0}時間|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
