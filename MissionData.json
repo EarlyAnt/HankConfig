@@ -1,0 +1,50 @@
+{
+    "Stars": [
+        {
+            "ID": 10000,
+            "Unlock": "Date|2019-01-01",
+            "Scenes": [
+                {
+                    "Index": 1,
+                    "Unlock": "Date|2019-01-01"
+                },
+                {
+                    "Index": 2,
+                    "Unlock": "Date|2019-01-01"
+                },
+                {
+                    "Index": 3,
+                    "Unlock": "Date|2019-01-01"
+                },
+                {
+                    "Index": 4,
+                    "Unlock": "Date|2019-01-01"
+                }
+            ]
+        },
+        {
+            "ID": 80000,
+            "Unlock": "Date|2019-11-01",
+            "Scenes": [
+                {
+                    "Index": 1,
+                    "Unlock": "Date|2019-01-01"
+                }
+            ]
+        },
+        {
+            "ID": 90000,
+            "Unlock": "Date|2019-10-01",
+            "Scenes": [
+                {
+                    "Index": 1,
+                    "Unlock": "Date|2019-11-01"
+                },
+                {
+                    "Index": 2,
+                    "Unlock": "Date|2019-11-27"
+                }
+            ]
+        }
+    ]
+}
