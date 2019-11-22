@@ -774,5 +774,14 @@
       <Clip SoundPath="feed_welcome_dk_004" />
       <Clip SoundPath="feed_welcome_dk_005" />
     </Sound>
+    <Sound Type="galaxy_unlock" Storage="Remote" Dec="星球或地图解锁提示音">
+      <Clip SoundPath="galaxy_unlock02" />
+    </Sound>
+    <Sound Type="galaxy_lock_drink" Storage="Remote" Dec="饮水解锁新地图">
+      <Clip SoundPath="galaxy_lock_drink" />
+    </Sound>
+    <Sound Type="galaxy_lock_time" Storage="Remote" Dec="新地图稍后解锁">
+      <Clip SoundPath="galaxy_lock_time" />
+    </Sound>
   </Sounds>
 </Project>
