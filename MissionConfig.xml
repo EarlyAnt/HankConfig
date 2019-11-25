@@ -341,7 +341,7 @@
         <TreasureBox BoxId="91008" Height="8" />
       </Mission>
     </Scene>
-    <Scene Name="丹麦" Index="2" Icon="earth_Europe" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" BoxType="box_snow" Preview="EARTH_BG02" Unlock="Date|2019-11-27">
+    <Scene Name="丹麦" Index="2" Icon="earth_Europe" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" BoxType="box_snow" Preview="EARTH_BG02" Unlock="Date|2019-11-27 18:00:00">
       <Mission Id="92001" Name="MissionName92001" Background="Home_Backgrond_hfairy_tale_bg_01" Model="92001" NimIcon="" QuestId="20082" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
         <TreasureBox BoxId="91009" Height="3" />
         <TreasureBox BoxId="91010" Height="8" />
