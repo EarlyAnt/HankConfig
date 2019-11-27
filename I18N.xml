@@ -152,6 +152,16 @@
       <Audio Key="galaxy_welcome_005" Value="CHS/galaxy_welcome_005" />
       <Audio Key="galaxy_welcome_006" Value="CHS/galaxy_welcome_006" />
       <Audio Key="mission_complete_retry" Value="CHS/mission_complete_retry" />
+      <Audio Key="mall_welcome_001" Value="CHS/mall_welcome_001" />
+      <Audio Key="mall_welcome_002" Value="CHS/mall_welcome_002" />
+      <Audio Key="mall_welcome_003" Value="CHS/mall_welcome_003" />
+      <Audio Key="mall_welcome_004" Value="CHS/mall_welcome_004" />
+      <Audio Key="mall_welcome_005" Value="CHS/mall_welcome_005" />
+      <Audio Key="mall_purchase_lock" Value="CHS/mall_purchase_lock" />
+      <Audio Key="mall_suit_not_match" Value="CHS/mall_suit_not_match" />
+      <Audio Key="popup_goods_level_lock" Value="CHS/popup_goods_level_lock" />
+      <Audio Key="mall_purchase_qr" Value="CHS/mall_purchase_qr" />
+      <Audio Key="mall_purchase_qr_complete" Value="CHS/mall_purchase_qr_complete" />
     </ResConfig>
 
     <ResConfig Language="CHT" Des="中文繁体">
@@ -303,6 +313,16 @@
       <Audio Key="galaxy_welcome_005" Value="CHS/galaxy_welcome_005" />
       <Audio Key="galaxy_welcome_006" Value="CHS/galaxy_welcome_006" />
       <Audio Key="mission_complete_retry" Value="CHS/mission_complete_retry" />
+      <Audio Key="mall_welcome_001" Value="CHS/mall_welcome_001" />
+      <Audio Key="mall_welcome_002" Value="CHS/mall_welcome_002" />
+      <Audio Key="mall_welcome_003" Value="CHS/mall_welcome_003" />
+      <Audio Key="mall_welcome_004" Value="CHS/mall_welcome_004" />
+      <Audio Key="mall_welcome_005" Value="CHS/mall_welcome_005" />
+      <Audio Key="mall_purchase_lock" Value="CHS/mall_purchase_lock" />
+      <Audio Key="mall_suit_not_match" Value="CHS/mall_suit_not_match" />
+      <Audio Key="popup_goods_level_lock" Value="CHS/popup_goods_level_lock" />
+      <Audio Key="mall_purchase_qr" Value="CHS/mall_purchase_qr" />
+      <Audio Key="mall_purchase_qr_complete" Value="CHS/mall_purchase_qr_complete" />
     </ResConfig>
 
     <ResConfig Language="EN" DES="英文">
@@ -454,6 +474,16 @@
       <Audio Key="galaxy_welcome_005" Value="EN/galaxy_welcome_005" />
       <Audio Key="galaxy_welcome_006" Value="EN/galaxy_welcome_006" />
       <Audio Key="mission_complete_retry" Value="EN/mission_complete_retry" />
+      <Audio Key="mall_welcome_001" Value="EN/mall_welcome_001" />
+      <Audio Key="mall_welcome_002" Value="EN/mall_welcome_002" />
+      <Audio Key="mall_welcome_003" Value="EN/mall_welcome_003" />
+      <Audio Key="mall_welcome_004" Value="EN/mall_welcome_004" />
+      <Audio Key="mall_welcome_005" Value="EN/mall_welcome_005" />
+      <Audio Key="mall_purchase_lock" Value="EN/mall_purchase_lock" />
+      <Audio Key="mall_suit_not_match" Value="EN/mall_suit_not_match" />
+      <Audio Key="popup_goods_level_lock" Value="EN/popup_goods_level_lock" />
+      <Audio Key="mall_purchase_qr" Value="EN/mall_purchase_qr" />
+      <Audio Key="mall_purchase_qr_complete" Value="EN/mall_purchase_qr_complete" />
     </ResConfig>
 
     <ResConfig Language="JP" DES="日文">
@@ -605,6 +635,16 @@
       <Audio Key="galaxy_welcome_005" Value="JP/galaxy_welcome_005" />
       <Audio Key="galaxy_welcome_006" Value="JP/galaxy_welcome_006" />
       <Audio Key="mission_complete_retry" Value="JP/mission_complete_retry" />
+      <Audio Key="mall_welcome_001" Value="JP/mall_welcome_001" />
+      <Audio Key="mall_welcome_002" Value="JP/mall_welcome_002" />
+      <Audio Key="mall_welcome_003" Value="JP/mall_welcome_003" />
+      <Audio Key="mall_welcome_004" Value="JP/mall_welcome_004" />
+      <Audio Key="mall_welcome_005" Value="JP/mall_welcome_005" />
+      <Audio Key="mall_purchase_lock" Value="JP/mall_purchase_lock" />
+      <Audio Key="mall_suit_not_match" Value="JP/mall_suit_not_match" />
+      <Audio Key="popup_goods_level_lock" Value="JP/popup_goods_level_lock" />
+      <Audio Key="mall_purchase_qr" Value="JP/mall_purchase_qr" />
+      <Audio Key="mall_purchase_qr_complete" Value="JP/mall_purchase_qr_complete" />
       <!--日文版补充部分-->
       <Audio Key="ai_popup_not_activated" Value="JP/ai_popup_not_activated" />
       <Audio Key="dony_friend_fail_01" Value="JP/dony_friend_fail_01" />
