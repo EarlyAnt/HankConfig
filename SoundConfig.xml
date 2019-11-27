@@ -783,6 +783,16 @@
     <Sound Type="galaxy_lock_time" Storage="Remote" Dec="新地图稍后解锁">
       <Clip SoundPath="galaxy_lock_time" />
     </Sound>
+    <Sound Type="mall_bgm" Storage="Remote" Dec="换装页背景音乐">
+      <Clip SoundPath="mall_bgm" />
+    </Sound>
+    <Sound Type="mall_welcome" Storage="Remote" Dec="换装页欢迎语音">
+      <Clip SoundPath="mall_welcome_001" />
+      <Clip SoundPath="mall_welcome_002" />
+      <Clip SoundPath="mall_welcome_003" />
+      <Clip SoundPath="mall_welcome_004" />
+      <Clip SoundPath="mall_welcome_005" />
+    </Sound>
     <Sound Type="mall_purchase_lock" Storage="Remote" Dec="换装页今日饮水量未达标提醒">
       <Clip SoundPath="mall_purchase_lock" />
     </Sound>
