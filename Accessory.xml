@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
   <Accessories>
-    <Accessory ID="20001" Type="1" Index="1" Name="wizard hat" Icon="icon" Prefab="Hat" Region="Head" Purchase="Coin" Price="200" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
-    <Accessory ID="20002" Type="2" Index="6" Name="devil wing" Icon="" Prefab="" Region="" Purchase="Coin" Price="1800" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
-    <Accessory ID="20003" Type="5" Index="3" Name="ghost" Icon="" Prefab="" Region="" Purchase="Coin" Price="800" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
-    <Accessory ID="20004" Type="5" Index="2" Name="pumpkin" Icon="" Prefab="" Region="" Purchase="Coin" Price="300" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
-    <Accessory ID="20005" Type="5" Index="4" Name="snow cloud" Icon="" Prefab="" Region="" Purchase="Cash" Price="1.99" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
-    <Accessory ID="20006" Type="2" Index="5" Name="snow wing" Icon="" Prefab="" Region="" Purchase="Coin" Price="1000" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
-    <Accessory ID="20007" Type="1" Index="7" Name="cornu cervi" Icon="" Prefab="" Region="" Purchase="Coin" Price="2000" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
-    <Accessory ID="20008" Type="5" Index="8" Name="snowman" Icon="" Prefab="" Region="" Purchase="Coin" Price="500" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20001" Type="1" Index="1" Name="wizard hat" Icon="20001" Prefab="Hat" Region="Head" Purchase="Coin" Price="200" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20002" Type="2" Index="6" Name="devil wing" Icon="20002" Prefab="" Region="" Purchase="Coin" Price="1800" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20003" Type="5" Index="3" Name="ghost" Icon="20003" Prefab="" Region="" Purchase="Coin" Price="800" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20004" Type="5" Index="2" Name="pumpkin" Icon="20004" Prefab="" Region="" Purchase="Coin" Price="300" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20005" Type="5" Index="4" Name="snow cloud" Icon="20005" Prefab="" Region="" Purchase="Cash" Price="1.99" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20006" Type="2" Index="5" Name="snow wing" Icon="20006" Prefab="" Region="" Purchase="Coin" Price="1000" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20007" Type="1" Index="7" Name="cornu cervi" Icon="20007" Prefab="" Region="" Purchase="Coin" Price="2000" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20008" Type="5" Index="8" Name="snowman" Icon="20008" Prefab="" Region="" Purchase="Coin" Price="500" StartTime="null" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
   </Accessories>
 </Project>
