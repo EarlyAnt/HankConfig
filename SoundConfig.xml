@@ -783,5 +783,20 @@
     <Sound Type="galaxy_lock_time" Storage="Remote" Dec="新地图稍后解锁">
       <Clip SoundPath="galaxy_lock_time" />
     </Sound>
+    <Sound Type="mall_purchase_lock" Storage="Remote" Dec="换装页今日饮水量未达标提醒">
+      <Clip SoundPath="mall_purchase_lock" />
+    </Sound>
+    <Sound Type="mall_suit_not_match" Storage="Remote" Dec="换装页配饰不适用提醒">
+      <Clip SoundPath="mall_suit_not_match" />
+    </Sound>
+    <Sound Type="popup_goods_level_lock" Storage="Remote" Dec="换装页等级不够提醒">
+      <Clip SoundPath="popup_goods_level_lock" />
+    </Sound>
+    <Sound Type="mall_purchase_qr" Storage="Remote" Dec="换装页显示二维码">
+      <Clip SoundPath="mall_purchase_qr" />
+    </Sound>
+    <Sound Type="mall_purchase_qr_complete" Storage="Remote" Dec="换装页二维码购物成功">
+      <Clip SoundPath="mall_purchase_qr_complete" />
+    </Sound>
   </Sounds>
 </Project>
