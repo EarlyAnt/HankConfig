@@ -808,5 +808,20 @@
     <Sound Type="mall_purchase_qr_complete" Storage="Remote" Dec="换装页二维码购物成功">
       <Clip SoundPath="mall_purchase_qr_complete" />
     </Sound>
+    <Sound Type="mall_change_item" Storage="Remote" Dec="换装页切换配饰/小精灵">
+      <Clip SoundPath="mall_change_item" />
+    </Sound>
+    <Sound Type="mall_put_on_accessory" Storage="Remote" Dec="换装页穿上配饰">
+      <Clip SoundPath="mall_put_on_accessory" />
+    </Sound>
+    <Sound Type="mall_take_off_accessory" Storage="Remote" Dec="换装页脱下配饰">
+      <Clip SoundPath="mall_take_off_accessory" />
+    </Sound>
+    <Sound Type="mall_spirit_in" Storage="Remote" Dec="换装页小精灵出场">
+      <Clip SoundPath="mall_spirit_in" />
+    </Sound>
+    <Sound Type="mall_spirit_out" Storage="Remote" Dec="换装页小精灵退场">
+      <Clip SoundPath="mall_spirit_out" />
+    </Sound>
   </Sounds>
 </Project>
