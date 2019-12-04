@@ -19,6 +19,7 @@
       <Text Key="退出下载" Value="退出下载|HKHB" />
       <Text Key="关卡进度" Value="关卡进度|HKHB" />
       <Text Key="倒计天" Value="{0}天|HKHB" />
+      <Text Key="已拥有" Value="已拥有|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -180,6 +181,7 @@
       <Text Key="退出下载" Value="退出下載|DFPT" />
       <Text Key="关卡进度" Value="關卡進度|DFPT" />
       <Text Key="倒计天" Value="{0}天|HKHB" />
+      <Text Key="已拥有" Value="已拥有|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -341,6 +343,7 @@
       <Text Key="退出下载" Value="Abort download|DFPT" />
       <Text Key="关卡进度" Value="Progress|DFPT" />
       <Text Key="倒计天" Value="{0}days|DFPT" />
+      <Text Key="已拥有" Value="owned|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -502,6 +505,7 @@
       <Text Key="退出下载" Value="DL中止|Pomeranian" />
       <Text Key="关卡进度" Value="進行状況|Pomeranian" />
       <Text Key="倒计天" Value="{0}日|Pomeranian" />
+      <Text Key="已拥有" Value="持っている|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
