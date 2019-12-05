@@ -97,6 +97,7 @@
       <Audio Key="guide_homepage_011" Value="CHS/guide_homepage_011" />
       <Audio Key="galaxy_lock_drink" Value="CHS/galaxy_lock_drink" />
       <Audio Key="galaxy_lock_time" Value="CHS/galaxy_lock_time" />
+      <Audio Key="ai_popup_no_network" Value="CHS/ai_popup_no_network" />
       <Audio Key="popup_feed_welcome" Value="CHS/popup_feed_welcome" />
       <Audio Key="feed_welcome_001" Value="CHS/feed_welcome_001" />
       <Audio Key="feed_welcome_002" Value="CHS/feed_welcome_002" />
@@ -259,6 +260,7 @@
       <Audio Key="guide_homepage_011" Value="CHS/guide_homepage_011" />
       <Audio Key="galaxy_lock_drink" Value="CHS/galaxy_lock_drink" />
       <Audio Key="galaxy_lock_time" Value="CHS/galaxy_lock_time" />
+      <Audio Key="ai_popup_no_network" Value="CHS/ai_popup_no_network" />
       <Audio Key="popup_feed_welcome" Value="CHS/popup_feed_welcome" />
       <Audio Key="feed_welcome_001" Value="CHS/feed_welcome_001" />
       <Audio Key="feed_welcome_002" Value="CHS/feed_welcome_002" />
@@ -421,6 +423,7 @@
       <Audio Key="guide_homepage_011" Value="EN/guide_homepage_011" />
       <Audio Key="galaxy_lock_drink" Value="EN/galaxy_lock_drink" />
       <Audio Key="galaxy_lock_time" Value="EN/galaxy_lock_time" />
+      <Audio Key="ai_popup_no_network" Value="EN/ai_popup_no_network" />
       <Audio Key="popup_feed_welcome" Value="EN/popup_feed_welcome" />
       <Audio Key="feed_welcome_001" Value="EN/feed_welcome_001" />
       <Audio Key="feed_welcome_002" Value="EN/feed_welcome_002" />
@@ -583,6 +586,7 @@
       <Audio Key="guide_homepage_011" Value="JP/guide_homepage_011" />
       <Audio Key="galaxy_lock_drink" Value="JP/galaxy_lock_drink" />
       <Audio Key="galaxy_lock_time" Value="JP/galaxy_lock_time" />
+      <Audio Key="ai_popup_no_network" Value="JP/ai_popup_no_network" />
       <Audio Key="popup_feed_welcome" Value="JP/popup_feed_welcome" />
       <Audio Key="feed_welcome_001" Value="JP/feed_welcome_001" />
       <Audio Key="feed_welcome_002" Value="JP/feed_welcome_002" />
