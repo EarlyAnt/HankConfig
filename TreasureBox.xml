@@ -466,6 +466,31 @@
       <Treasure ItemId="69011" Value="3" />
     </TreasureBox>
 
+    <TreasureBox Id="81009" Type="2" Name="">
+      <Treasure ItemId="69016" Value="1" />
+    </TreasureBox>
+    <TreasureBox Id="81010" Type="2" Name="">
+      <Treasure ItemId="69016" Value="3" />
+    </TreasureBox>
+    <TreasureBox Id="81011" Type="2" Name="">
+      <Treasure ItemId="69017" Value="1" />
+    </TreasureBox>
+    <TreasureBox Id="81012" Type="2" Name="">
+      <Treasure ItemId="69017" Value="3" />
+    </TreasureBox>
+    <TreasureBox Id="81013" Type="2" Name="">
+      <Treasure ItemId="69018" Value="1" />
+    </TreasureBox>
+    <TreasureBox Id="81014" Type="2" Name="">
+      <Treasure ItemId="69018" Value="3" />
+    </TreasureBox>
+    <TreasureBox Id="81015" Type="2" Name="">
+      <Treasure ItemId="69019" Value="3" />
+    </TreasureBox>
+    <TreasureBox Id="81016" Type="2" Name="">
+      <Treasure ItemId="69020" Value="3" />
+    </TreasureBox>
+
     <TreasureBox Id="91001" Type="2" Name="">
       <Treasure ItemId="69004" Value="1" />
     </TreasureBox>

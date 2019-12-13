@@ -174,5 +174,10 @@
     <Item Id="69013" Type="6" Name="fruitdanish" getImage="food_fruitdanish" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69014" Type="6" Name="herring" getImage="food_herring" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69015" Type="6" Name="meatball" getImage="food_meatball" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69016" Type="6" Name="cake" getImage="food_cake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69017" Type="6" Name="candy" getImage="food_candy" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69018" Type="6" Name="chicken" getImage="food_chicken" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69019" Type="6" Name="ginger bread" getImage="food_gingerbread" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69020" Type="6" Name="pudding" getImage="food_pudding" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>
