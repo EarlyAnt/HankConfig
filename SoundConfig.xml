@@ -823,5 +823,15 @@
     <Sound Type="mall_spirit_out" Storage="Remote" Dec="换装页小精灵退场">
       <Clip SoundPath="mall_spirit_out" />
     </Sound>
+    <Sound Type="feed_welcome_xmas" Storage="Remote" Dec="喂食页圣诞节欢迎语音">
+      <Clip SoundPath="feed_welcome_xmas_001" />
+      <Clip SoundPath="feed_welcome_xmas_002" />
+      <Clip SoundPath="feed_welcome_xmas_003" />
+      <Clip SoundPath="feed_welcome_xmas_004" />
+      <Clip SoundPath="feed_welcome_xmas_005" />
+    </Sound>
+    <Sound Type="feed_bgm_xmas" Storage="Remote" Dec="喂食页圣诞节背景音乐">
+      <Clip SoundPath="feed_bgm_xmas" />
+    </Sound>
   </Sounds>
 </Project>
