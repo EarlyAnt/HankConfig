@@ -529,25 +529,113 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>25</Number>
-    <Id>69015</Id>
+    <Number>26</Number>
+    <Id>69016</Id>
     <Type>6</Type>
-    <Name>meatball</Name>
+    <Name>cake</Name>
     <Tag>mainFood</Tag>
     <IsNew>TRUE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-11-27 00:00</StartTime>
-    <EndTime>2019-12-19 23:59</EndTime>
+    <StartTime>2019-12-24 00:00</StartTime>
+    <EndTime>2020-01-15 00:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>10</Price>
+    <Sale>1</Sale>
+    <Hp>10</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_cake_small</DefaultIcon>
+    <HighLightIcon>food_cake</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>27</Number>
+    <Id>69017</Id>
+    <Type>6</Type>
+    <Name>candy</Name>
+    <Tag>snack</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-12-24 00:00</StartTime>
+    <EndTime>2020-01-15 00:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>25</Price>
+    <Sale>1</Sale>
+    <Hp>30</Hp>
+    <Exp>5</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_candy_small</DefaultIcon>
+    <HighLightIcon>food_candy</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>28</Number>
+    <Id>69018</Id>
+    <Type>6</Type>
+    <Name>chicken</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-12-24 00:00</StartTime>
+    <EndTime>2020-01-15 00:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>40</Price>
     <Sale>1</Sale>
-    <Hp>50</Hp>
-    <Exp>0</Exp>
+    <Hp>45</Hp>
+    <Exp>20</Exp>
     <IsShow>TRUE</IsShow>
     <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>food_meatball_small</DefaultIcon>
-    <HighLightIcon>food_meatball</HighLightIcon>
+    <DefaultIcon>food_chicken_small</DefaultIcon>
+    <HighLightIcon>food_chicken</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>29</Number>
+    <Id>69019</Id>
+    <Type>6</Type>
+    <Name>ginger bread</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-12-24 00:00</StartTime>
+    <EndTime>2020-01-15 00:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>30</Price>
+    <Sale>1</Sale>
+    <Hp>35</Hp>
+    <Exp>8</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_gingerbread_small</DefaultIcon>
+    <HighLightIcon>food_gingerbread</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>30</Number>
+    <Id>69020</Id>
+    <Type>6</Type>
+    <Name>pudding</Name>
+    <Tag>snack</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-12-24 00:00</StartTime>
+    <EndTime>2020-01-15 00:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>18</Hp>
+    <Exp>10</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_pudding_small</DefaultIcon>
+    <HighLightIcon>food_pudding</HighLightIcon>
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
 </Properties>
