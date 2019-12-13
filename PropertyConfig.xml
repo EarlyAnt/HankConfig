@@ -8,8 +8,8 @@
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>5</Price>
@@ -30,8 +30,8 @@
     <Tag>drink</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>10</Price>
@@ -52,8 +52,8 @@
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -74,8 +74,8 @@
     <Tag>snack</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>3</UnlockLevel>
     <Rarity>5</Rarity>
     <Price>20</Price>
@@ -96,8 +96,8 @@
     <Tag>snack</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>5</UnlockLevel>
     <Rarity>10</Rarity>
     <Price>30</Price>
@@ -118,8 +118,8 @@
     <Tag>snack</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>8</UnlockLevel>
     <Rarity>20</Rarity>
     <Price>40</Price>
@@ -134,102 +134,14 @@
   </PropertyItem>
   <PropertyItem>
     <Number>7</Number>
-    <Id>60007</Id>
-    <Type>6</Type>
-    <Name>carrot</Name>
-    <Tag>vegetable</Tag>
-    <IsNew>FALSE</IsNew>
-    <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
-    <UnlockLevel>11</UnlockLevel>
-    <Rarity>10</Rarity>
-    <Price>30</Price>
-    <Sale>1</Sale>
-    <Hp>30</Hp>
-    <Exp>0</Exp>
-    <IsShow>FALSE</IsShow>
-    <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>60007_default_icon</DefaultIcon>
-    <HighLightIcon>60007_highlight_icon</HighLightIcon>
-    <ReactionAnim>NINJI:1;SANSA:1;PURPIE:1;DONNY:1;YOYO:1;NUO:1</ReactionAnim>
-  </PropertyItem>
-  <PropertyItem>
-    <Number>8</Number>
-    <Id>60008</Id>
-    <Type>6</Type>
-    <Name>sweet potato</Name>
-    <Tag>mainFood</Tag>
-    <IsNew>FALSE</IsNew>
-    <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
-    <UnlockLevel>11</UnlockLevel>
-    <Rarity>15</Rarity>
-    <Price>40</Price>
-    <Sale>1</Sale>
-    <Hp>38</Hp>
-    <Exp>3</Exp>
-    <IsShow>FALSE</IsShow>
-    <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>60008_default_icon</DefaultIcon>
-    <HighLightIcon>60008_highlight_icon</HighLightIcon>
-    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
-  </PropertyItem>
-  <PropertyItem>
-    <Number>9</Number>
-    <Id>60009</Id>
-    <Type>6</Type>
-    <Name>fried chicken</Name>
-    <Tag>snack</Tag>
-    <IsNew>FALSE</IsNew>
-    <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
-    <UnlockLevel>13</UnlockLevel>
-    <Rarity>35</Rarity>
-    <Price>40</Price>
-    <Sale>1</Sale>
-    <Hp>30</Hp>
-    <Exp>8</Exp>
-    <IsShow>FALSE</IsShow>
-    <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>60009_default_icon</DefaultIcon>
-    <HighLightIcon>60009_highlight_icon</HighLightIcon>
-    <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
-  </PropertyItem>
-  <PropertyItem>
-    <Number>10</Number>
-    <Id>60010</Id>
-    <Type>6</Type>
-    <Name>sweet star</Name>
-    <Tag>snack</Tag>
-    <IsNew>FALSE</IsNew>
-    <IsCampain>FALSE</IsCampain>
-    <StartTime>NULL</StartTime>
-    <EndTime>NULL</EndTime>
-    <UnlockLevel>15</UnlockLevel>
-    <Rarity>25</Rarity>
-    <Price>35</Price>
-    <Sale>1</Sale>
-    <Hp>34</Hp>
-    <Exp>2</Exp>
-    <IsShow>FALSE</IsShow>
-    <AcquireWay>Coin</AcquireWay>
-    <DefaultIcon>60010_default_icon</DefaultIcon>
-    <HighLightIcon>60010_highlight_icon</HighLightIcon>
-    <ReactionAnim>NINJI:3;SANSA:3;PURPIE:3;DONNY:3;YOYO:3;NUO:3</ReactionAnim>
-  </PropertyItem>
-  <PropertyItem>
-    <Number>11</Number>
     <Id>69001</Id>
     <Type>6</Type>
     <Name>pork mooncake</Name>
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-9-11 00:00:00</StartTime>
-    <EndTime>2019-9-24 23:59:00</EndTime>
+    <StartTime>2019-09-11 00:00</StartTime>
+    <EndTime>2019-09-24 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -243,15 +155,15 @@
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>12</Number>
+    <Number>8</Number>
     <Id>69002</Id>
     <Type>6</Type>
     <Name>yolk mooncake</Name>
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-9-11 00:00:00</StartTime>
-    <EndTime>2019-9-24 23:59:00</EndTime>
+    <StartTime>2019-09-11 00:00</StartTime>
+    <EndTime>2019-09-24 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -262,18 +174,18 @@
     <AcquireWay>Coin</AcquireWay>
     <DefaultIcon>yolk_small</DefaultIcon>
     <HighLightIcon>yolkmcake</HighLightIcon>
-    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY2;YOYO:2;NUO:2</ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>13</Number>
+    <Number>9</Number>
     <Id>69003</Id>
     <Type>6</Type>
     <Name>kernel mooncake</Name>
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-9-11 00:00:00</StartTime>
-    <EndTime>2019-9-24 23:59:00</EndTime>
+    <StartTime>2019-09-11 00:00</StartTime>
+    <EndTime>2019-09-24 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -287,15 +199,15 @@
     <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:2</ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>14</Number>
+    <Number>10</Number>
     <Id>69004</Id>
     <Type>6</Type>
     <Name>flagjuice</Name>
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-9-27 00:00:00</StartTime>
-    <EndTime>2019-10-26 23:59:00</EndTime>
+    <StartTime>2019-09-27 00:00</StartTime>
+    <EndTime>2019-10-26 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -306,18 +218,18 @@
     <AcquireWay>Coin</AcquireWay>
     <DefaultIcon>food_flagjuice_small</DefaultIcon>
     <HighLightIcon>food_flagjuice</HighLightIcon>
-    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:3</ReactionAnim>
+    <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>15</Number>
+    <Number>11</Number>
     <Id>69005</Id>
     <Type>6</Type>
     <Name>bombmuffin</Name>
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-9-27 00:00:00</StartTime>
-    <EndTime>2019-10-26 23:59:00</EndTime>
+    <StartTime>2019-09-27 00:00</StartTime>
+    <EndTime>2019-10-26 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -328,18 +240,18 @@
     <AcquireWay>Coin</AcquireWay>
     <DefaultIcon>food_bombmuffin_small</DefaultIcon>
     <HighLightIcon>food_bombmuffin</HighLightIcon>
-    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:4</ReactionAnim>
+    <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>16</Number>
+    <Number>12</Number>
     <Id>69006</Id>
     <Type>6</Type>
     <Name>nestcake</Name>
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-9-27 00:00:00</StartTime>
-    <EndTime>2019-10-26 23:59:00</EndTime>
+    <StartTime>2019-09-27 00:00</StartTime>
+    <EndTime>2019-10-26 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -350,18 +262,18 @@
     <AcquireWay>Coin</AcquireWay>
     <DefaultIcon>food_nestcake_small</DefaultIcon>
     <HighLightIcon>food_nestcake</HighLightIcon>
-    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:5</ReactionAnim>
+    <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>17</Number>
+    <Number>13</Number>
     <Id>69007</Id>
     <Type>6</Type>
     <Name>rocketcookie</Name>
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-9-27 00:00:00</StartTime>
-    <EndTime>2019-10-26 23:59:00</EndTime>
+    <StartTime>2019-09-27 00:00</StartTime>
+    <EndTime>2019-10-26 23:59</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -372,10 +284,10 @@
     <AcquireWay>Coin</AcquireWay>
     <DefaultIcon>food_rocketcookie_small</DefaultIcon>
     <HighLightIcon>food_rocketcookie</HighLightIcon>
-    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:2;DONNY:2;YOYO:2;NUO:6</ReactionAnim>
+    <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>18</Number>
+    <Number>14</Number>
     <Id>69008</Id>
     <Type>6</Type>
     <Name>spider cake</Name>
@@ -397,7 +309,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>19</Number>
+    <Number>15</Number>
     <Id>69009</Id>
     <Type>6</Type>
     <Name>toffee apple</Name>
@@ -419,7 +331,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>20</Number>
+    <Number>16</Number>
     <Id>69010</Id>
     <Type>6</Type>
     <Name>mummy chocolate</Name>
@@ -441,7 +353,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>21</Number>
+    <Number>17</Number>
     <Id>69011</Id>
     <Type>6</Type>
     <Name>skull cookie</Name>
@@ -463,7 +375,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>22</Number>
+    <Number>18</Number>
     <Id>69012</Id>
     <Type>6</Type>
     <Name>opensandwich</Name>
@@ -485,7 +397,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>23</Number>
+    <Number>19</Number>
     <Id>69013</Id>
     <Type>6</Type>
     <Name>fruitdanish</Name>
@@ -507,7 +419,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>24</Number>
+    <Number>20</Number>
     <Id>69014</Id>
     <Type>6</Type>
     <Name>herring</Name>
@@ -529,7 +441,29 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>26</Number>
+    <Number>21</Number>
+    <Id>69015</Id>
+    <Type>6</Type>
+    <Name>meatball</Name>
+    <Tag>mainFood</Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-11-27 00:00</StartTime>
+    <EndTime>2019-12-19 23:59</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>40</Price>
+    <Sale>1</Sale>
+    <Hp>50</Hp>
+    <Exp>0</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_meatball_small</DefaultIcon>
+    <HighLightIcon>food_meatball</HighLightIcon>
+    <ReactionAnim></ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>22</Number>
     <Id>69016</Id>
     <Type>6</Type>
     <Name>cake</Name>
@@ -551,7 +485,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>27</Number>
+    <Number>23</Number>
     <Id>69017</Id>
     <Type>6</Type>
     <Name>candy</Name>
@@ -573,7 +507,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>28</Number>
+    <Number>24</Number>
     <Id>69018</Id>
     <Type>6</Type>
     <Name>chicken</Name>
@@ -595,7 +529,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>29</Number>
+    <Number>25</Number>
     <Id>69019</Id>
     <Type>6</Type>
     <Name>ginger bread</Name>
@@ -617,7 +551,7 @@
     <ReactionAnim></ReactionAnim>
   </PropertyItem>
   <PropertyItem>
-    <Number>30</Number>
+    <Number>26</Number>
     <Id>69020</Id>
     <Type>6</Type>
     <Name>pudding</Name>
