@@ -474,10 +474,10 @@
     <EndTime>2020-01-21 00:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
-    <Price>10</Price>
+    <Price>30</Price>
     <Sale>1</Sale>
-    <Hp>10</Hp>
-    <Exp>2</Exp>
+    <Hp>35</Hp>
+    <Exp>8</Exp>
     <IsShow>TRUE</IsShow>
     <AcquireWay>Coin</AcquireWay>
     <DefaultIcon>food_cake_small</DefaultIcon>
@@ -496,10 +496,10 @@
     <EndTime>2020-01-21 00:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
-    <Price>25</Price>
+    <Price>15</Price>
     <Sale>1</Sale>
-    <Hp>30</Hp>
-    <Exp>5</Exp>
+    <Hp>20</Hp>
+    <Exp>2</Exp>
     <IsShow>TRUE</IsShow>
     <AcquireWay>Coin</AcquireWay>
     <DefaultIcon>food_candy_small</DefaultIcon>
@@ -562,10 +562,10 @@
     <EndTime>2020-01-21 00:00</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
-    <Price>20</Price>
+    <Price>10</Price>
     <Sale>1</Sale>
-    <Hp>18</Hp>
-    <Exp>10</Exp>
+    <Hp>12</Hp>
+    <Exp>3</Exp>
     <IsShow>TRUE</IsShow>
     <AcquireWay>Coin</AcquireWay>
     <DefaultIcon>food_pudding_small</DefaultIcon>
