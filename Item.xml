@@ -6,15 +6,22 @@
     <Item Id="10003" Type="1" Name="BronzeCrown" Icon="iconBronzeCrown" Interactivity="0" Des="铜皇冠"/>
     <Item Id="10004" Type="1" Name="SilverCrown" Icon="iconSilverCrown" Interactivity="0" Des="银皇冠"/>
     <Item Id="10005" Type="1" Name="GoldenCrown" Icon="iconGoldenCrown" Interactivity="0" Des="金皇冠"/>
-    <Item Id="20001" Type="2" Name="wizard hat" getImage="icon" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="20002" Type="2" Name="devil wing" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="20003" Type="2" Name="ghost" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="20004" Type="2" Name="pumpkin" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="20005" Type="2" Name="snow cloud" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="20006" Type="2" Name="snow wing" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="20007" Type="2" Name="cornu cervi" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="20008" Type="2" Name="snowman" getImage="0" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-  	<Item Id="30000" Type="3" Name="Chest001" Icon="" Interactivity="1" Des="一级小宝箱"/>
+    <Item Id="20001" Type="2" Name="wizard hat" getImage="part_head_hat" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20002" Type="2" Name="devil wing" getImage="part_wing_bat" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20003" Type="2" Name="ghost" getImage="elf_up_ghost" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20004" Type="2" Name="pumpkin" getImage="elf_down_pumpkin" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20005" Type="2" Name="snow cloud" getImage="elf_up_cloud" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20006" Type="2" Name="snow wing" getImage="part_wing_snow" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20007" Type="2" Name="cornu cervi" getImage="part_head_antler" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20008" Type="2" Name="snowman" getImage="elf_down_snowman" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20009" Type="2" Name="antler ponit" getImage="part_head_antler02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20010" Type="2" Name="christmas hat" getImage="part_head_merryhat" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20011" Type="2" Name="christmas point" getImage="suit_pur_merry" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20012" Type="2" Name="elk" getImage="elf_down_deer" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20013" Type="2" Name="elk02" getImage="elf_down_deer02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20014" Type="2" Name="giftbox" getImage="elf_up_gift" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20015" Type="2" Name="giftbox02" getImage="elf_up_gift02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="30000" Type="3" Name="Chest001" Icon="" Interactivity="1" Des="一级小宝箱"/>
     <Item Id="50001" Type="5" Name="Coin" Icon="" Interactivity="0" Des="金币"/>
     <Item Id="40001" Type="4" Name="nim0101" getImage="Home_box_nim_ocean brim01 (1)" Icon="" StoryBg="" AudioId="" Description="" PetType="1" Image="atom_icon0001" Audio="Sea/1-1-128" Animation="40001" Preview="Ocean/imgNim01011"/>
     <Item Id="40002" Type="4" Name="nim0102" getImage="Home_box_nim_ocean brim02 (1)" Icon="" StoryBg="" AudioId="" Description="" PetType="1" Image="atom_icon0022" Audio="Sea/1-2-128" Animation="40002" Preview="Ocean/imgNim01012"/>
