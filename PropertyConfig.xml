@@ -572,4 +572,92 @@
     <HighLightIcon>food_pudding</HighLightIcon>
     <ReactionAnim>NINJI:3;SANSA:2;PURPIE:1;DONNY:1;YOYO:2;NUO:3</ReactionAnim>
   </PropertyItem>
+  <PropertyItem>
+    <Number>27</Number>
+    <Id>69021</Id>
+    <Type>6</Type>
+    <Name>food_dumplings</Name>
+    <Tag></Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-01-23 00:00</StartTime>
+    <EndTime>2020-03-18 00:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>20</Price>
+    <Sale>1</Sale>
+    <Hp>28</Hp>
+    <Exp>2</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_dumplings_small</DefaultIcon>
+    <HighLightIcon>food_dumplings</HighLightIcon>
+    <ReactionAnim>NINJI:1;SANSA:2;PURPIE:1;DONNY:3;YOYO:1;NUO:1</ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>28</Number>
+    <Id>69022</Id>
+    <Type>6</Type>
+    <Name>food_orange</Name>
+    <Tag></Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-01-23 00:00</StartTime>
+    <EndTime>2020-03-18 00:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>8</Price>
+    <Sale>1</Sale>
+    <Hp>10</Hp>
+    <Exp>1</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_orange_small</DefaultIcon>
+    <HighLightIcon>food_orange</HighLightIcon>
+    <ReactionAnim>NINJI:2;SANSA:2;PURPIE:1;DONNY:1;YOYO:3;NUO:1</ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>29</Number>
+    <Id>69023</Id>
+    <Type>6</Type>
+    <Name>food_ricecakefish</Name>
+    <Tag></Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-01-23 00:00</StartTime>
+    <EndTime>2020-03-18 00:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>25</Price>
+    <Sale>1</Sale>
+    <Hp>30</Hp>
+    <Exp>10</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_ricecakefish_small</DefaultIcon>
+    <HighLightIcon>food_ricecakefish</HighLightIcon>
+    <ReactionAnim>NINJI:1;SANSA:3;PURPIE:2;DONNY:2;YOYO:1;NUO:2</ReactionAnim>
+  </PropertyItem>
+  <PropertyItem>
+    <Number>30</Number>
+    <Id>69024</Id>
+    <Type>6</Type>
+    <Name>food_sausage</Name>
+    <Tag></Tag>
+    <IsNew>TRUE</IsNew>
+    <IsCampain>TRUE</IsCampain>
+    <StartTime>2019-01-23 00:00</StartTime>
+    <EndTime>2020-03-18 00:00</EndTime>
+    <UnlockLevel>1</UnlockLevel>
+    <Rarity>0</Rarity>
+    <Price>40</Price>
+    <Sale>1</Sale>
+    <Hp>55</Hp>
+    <Exp>5</Exp>
+    <IsShow>TRUE</IsShow>
+    <AcquireWay>Coin</AcquireWay>
+    <DefaultIcon>food_sausage_small</DefaultIcon>
+    <HighLightIcon>food_sausage</HighLightIcon>
+    <ReactionAnim>NINJI:3;SANSA:1;PURPIE:3;DONNY:1;YOYO:2;NUO:1</ReactionAnim>
+  </PropertyItem>
 </Properties>

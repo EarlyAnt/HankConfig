@@ -339,6 +339,24 @@
         <TreasureBox BoxId="81016" Height="8" />
       </Mission>
     </Scene>
+    <Scene Name="鼠年春节" Index="3" Icon="MAGIC_mouseyear" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" BoxType="bag_mouseyear" Preview="MAGIC_BG03" Unlock="Date|2020-01-23 18:00:00">
+      <Mission Id="83001" Name="MissionName83001" Background="Home_mouseyear_bg_01" Model="83001" NimIcon="" QuestId="20090" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81017" Height="3" />
+        <TreasureBox BoxId="81018" Height="8" />
+      </Mission>
+      <Mission Id="83002" Name="MissionName83002" Background="Home_mouseyear_bg_02" Model="83002" NimIcon="" QuestId="20091" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81019" Height="3" />
+        <TreasureBox BoxId="81020" Height="8" />
+      </Mission>
+      <Mission Id="83003" Name="MissionName83003" Background="Home_mouseyear_bg_03" Model="83001" NimIcon="" QuestId="20092" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81021" Height="3" />
+        <TreasureBox BoxId="81022" Height="8" />
+      </Mission>
+      <Mission Id="83004" Name="MissionName83004" Background="Home_mouseyear_bg_04" Model="83002" NimIcon="" QuestId="20093" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="81023" Height="3" />
+        <TreasureBox BoxId="81024" Height="8" />
+      </Mission>
+    </Scene>
   </World>
   <World Name="地球" ID="90000" Type="9" Title="title_earth" Photo="planet_earth" Preview="preview_earth" Unlock="Date|2019-10-01" SleepBackgournd="home_good night">
     <Scene Name="中华美食街" Index="1" Icon="earth_Asia" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" BoxType="bag" Preview="EARTH_BG01" Unlock="Date|2019-10-01">

@@ -833,5 +833,20 @@
     <Sound Type="feed_bgm_xmas" Storage="Remote" Dec="喂食页圣诞节背景音乐">
       <Clip SoundPath="feed_bgm_xmas" />
     </Sound>
+    <Sound Type="feed_bgm" Storage="Remote" Dec="喂食场景背景音乐">
+      <Clip SoundPath="feed_bgm_denmark" />
+    </Sound>
+    <Sound Type="coin_spend" Storage="Remote" Dec="消耗金币">
+      <Clip SoundPath="coin_spend" />
+    </Sound>
+    <Sound Type="main_scene_wheel" Storage="Remote" Dec="切换场景">
+      <Clip SoundPath="main_scene_wheel" />
+    </Sound>
+    <Sound Type="feed_hp_increase" Storage="Remote" Dec="增加能量值">
+      <Clip SoundPath="feed_hp_increase" />
+    </Sound>
+    <Sound Type="feed_bgm_mouse" Storage="Remote" Dec="喂食页鼠年春节背景音乐">
+      <Clip SoundPath="feed_bgm_mouse" />
+    </Sound>
   </Sounds>
 </Project>
