@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
   <Items>
-  	<Item Id="10001" Type="1" Name="Exp" Icon="iconExp" Interactivity="0" Des="经验"/>
-  	<Item Id="10002" Type="1" Name="Gem" Icon="iconGem" Interactivity="0" Des="宝石"/>
+    <Item Id="10001" Type="1" Name="Exp" Icon="iconExp" Interactivity="0" Des="经验"/>
+    <Item Id="10002" Type="1" Name="Gem" Icon="iconGem" Interactivity="0" Des="宝石"/>
     <Item Id="10003" Type="1" Name="BronzeCrown" Icon="iconBronzeCrown" Interactivity="0" Des="铜皇冠"/>
     <Item Id="10004" Type="1" Name="SilverCrown" Icon="iconSilverCrown" Interactivity="0" Des="银皇冠"/>
     <Item Id="10005" Type="1" Name="GoldenCrown" Icon="iconGoldenCrown" Interactivity="0" Des="金皇冠"/>
     <Item Id="20000" Type="2" Name="HatNin01" Icon="" Interactivity="0" Des="小忍蓝披风"/>
     <Item Id="30000" Type="3" Name="Chest001" Icon="" Interactivity="1" Des="一级小宝箱"/>
+    <Item Id="20001" Type="2" Name="wizard hat" getImage="part_head_hat" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20002" Type="2" Name="devil wing" getImage="part_wing_bat" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20003" Type="2" Name="ghost" getImage="elf_up_ghost" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20004" Type="2" Name="pumpkin" getImage="elf_down_pumpkin" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20005" Type="2" Name="snow cloud" getImage="elf_up_cloud" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20006" Type="2" Name="snow wing" getImage="part_wing_snow" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20007" Type="2" Name="cornu cervi" getImage="part_head_antler" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20008" Type="2" Name="snowman" getImage="elf_down_snowman" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20009" Type="2" Name="antler ponit" getImage="part_head_antler02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20010" Type="2" Name="christmas hat" getImage="part_head_merryhat" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20011" Type="2" Name="christmas point" getImage="suit_pur_merry" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20012" Type="2" Name="elk" getImage="elf_down_deer" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20013" Type="2" Name="elk02" getImage="elf_down_deer02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20014" Type="2" Name="giftbox" getImage="elf_up_gift" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20015" Type="2" Name="giftbox02" getImage="elf_up_gift02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20016" Type="2" Name="part_head" getImage="part_head_hat02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20017" Type="2" Name="coin hat" getImage="part_head_coinhat" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20018" Type="2" Name="fan wing" getImage="part_wing_fan" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20019" Type="2" Name="mouse spring" getImage="suit_yoyo_mousespring" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20020" Type="2" Name="cloud02" getImage="elf_up_cloud02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20021" Type="2" Name="snowman02" getImage="elf_down_snowman02" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20022" Type="2" Name="snowman03" getImage="elf_down_snowman03" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20023" Type="2" Name="minions" getImage="elf_down_minions" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20024" Type="2" Name="Batman" getImage="elf_down_Batman" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20025" Type="2" Name="little mouse" getImage="elf_down_lmouse" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="50001" Type="5" Name="Coin" Icon="" Interactivity="0" Des="金币"/>
     <Item Id="40001" Type="4" Name="nim0101" getImage="Home_box_nim_ocean brim01 (1)" Icon="" StoryBg="" AudioId="" Description="" PetType="1" Image="atom_icon0001" Audio="Sea/1-1-128" Animation="40001" Preview="Ocean/imgNim01011"/>
     <Item Id="40002" Type="4" Name="nim0102" getImage="Home_box_nim_ocean brim02 (1)" Icon="" StoryBg="" AudioId="" Description="" PetType="1" Image="atom_icon0022" Audio="Sea/1-2-128" Animation="40002" Preview="Ocean/imgNim01012"/>
@@ -155,5 +180,26 @@
     <Item Id="40164" Type="4" Name="nim0418" getImage="Home_box_nim_volcano02 (9)" Icon="" StoryBg="" AudioId="" Description="" PetType="4" Image="atom_icon0165" Audio="Rock/9-2" Animation="" Preview="Rock/imgNim04092"/>
     <Item Id="40165" Type="4" Name="nim0419" getImage="Home_box_nim_volcano01 (10)" Icon="" StoryBg="" AudioId="" Description="" PetType="4" Image="atom_icon0156" Audio="Rock/10-1" Animation="" Preview="Rock/imgNim04101"/>
     <Item Id="40166" Type="4" Name="nim0420" getImage="Home_box_nim_volcano02 (10)" Icon="" StoryBg="" AudioId="" Description="" PetType="4" Image="atom_icon0166" Audio="Rock/10-2" Animation="" Preview="Rock/imgNim04102"/>
+    <Item Id="69004" Type="6" Name="flagjuice" getImage="food_flagjuice" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69005" Type="6" Name="bombmuffin" getImage="food_bombmuffin" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69006" Type="6" Name="nestcake" getImage="food_nestcake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69007" Type="6" Name="rocketcookie" getImage="food_rocketcookie" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69008" Type="6" Name="spider cake" getImage="food_spider_cake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69009" Type="6" Name="toffee apple" getImage="food_toffee_apple" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69010" Type="6" Name="mummy chocolate" getImage="food_mummy_chocolate" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69011" Type="6" Name="skull cookie" getImage="food_skull_cookie" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69012" Type="6" Name="opensandwich" getImage="food_opensandwich" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69013" Type="6" Name="fruitdanish" getImage="food_fruitdanish" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69014" Type="6" Name="herring" getImage="food_herring" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69015" Type="6" Name="meatball" getImage="food_meatball" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69016" Type="6" Name="cake" getImage="food_cake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69017" Type="6" Name="candy" getImage="food_candy" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69018" Type="6" Name="chicken" getImage="food_chicken" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69019" Type="6" Name="ginger bread" getImage="food_gingerbread" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69020" Type="6" Name="pudding" getImage="food_pudding" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69021" Type="6" Name="food_dumplings" getImage="food_dumplings" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69022" Type="6" Name="food_orange" getImage="food_orange" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69023" Type="6" Name="food_ricecakefish" getImage="food_ricecakefish" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69024" Type="6" Name="food_sausage" getImage="food_sausage" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>
