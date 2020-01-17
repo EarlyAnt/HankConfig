@@ -26,5 +26,6 @@
     <Accessory ID="20023" Type="6" Index="12" Name="minions" Icon="elf_down_minions" AB="role/elk" Prefab="elk_C_prefab" Region="BottomRight" Purchase="Coin" Price="1700" Exp="15" StartTime="2020-01-27 18:00" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
     <Accessory ID="20024" Type="6" Index="13" Name="Batman" Icon="elf_down_Batman" AB="role/elk" Prefab="elk_D_prefab" Region="BottomRight" Purchase="Coin" Price="1700" Exp="15" StartTime="2020-01-28 18:00" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
     <Accessory ID="20025" Type="6" Index="14" Name="little mouse" Icon="elf_down_lmouse" AB="role/little mouse" Prefab="little mouse_prefab" Region="BottomRight" Purchase="Cash" Price="1.99" Exp="30" StartTime="2020-01-29 18:00" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
+    <Accessory ID="20026" Type="6" Index="15" Name="papercut mice" Icon="elf_down_papercut_mice" AB="role/papercut mice" Prefab="papercut mice_prefab" Region="BottomRight" Purchase="Coin" Price="1500" Exp="15" StartTime="2020-01-29 18:00" EndTime="null" Level="1" PURPIE="1" DONNY="1" NINJI="1" SANSA="1" YOYO="1" NUO="1" />
   </Accessories>
 </Project>
