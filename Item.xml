@@ -33,6 +33,7 @@
     <Item Id="20023" Type="2" Name="minions" getImage="elf_down_minions" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="20024" Type="2" Name="Batman" getImage="elf_down_Batman" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="20025" Type="2" Name="little mouse" getImage="elf_down_lmouse" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="20026" Type="2" Name="papercut mice" getImage="elf_down_papercut_mice" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="50001" Type="5" Name="Coin" Icon="" Interactivity="0" Des="金币"/>
     <Item Id="40001" Type="4" Name="nim0101" getImage="Home_box_nim_ocean brim01 (1)" Icon="" StoryBg="" AudioId="" Description="" PetType="1" Image="atom_icon0001" Audio="Sea/1-1-128" Animation="40001" Preview="Ocean/imgNim01011"/>
     <Item Id="40002" Type="4" Name="nim0102" getImage="Home_box_nim_ocean brim02 (1)" Icon="" StoryBg="" AudioId="" Description="" PetType="1" Image="atom_icon0022" Audio="Sea/1-2-128" Animation="40002" Preview="Ocean/imgNim01012"/>
