@@ -20,6 +20,7 @@
       <Text Key="关卡进度" Value="关卡进度|HKHB" />
       <Text Key="倒计天" Value="{0}天|HKHB" />
       <Text Key="已拥有" Value="已拥有|HKHB" />
+      <Text Key="加载中" Value="加载中|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -165,8 +166,9 @@
       <Audio Key="mall_welcome_004" Value="CHS/mall_welcome_004" />
       <Audio Key="mall_welcome_005" Value="CHS/mall_welcome_005" />
       <Audio Key="mall_purchase_lock" Value="CHS/mall_purchase_lock" />
-      <Audio Key="mall_suit_not_match" Value="CHS/mall_suit_not_match" />
+      <Audio Key="mall_suit_not_match" Value="CHS/mall_suit_not_match" />      
       <Audio Key="popup_goods_level_lock" Value="CHS/popup_goods_level_lock" />
+      <Audio Key="mall_lock_time" Value="CHS/mall_lock_time" />
       <Audio Key="mall_purchase_qr" Value="CHS/mall_purchase_qr" />
       <Audio Key="mall_purchase_qr_complete" Value="CHS/mall_purchase_qr_complete" />
     </ResConfig>
@@ -188,6 +190,7 @@
       <Text Key="关卡进度" Value="關卡進度|DFPT" />
       <Text Key="倒计天" Value="{0}天|HKHB" />
       <Text Key="已拥有" Value="已拥有|HKHB" />
+      <Text Key="加载中" Value="加載中|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -335,6 +338,7 @@
       <Audio Key="mall_purchase_lock" Value="CHS/mall_purchase_lock" />
       <Audio Key="mall_suit_not_match" Value="CHS/mall_suit_not_match" />
       <Audio Key="popup_goods_level_lock" Value="CHS/popup_goods_level_lock" />
+      <Audio Key="mall_lock_time" Value="CHS/mall_lock_time" />
       <Audio Key="mall_purchase_qr" Value="CHS/mall_purchase_qr" />
       <Audio Key="mall_purchase_qr_complete" Value="CHS/mall_purchase_qr_complete" />
     </ResConfig>
@@ -356,6 +360,7 @@
       <Text Key="关卡进度" Value="Progress|DFPT" />
       <Text Key="倒计天" Value="{0}days|DFPT" />
       <Text Key="已拥有" Value="owned|DFPT" />
+      <Text Key="加载中" Value="Loading|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -503,6 +508,7 @@
       <Audio Key="mall_purchase_lock" Value="EN/mall_purchase_lock" />
       <Audio Key="mall_suit_not_match" Value="EN/mall_suit_not_match" />
       <Audio Key="popup_goods_level_lock" Value="EN/popup_goods_level_lock" />
+      <Audio Key="mall_lock_time" Value="EN/mall_lock_time" />
       <Audio Key="mall_purchase_qr" Value="EN/mall_purchase_qr" />
       <Audio Key="mall_purchase_qr_complete" Value="EN/mall_purchase_qr_complete" />
     </ResConfig>
@@ -524,6 +530,7 @@
       <Text Key="关卡进度" Value="進行状況|Pomeranian" />
       <Text Key="倒计天" Value="{0}日|Pomeranian" />
       <Text Key="已拥有" Value="持っている|Pomeranian" />
+      <Text Key="加载中" Value="ダウンロード中|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
@@ -671,6 +678,7 @@
       <Audio Key="mall_purchase_lock" Value="JP/mall_purchase_lock" />
       <Audio Key="mall_suit_not_match" Value="JP/mall_suit_not_match" />
       <Audio Key="popup_goods_level_lock" Value="JP/popup_goods_level_lock" />
+      <Audio Key="mall_lock_time" Value="JP/mall_lock_time" />
       <Audio Key="mall_purchase_qr" Value="JP/mall_purchase_qr" />
       <Audio Key="mall_purchase_qr_complete" Value="JP/mall_purchase_qr_complete" />
       <!--日文版补充部分-->

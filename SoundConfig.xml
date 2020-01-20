@@ -802,6 +802,9 @@
     <Sound Type="popup_goods_level_lock" Storage="Remote" Dec="换装页等级不够提醒">
       <Clip SoundPath="popup_goods_level_lock" />
     </Sound>
+    <Sound Type="mall_lock_time" Storage="Remote" Dec="配饰未开放提示音">
+      <Clip SoundPath="mall_lock_time" />
+    </Sound>
     <Sound Type="mall_purchase_qr" Storage="Remote" Dec="换装页显示二维码">
       <Clip SoundPath="mall_purchase_qr" />
     </Sound>
