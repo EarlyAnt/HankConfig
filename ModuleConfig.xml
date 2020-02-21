@@ -4,18 +4,26 @@
     <Module Name="PetDress" Desc="换装页" >
       <File Name="cash" Path="PetDress/View/cash" Type="Image" />
       <File Name="check" Path="PetDress/View/check" Type="Image" />
+      <File Name="clock" Path="PetDress/View/clock" Type="Image" />
       <File Name="code_bg" Path="PetDress/View/code_bg" Type="Image" />
       <File Name="coin" Path="PetDress/View/coin" Type="Image" />
       <File Name="coin_bg" Path="PetDress/View/coin_bg" Type="Image" />
+      <File Name="default_pet" Path="PetDress/View/default_pet" Type="Image" />
       <File Name="disable" Path="PetDress/View/disable" Type="Image" />
       <File Name="disable_big" Path="PetDress/View/disable_big" Type="Image" />
       <File Name="icon_disable" Path="PetDress/View/icon_disable" Type="Image" />
+      <File Name="limited_CHS" Path="PetDress/View/limited_CHS" Type="Image" />
+      <File Name="limited_CHT" Path="PetDress/View/limited_CHT" Type="Image" />
+      <File Name="limited_EN" Path="PetDress/View/limited_EN" Type="Image" />
+      <File Name="limited_JP" Path="PetDress/View/limited_JP" Type="Image" />
       <File Name="lock_bg" Path="PetDress/View/lock_bg" Type="Image" />
       <File Name="needcoin" Path="PetDress/View/needcoin" Type="Image" />
       <File Name="net_no" Path="PetDress/View/net_no" Type="Image" />
       <File Name="nocoin" Path="PetDress/View/nocoin" Type="Image" />
       <File Name="nonpayment" Path="PetDress/View/nonpayment" Type="Image" />
       <File Name="phone_pay" Path="PetDress/View/phone_pay" Type="Image" />
+      <File Name="red_dot" Path="PetDress/View/red_dot" Type="Image" />
+      <File Name="sea_small" Path="PetDress/View/sea_small" Type="Image" />
       <File Name="special_label_activity 1" Path="PetDress/View/special_label_activity 1" Type="Image" />
       <File Name="Tips_bg" Path="PetDress/View/Tips_bg" Type="Image" />
       <File Name="title_have" Path="PetDress/View/title_have" Type="Image" />
