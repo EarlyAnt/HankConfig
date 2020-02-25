@@ -851,5 +851,8 @@
     <Sound Type="feed_bgm_mouse" Storage="Remote" Dec="喂食页鼠年春节背景音乐">
       <Clip SoundPath="feed_bgm_mouse" />
     </Sound>
+    <Sound Type="navigator_change_icon" Storage="Remote" Dec="导航轮盘切换图标">
+      <Clip SoundPath="navigator_change_icon" />
+    </Sound>
   </Sounds>
 </Project>
