@@ -91,6 +91,18 @@
       <File Name="suit_pur_merry_small" Path="PetDress/Accessories/suit_pur_merry_small" Type="Image" />
       <File Name="suit_yoyo_mousespring_big" Path="PetDress/Accessories/suit_yoyo_mousespring_big" Type="Image" />
       <File Name="suit_yoyo_mousespring_small" Path="PetDress/Accessories/suit_yoyo_mousespring_small" Type="Image" />
+      <File Name="part_ head_giftcap_big" Path="PetDress/Accessories/part_ head_giftcap_big" Type="Image" />
+      <File Name="part_ head_giftcap_small" Path="PetDress/Accessories/part_ head_giftcap_small" Type="Image" />
+      <File Name="part_ head_glasses_big" Path="PetDress/Accessories/part_ head_glasses_big" Type="Image" />
+      <File Name="part_ head_glasses_small" Path="PetDress/Accessories/part_ head_glasses_small" Type="Image" />
+      <File Name="part_ head_halo_big" Path="PetDress/Accessories/part_ head_halo_big" Type="Image" />
+      <File Name="part_ head_halo_small" Path="PetDress/Accessories/part_ head_halo_small" Type="Image" />
+      <File Name="part_ head_rose_big" Path="PetDress/Accessories/part_ head_rose_big" Type="Image" />
+      <File Name="part_ head_rose_small" Path="PetDress/Accessories/part_ head_rose_small" Type="Image" />
+      <File Name="part_ wing_bow_big" Path="PetDress/Accessories/part_ wing_bow_big" Type="Image" />
+      <File Name="part_ wing_bow_small" Path="PetDress/Accessories/part_ wing_bow_small" Type="Image" />
+      <File Name="part_ wing_love_big" Path="PetDress/Accessories/part_ wing_love_big" Type="Image" />
+      <File Name="part_ wing_love_small" Path="PetDress/Accessories/part_ wing_love_small" Type="Image" />
     </Module>
   </Modules>
 </Project>
