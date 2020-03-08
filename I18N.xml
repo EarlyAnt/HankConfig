@@ -24,7 +24,7 @@
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
-      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/limited_CHS" />
+      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_CHS" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_CHS" />
 
       <!--动画配置-->
@@ -194,7 +194,7 @@
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
-      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/limited_CHT" />
+      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_CHT" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_CHT" />
 
       <!--动画配置-->
@@ -364,7 +364,7 @@
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
-      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/limited_EN" />
+      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_EN" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_EN" />
 
       <!--动画配置-->
@@ -534,7 +534,7 @@
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
-      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/limited_JP" />
+      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_JP" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_JP" />
 
       <!--动画配置-->
