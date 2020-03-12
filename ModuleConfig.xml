@@ -2,107 +2,205 @@
 <Project Name="Gululu" Version="">
   <Modules>
     <Module Name="PetDress" Desc="换装页" >
-      <File Name="cash" Path="PetDress/View/cash" Type="Image" />
-      <File Name="check" Path="PetDress/View/check" Type="Image" />
-      <File Name="clock" Path="PetDress/View/clock" Type="Image" />
-      <File Name="code_bg" Path="PetDress/View/code_bg" Type="Image" />
-      <File Name="coin" Path="PetDress/View/coin" Type="Image" />
-      <File Name="coin_bg" Path="PetDress/View/coin_bg" Type="Image" />
-      <File Name="default_pet" Path="PetDress/View/default_pet" Type="Image" />
-      <File Name="disable" Path="PetDress/View/disable" Type="Image" />
-      <File Name="disable_big" Path="PetDress/View/disable_big" Type="Image" />
-      <File Name="icon_disable" Path="PetDress/View/icon_disable" Type="Image" />
-      <File Name="limited_CHS" Path="PetDress/View/limited_CHS" Type="Image" />
-      <File Name="limited_CHT" Path="PetDress/View/limited_CHT" Type="Image" />
-      <File Name="limited_EN" Path="PetDress/View/limited_EN" Type="Image" />
-      <File Name="limited_JP" Path="PetDress/View/limited_JP" Type="Image" />
-      <File Name="lock_bg" Path="PetDress/View/lock_bg" Type="Image" />
-      <File Name="needcoin" Path="PetDress/View/needcoin" Type="Image" />
-      <File Name="net_no" Path="PetDress/View/net_no" Type="Image" />
-      <File Name="nocoin" Path="PetDress/View/nocoin" Type="Image" />
-      <File Name="nonpayment" Path="PetDress/View/nonpayment" Type="Image" />
-      <File Name="phone_pay" Path="PetDress/View/phone_pay" Type="Image" />
-      <File Name="red_dot" Path="PetDress/View/red_dot" Type="Image" />
-      <File Name="sea_small" Path="PetDress/View/sea_small" Type="Image" />
-      <File Name="special_label_activity 1" Path="PetDress/View/special_label_activity 1" Type="Image" />
-      <File Name="Tips_bg" Path="PetDress/View/Tips_bg" Type="Image" />
-      <File Name="title_have" Path="PetDress/View/title_have" Type="Image" />
-      <File Name="Unlock_bg" Path="PetDress/View/Unlock_bg" Type="Image" />
-      <File Name="wardrobe_bg" Path="PetDress/View/wardrobe_bg" Type="Image" />
-      <File Name="acc_big" Path="PetDress/Types/acc_big" Type="Image" />
-      <File Name="acc_small" Path="PetDress/Types/acc_small" Type="Image" />
-      <File Name="board_left" Path="PetDress/Types/board_left" Type="Image" />
-      <File Name="board_left_light" Path="PetDress/Types/board_left_light" Type="Image" />
-      <File Name="elf_big" Path="PetDress/Types/elf_big" Type="Image" />
-      <File Name="elf_small" Path="PetDress/Types/elf_small" Type="Image" />
-      <File Name="return_big" Path="PetDress/Types/return_big" Type="Image" />
-      <File Name="return_small" Path="PetDress/Types/return_small" Type="Image" />
-      <File Name="suit_big" Path="PetDress/Types/suit_big" Type="Image" />
-      <File Name="suit_small" Path="PetDress/Types/suit_small" Type="Image" />
-      <File Name="elf_down_Batman_big" Path="PetDress/Accessories/elf_down_Batman_big" Type="Image" />
-      <File Name="elf_down_Batman_small" Path="PetDress/Accessories/elf_down_Batman_small" Type="Image" />
-      <File Name="elf_down_deer02_big" Path="PetDress/Accessories/elf_down_deer02_big" Type="Image" />
-      <File Name="elf_down_deer02_small" Path="PetDress/Accessories/elf_down_deer02_small" Type="Image" />
-      <File Name="elf_down_deer_big" Path="PetDress/Accessories/elf_down_deer_big" Type="Image" />
-      <File Name="elf_down_deer_small" Path="PetDress/Accessories/elf_down_deer_small" Type="Image" />
-      <File Name="elf_down_lmouse_big" Path="PetDress/Accessories/elf_down_lmouse_big" Type="Image" />
-      <File Name="elf_down_lmouse_small" Path="PetDress/Accessories/elf_down_lmouse_small" Type="Image" />
-      <File Name="elf_down_minions_big" Path="PetDress/Accessories/elf_down_minions_big" Type="Image" />
-      <File Name="elf_down_minions_small" Path="PetDress/Accessories/elf_down_minions_small" Type="Image" />
-      <File Name="elf_down_papercut_mice_big" Path="PetDress/Accessories/elf_down_papercut_mice_big" Type="Image" />
-      <File Name="elf_down_papercut_mice_small" Path="PetDress/Accessories/elf_down_papercut_mice_small" Type="Image" />
-      <File Name="elf_down_pumpkin_big" Path="PetDress/Accessories/elf_down_pumpkin_big" Type="Image" />
-      <File Name="elf_down_pumpkin_small" Path="PetDress/Accessories/elf_down_pumpkin_small" Type="Image" />
-      <File Name="elf_down_snowman02_big" Path="PetDress/Accessories/elf_down_snowman02_big" Type="Image" />
-      <File Name="elf_down_snowman02_small" Path="PetDress/Accessories/elf_down_snowman02_small" Type="Image" />
-      <File Name="elf_down_snowman03_big" Path="PetDress/Accessories/elf_down_snowman03_big" Type="Image" />
-      <File Name="elf_down_snowman03_small" Path="PetDress/Accessories/elf_down_snowman03_small" Type="Image" />
-      <File Name="elf_down_snowman_big" Path="PetDress/Accessories/elf_down_snowman_big" Type="Image" />
-      <File Name="elf_down_snowman_small" Path="PetDress/Accessories/elf_down_snowman_small" Type="Image" />
-      <File Name="elf_up_cloud02_big" Path="PetDress/Accessories/elf_up_cloud02_big" Type="Image" />
-      <File Name="elf_up_cloud02_small" Path="PetDress/Accessories/elf_up_cloud02_small" Type="Image" />
-      <File Name="elf_up_cloud_big" Path="PetDress/Accessories/elf_up_cloud_big" Type="Image" />
-      <File Name="elf_up_cloud_small" Path="PetDress/Accessories/elf_up_cloud_small" Type="Image" />
-      <File Name="elf_up_ghost_big" Path="PetDress/Accessories/elf_up_ghost_big" Type="Image" />
-      <File Name="elf_up_ghost_small" Path="PetDress/Accessories/elf_up_ghost_small" Type="Image" />
-      <File Name="elf_up_gift02_big" Path="PetDress/Accessories/elf_up_gift02_big" Type="Image" />
-      <File Name="elf_up_gift02_small" Path="PetDress/Accessories/elf_up_gift02_small" Type="Image" />
-      <File Name="elf_up_gift_big" Path="PetDress/Accessories/elf_up_gift_big" Type="Image" />
-      <File Name="elf_up_gift_small" Path="PetDress/Accessories/elf_up_gift_small" Type="Image" />
-      <File Name="part_head_antler02_big" Path="PetDress/Accessories/part_head_antler02_big" Type="Image" />
-      <File Name="part_head_antler02_small" Path="PetDress/Accessories/part_head_antler02_small" Type="Image" />
-      <File Name="part_head_antler_big" Path="PetDress/Accessories/part_head_antler_big" Type="Image" />
-      <File Name="part_head_antler_small" Path="PetDress/Accessories/part_head_antler_small" Type="Image" />
-      <File Name="part_head_coinhat_big" Path="PetDress/Accessories/part_head_coinhat_big" Type="Image" />
-      <File Name="part_head_coinhat_small" Path="PetDress/Accessories/part_head_coinhat_small" Type="Image" />
-      <File Name="part_head_hat02_big" Path="PetDress/Accessories/part_head_hat02_big" Type="Image" />
-      <File Name="part_head_hat02_small" Path="PetDress/Accessories/part_head_hat02_small" Type="Image" />
-      <File Name="part_head_hat_big" Path="PetDress/Accessories/part_head_hat_big" Type="Image" />
-      <File Name="part_head_hat_small" Path="PetDress/Accessories/part_head_hat_small" Type="Image" />
-      <File Name="part_head_merryhat_big" Path="PetDress/Accessories/part_head_merryhat_big" Type="Image" />
-      <File Name="part_head_merryhat_small" Path="PetDress/Accessories/part_head_merryhat_small" Type="Image" />
-      <File Name="part_wing_bat_big" Path="PetDress/Accessories/part_wing_bat_big" Type="Image" />
-      <File Name="part_wing_bat_small" Path="PetDress/Accessories/part_wing_bat_small" Type="Image" />
-      <File Name="part_wing_fan_big" Path="PetDress/Accessories/part_wing_fan_big" Type="Image" />
-      <File Name="part_wing_fan_small" Path="PetDress/Accessories/part_wing_fan_small" Type="Image" />
-      <File Name="part_wing_snow_big" Path="PetDress/Accessories/part_wing_snow_big" Type="Image" />
-      <File Name="part_wing_snow_small" Path="PetDress/Accessories/part_wing_snow_small" Type="Image" />
-      <File Name="suit_pur_merry_big" Path="PetDress/Accessories/suit_pur_merry_big" Type="Image" />
-      <File Name="suit_pur_merry_small" Path="PetDress/Accessories/suit_pur_merry_small" Type="Image" />
-      <File Name="suit_yoyo_mousespring_big" Path="PetDress/Accessories/suit_yoyo_mousespring_big" Type="Image" />
-      <File Name="suit_yoyo_mousespring_small" Path="PetDress/Accessories/suit_yoyo_mousespring_small" Type="Image" />
-      <File Name="part_ head_giftcap_big" Path="PetDress/Accessories/part_ head_giftcap_big" Type="Image" />
-      <File Name="part_ head_giftcap_small" Path="PetDress/Accessories/part_ head_giftcap_small" Type="Image" />
-      <File Name="part_ head_glasses_big" Path="PetDress/Accessories/part_ head_glasses_big" Type="Image" />
-      <File Name="part_ head_glasses_small" Path="PetDress/Accessories/part_ head_glasses_small" Type="Image" />
-      <File Name="part_ head_halo_big" Path="PetDress/Accessories/part_ head_halo_big" Type="Image" />
-      <File Name="part_ head_halo_small" Path="PetDress/Accessories/part_ head_halo_small" Type="Image" />
-      <File Name="part_ head_rose_big" Path="PetDress/Accessories/part_ head_rose_big" Type="Image" />
-      <File Name="part_ head_rose_small" Path="PetDress/Accessories/part_ head_rose_small" Type="Image" />
-      <File Name="part_ wing_bow_big" Path="PetDress/Accessories/part_ wing_bow_big" Type="Image" />
-      <File Name="part_ wing_bow_small" Path="PetDress/Accessories/part_ wing_bow_small" Type="Image" />
-      <File Name="part_ wing_love_big" Path="PetDress/Accessories/part_ wing_love_big" Type="Image" />
-      <File Name="part_ wing_love_small" Path="PetDress/Accessories/part_ wing_love_small" Type="Image" />
+      <File Name="cash" Path="PetDress/View/cash" Type="Image" Enable="1" />
+      <File Name="check" Path="PetDress/View/check" Type="Image" Enable="1" />
+      <File Name="clock" Path="PetDress/View/clock" Type="Image" Enable="1" />
+      <File Name="code_bg" Path="PetDress/View/code_bg" Type="Image" Enable="1" />
+      <File Name="coin" Path="PetDress/View/coin" Type="Image" Enable="1" />
+      <File Name="coin_bg" Path="PetDress/View/coin_bg" Type="Image" Enable="1" />
+      <File Name="default_pet" Path="PetDress/View/default_pet" Type="Image" Enable="1" />
+      <File Name="disable" Path="PetDress/View/disable" Type="Image" Enable="1" />
+      <File Name="disable_big" Path="PetDress/View/disable_big" Type="Image" Enable="1" />
+      <File Name="icon_disable" Path="PetDress/View/icon_disable" Type="Image" Enable="1" />
+      <File Name="limited_CHS" Path="PetDress/View/limited_CHS" Type="Image" Enable="1" />
+      <File Name="limited_CHT" Path="PetDress/View/limited_CHT" Type="Image" Enable="1" />
+      <File Name="limited_EN" Path="PetDress/View/limited_EN" Type="Image" Enable="1" />
+      <File Name="limited_JP" Path="PetDress/View/limited_JP" Type="Image" Enable="1" />
+      <File Name="lock_bg" Path="PetDress/View/lock_bg" Type="Image" Enable="1" />
+      <File Name="needcoin" Path="PetDress/View/needcoin" Type="Image" Enable="1" />
+      <File Name="net_no" Path="PetDress/View/net_no" Type="Image" Enable="1" />
+      <File Name="nocoin" Path="PetDress/View/nocoin" Type="Image" Enable="1" />
+      <File Name="nonpayment" Path="PetDress/View/nonpayment" Type="Image" Enable="1" />
+      <File Name="phone_pay" Path="PetDress/View/phone_pay" Type="Image" Enable="1" />
+      <File Name="red_dot" Path="PetDress/View/red_dot" Type="Image" Enable="1" />
+      <File Name="sea_small" Path="PetDress/View/sea_small" Type="Image" Enable="1" />
+      <File Name="special_label_activity 1" Path="PetDress/View/special_label_activity 1" Type="Image" Enable="1" />
+      <File Name="Tips_bg" Path="PetDress/View/Tips_bg" Type="Image" Enable="1" />
+      <File Name="title_have" Path="PetDress/View/title_have" Type="Image" Enable="1" />
+      <File Name="Unlock_bg" Path="PetDress/View/Unlock_bg" Type="Image" Enable="1" />
+      <File Name="wardrobe_bg" Path="PetDress/View/wardrobe_bg" Type="Image" Enable="1" />
+      <File Name="acc_big" Path="PetDress/Types/acc_big" Type="Image" Enable="1" />
+      <File Name="acc_small" Path="PetDress/Types/acc_small" Type="Image" Enable="1" />
+      <File Name="board_left" Path="PetDress/Types/board_left" Type="Image" Enable="1" />
+      <File Name="board_left_light" Path="PetDress/Types/board_left_light" Type="Image" Enable="1" />
+      <File Name="elf_big" Path="PetDress/Types/elf_big" Type="Image" Enable="1" />
+      <File Name="elf_small" Path="PetDress/Types/elf_small" Type="Image" Enable="1" />
+      <File Name="return_big" Path="PetDress/Types/return_big" Type="Image" Enable="1" />
+      <File Name="return_small" Path="PetDress/Types/return_small" Type="Image" Enable="1" />
+      <File Name="suit_big" Path="PetDress/Types/suit_big" Type="Image" Enable="1" />
+      <File Name="suit_small" Path="PetDress/Types/suit_small" Type="Image" Enable="1" />
+      <File Name="elf_down_Batman_big" Path="PetDress/Accessories/elf_down_Batman_big" Type="Image" Enable="1" />
+      <File Name="elf_down_Batman_small" Path="PetDress/Accessories/elf_down_Batman_small" Type="Image" Enable="1" />
+      <File Name="elf_down_deer02_big" Path="PetDress/Accessories/elf_down_deer02_big" Type="Image" Enable="1" />
+      <File Name="elf_down_deer02_small" Path="PetDress/Accessories/elf_down_deer02_small" Type="Image" Enable="1" />
+      <File Name="elf_down_deer_big" Path="PetDress/Accessories/elf_down_deer_big" Type="Image" Enable="1" />
+      <File Name="elf_down_deer_small" Path="PetDress/Accessories/elf_down_deer_small" Type="Image" Enable="1" />
+      <File Name="elf_down_lmouse_big" Path="PetDress/Accessories/elf_down_lmouse_big" Type="Image" Enable="1" />
+      <File Name="elf_down_lmouse_small" Path="PetDress/Accessories/elf_down_lmouse_small" Type="Image" Enable="1" />
+      <File Name="elf_down_minions_big" Path="PetDress/Accessories/elf_down_minions_big" Type="Image" Enable="1" />
+      <File Name="elf_down_minions_small" Path="PetDress/Accessories/elf_down_minions_small" Type="Image" Enable="1" />
+      <File Name="elf_down_papercut_mice_big" Path="PetDress/Accessories/elf_down_papercut_mice_big" Type="Image" Enable="1" />
+      <File Name="elf_down_papercut_mice_small" Path="PetDress/Accessories/elf_down_papercut_mice_small" Type="Image" Enable="1" />
+      <File Name="elf_down_pumpkin_big" Path="PetDress/Accessories/elf_down_pumpkin_big" Type="Image" Enable="1" />
+      <File Name="elf_down_pumpkin_small" Path="PetDress/Accessories/elf_down_pumpkin_small" Type="Image" Enable="1" />
+      <File Name="elf_down_snowman02_big" Path="PetDress/Accessories/elf_down_snowman02_big" Type="Image" Enable="1" />
+      <File Name="elf_down_snowman02_small" Path="PetDress/Accessories/elf_down_snowman02_small" Type="Image" Enable="1" />
+      <File Name="elf_down_snowman03_big" Path="PetDress/Accessories/elf_down_snowman03_big" Type="Image" Enable="1" />
+      <File Name="elf_down_snowman03_small" Path="PetDress/Accessories/elf_down_snowman03_small" Type="Image" Enable="1" />
+      <File Name="elf_down_snowman_big" Path="PetDress/Accessories/elf_down_snowman_big" Type="Image" Enable="1" />
+      <File Name="elf_down_snowman_small" Path="PetDress/Accessories/elf_down_snowman_small" Type="Image" Enable="1" />
+      <File Name="elf_up_cloud02_big" Path="PetDress/Accessories/elf_up_cloud02_big" Type="Image" Enable="1" />
+      <File Name="elf_up_cloud02_small" Path="PetDress/Accessories/elf_up_cloud02_small" Type="Image" Enable="1" />
+      <File Name="elf_up_cloud_big" Path="PetDress/Accessories/elf_up_cloud_big" Type="Image" Enable="1" />
+      <File Name="elf_up_cloud_small" Path="PetDress/Accessories/elf_up_cloud_small" Type="Image" Enable="1" />
+      <File Name="elf_up_ghost_big" Path="PetDress/Accessories/elf_up_ghost_big" Type="Image" Enable="1" />
+      <File Name="elf_up_ghost_small" Path="PetDress/Accessories/elf_up_ghost_small" Type="Image" Enable="1" />
+      <File Name="elf_up_gift02_big" Path="PetDress/Accessories/elf_up_gift02_big" Type="Image" Enable="1" />
+      <File Name="elf_up_gift02_small" Path="PetDress/Accessories/elf_up_gift02_small" Type="Image" Enable="1" />
+      <File Name="elf_up_gift_big" Path="PetDress/Accessories/elf_up_gift_big" Type="Image" Enable="1" />
+      <File Name="elf_up_gift_small" Path="PetDress/Accessories/elf_up_gift_small" Type="Image" Enable="1" />
+      <File Name="part_head_antler02_big" Path="PetDress/Accessories/part_head_antler02_big" Type="Image" Enable="1" />
+      <File Name="part_head_antler02_small" Path="PetDress/Accessories/part_head_antler02_small" Type="Image" Enable="1" />
+      <File Name="part_head_antler_big" Path="PetDress/Accessories/part_head_antler_big" Type="Image" Enable="1" />
+      <File Name="part_head_antler_small" Path="PetDress/Accessories/part_head_antler_small" Type="Image" Enable="1" />
+      <File Name="part_head_coinhat_big" Path="PetDress/Accessories/part_head_coinhat_big" Type="Image" Enable="1" />
+      <File Name="part_head_coinhat_small" Path="PetDress/Accessories/part_head_coinhat_small" Type="Image" Enable="1" />
+      <File Name="part_head_hat02_big" Path="PetDress/Accessories/part_head_hat02_big" Type="Image" Enable="1" />
+      <File Name="part_head_hat02_small" Path="PetDress/Accessories/part_head_hat02_small" Type="Image" Enable="1" />
+      <File Name="part_head_hat_big" Path="PetDress/Accessories/part_head_hat_big" Type="Image" Enable="1" />
+      <File Name="part_head_hat_small" Path="PetDress/Accessories/part_head_hat_small" Type="Image" Enable="1" />
+      <File Name="part_head_merryhat_big" Path="PetDress/Accessories/part_head_merryhat_big" Type="Image" Enable="1" />
+      <File Name="part_head_merryhat_small" Path="PetDress/Accessories/part_head_merryhat_small" Type="Image" Enable="1" />
+      <File Name="part_wing_bat_big" Path="PetDress/Accessories/part_wing_bat_big" Type="Image" Enable="1" />
+      <File Name="part_wing_bat_small" Path="PetDress/Accessories/part_wing_bat_small" Type="Image" Enable="1" />
+      <File Name="part_wing_fan_big" Path="PetDress/Accessories/part_wing_fan_big" Type="Image" Enable="1" />
+      <File Name="part_wing_fan_small" Path="PetDress/Accessories/part_wing_fan_small" Type="Image" Enable="1" />
+      <File Name="part_wing_snow_big" Path="PetDress/Accessories/part_wing_snow_big" Type="Image" Enable="1" />
+      <File Name="part_wing_snow_small" Path="PetDress/Accessories/part_wing_snow_small" Type="Image" Enable="1" />
+      <File Name="suit_pur_merry_big" Path="PetDress/Accessories/suit_pur_merry_big" Type="Image" Enable="1" />
+      <File Name="suit_pur_merry_small" Path="PetDress/Accessories/suit_pur_merry_small" Type="Image" Enable="1" />
+      <File Name="suit_yoyo_mousespring_big" Path="PetDress/Accessories/suit_yoyo_mousespring_big" Type="Image" Enable="1" />
+      <File Name="suit_yoyo_mousespring_small" Path="PetDress/Accessories/suit_yoyo_mousespring_small" Type="Image" Enable="1" />
+      <File Name="part_ head_giftcap_big" Path="PetDress/Accessories/part_ head_giftcap_big" Type="Image" Enable="1" />
+      <File Name="part_ head_giftcap_small" Path="PetDress/Accessories/part_ head_giftcap_small" Type="Image" Enable="1" />
+      <File Name="part_ head_glasses_big" Path="PetDress/Accessories/part_ head_glasses_big" Type="Image" Enable="1" />
+      <File Name="part_ head_glasses_small" Path="PetDress/Accessories/part_ head_glasses_small" Type="Image" Enable="1" />
+      <File Name="part_ head_halo_big" Path="PetDress/Accessories/part_ head_halo_big" Type="Image" Enable="1" />
+      <File Name="part_ head_halo_small" Path="PetDress/Accessories/part_ head_halo_small" Type="Image" Enable="1" />
+      <File Name="part_ head_rose_big" Path="PetDress/Accessories/part_ head_rose_big" Type="Image" Enable="1" />
+      <File Name="part_ head_rose_small" Path="PetDress/Accessories/part_ head_rose_small" Type="Image" Enable="1" />
+      <File Name="part_ wing_bow_big" Path="PetDress/Accessories/part_ wing_bow_big" Type="Image" Enable="1" />
+      <File Name="part_ wing_bow_small" Path="PetDress/Accessories/part_ wing_bow_small" Type="Image" Enable="1" />
+      <File Name="part_ wing_love_big" Path="PetDress/Accessories/part_ wing_love_big" Type="Image" Enable="1" />
+      <File Name="part_ wing_love_small" Path="PetDress/Accessories/part_ wing_love_small" Type="Image" Enable="1" />
+    </Module>
+    <Module Name="PetFeed" Desc="喂食页" >
+      <File Name="hallowmas_bg" Path="PetFeed/View/Background/hallowmas_bg" Type="Image" Enable="0" />
+      <File Name="restaurant_nationalday_bg" Path="PetFeed/View/Background/restaurant_nationalday_bg" Type="Image" Enable="0" />
+      <File Name="restruant-christmas" Path="PetFeed/View/Background/restruant-christmas" Type="Image" Enable="0" />
+      <File Name="restruant-danmark" Path="PetFeed/View/Background/restruant-danmark" Type="Image" Enable="0" />
+      <File Name="restruant-springfestival" Path="PetFeed/View/Background/restruant-springfestival" Type="Image" Enable="1" />
+      <File Name="bar01" Path="PetFeed/View/bar01" Type="Image" Enable="1" />
+      <File Name="bar_bg" Path="PetFeed/View/bar_bg" Type="Image" Enable="1" />
+      <File Name="bar_prospect" Path="PetFeed/View/bar_prospect" Type="Image" Enable="1" />
+      <File Name="coin" Path="PetFeed/View/coin" Type="Image" Enable="1" />
+      <File Name="coin_bg" Path="PetFeed/View/coin_bg" Type="Image" Enable="1" />
+      <File Name="desk" Path="PetFeed/View/desk" Type="Image" Enable="1" />
+      <File Name="foreground" Path="PetFeed/View/foreground" Type="Image" Enable="1" />
+      <File Name="hungerbar" Path="PetFeed/View/hungerbar" Type="Image" Enable="1" />
+      <File Name="hungerbar_bg" Path="PetFeed/View/hungerbar_bg" Type="Image" Enable="1" />
+      <File Name="hungerbar_t" Path="PetFeed/View/hungerbar_t" Type="Image" Enable="1" />
+      <File Name="limited_CHS" Path="PetFeed/View/limited_CHS" Type="Image" Enable="1" />
+      <File Name="limited_CHT" Path="PetFeed/View/limited_CHT" Type="Image" Enable="1" />
+      <File Name="limited_EN" Path="PetFeed/View/limited_EN" Type="Image" Enable="1" />
+      <File Name="limited_jp" Path="PetFeed/View/limited_jp" Type="Image" Enable="1" />
+      <File Name="little_mask_l" Path="PetFeed/View/little_mask_l" Type="Image" Enable="1" />
+      <File Name="little_mask_r" Path="PetFeed/View/little_mask_r" Type="Image" Enable="1" />
+      <File Name="lock_bg" Path="PetFeed/View/lock_bg" Type="Image" Enable="1" />
+      <File Name="moomcake_lock" Path="PetFeed/View/moomcake_lock" Type="Image" Enable="1" />
+      <File Name="needcoin" Path="PetFeed/View/needcoin" Type="Image" Enable="1" />
+      <File Name="nocoin" Path="PetFeed/View/nocoin" Type="Image" Enable="1" />
+      <File Name="out_bg" Path="PetFeed/View/out_bg" Type="Image" Enable="1" />
+      <File Name="power_icon" Path="PetFeed/View/power_icon" Type="Image" Enable="1" />
+      <File Name="special_label_activity" Path="PetFeed/View/special_label_activity" Type="Image" Enable="1" />
+      <File Name="tag" Path="PetFeed/View/tag" Type="Image" Enable="1" />
+      <File Name="taro_lock" Path="PetFeed/View/taro_lock" Type="Image" Enable="1" />
+      <File Name="Tips_bg" Path="PetFeed/View/Tips_bg" Type="Image" Enable="1" />
+      <File Name="tips_button0000" Path="PetFeed/View/tips_button0000" Type="Image" Enable="1" />
+      <File Name="tips_button0001" Path="PetFeed/View/tips_button0001" Type="Image" Enable="1" />
+      <File Name="tips_button0002" Path="PetFeed/View/tips_button0002" Type="Image" Enable="1" />
+      <File Name="tips_button0003" Path="PetFeed/View/tips_button0003" Type="Image" Enable="1" />
+      <File Name="Unlock_bg" Path="PetFeed/View/Unlock_bg" Type="Image" Enable="1" />
+      <File Name="food_bombmuffin" Path="PetFeed/Food/food_bombmuffin" Type="Image" Enable="1" />
+      <File Name="food_bombmuffin_small" Path="PetFeed/Food/food_bombmuffin_small" Type="Image" Enable="1" />
+      <File Name="food_bread" Path="PetFeed/Food/food_bread" Type="Image" Enable="1" />
+      <File Name="food_bread_small" Path="PetFeed/Food/food_bread_small" Type="Image" Enable="1" />
+      <File Name="food_cake" Path="PetFeed/Food/food_cake" Type="Image" Enable="1" />
+      <File Name="food_cake_small" Path="PetFeed/Food/food_cake_small" Type="Image" Enable="1" />
+      <File Name="food_candy" Path="PetFeed/Food/food_candy" Type="Image" Enable="1" />
+      <File Name="food_candy_small" Path="PetFeed/Food/food_candy_small" Type="Image" Enable="1" />
+      <File Name="food_chicken" Path="PetFeed/Food/food_chicken" Type="Image" Enable="1" />
+      <File Name="food_chicken_small" Path="PetFeed/Food/food_chicken_small" Type="Image" Enable="1" />
+      <File Name="food_chocolate" Path="PetFeed/Food/food_chocolate" Type="Image" Enable="1" />
+      <File Name="food_chocolate_small" Path="PetFeed/Food/food_chocolate_small" Type="Image" Enable="1" />
+      <File Name="food_donut" Path="PetFeed/Food/food_donut" Type="Image" Enable="1" />
+      <File Name="food_donut_small" Path="PetFeed/Food/food_donut_small" Type="Image" Enable="1" />
+      <File Name="food_dumplings" Path="PetFeed/Food/food_dumplings" Type="Image" Enable="1" />
+      <File Name="food_dumplings_small" Path="PetFeed/Food/food_dumplings_small" Type="Image" Enable="1" />
+      <File Name="food_flagjuice" Path="PetFeed/Food/food_flagjuice" Type="Image" Enable="1" />
+      <File Name="food_flagjuice_small" Path="PetFeed/Food/food_flagjuice_small" Type="Image" Enable="1" />
+      <File Name="food_fruitdanish" Path="PetFeed/Food/food_fruitdanish" Type="Image" Enable="1" />
+      <File Name="food_fruitdanish_small" Path="PetFeed/Food/food_fruitdanish_small" Type="Image" Enable="1" />
+      <File Name="food_gingerbread" Path="PetFeed/Food/food_gingerbread" Type="Image" Enable="1" />
+      <File Name="food_gingerbread_small" Path="PetFeed/Food/food_gingerbread_small" Type="Image" Enable="1" />
+      <File Name="food_herring" Path="PetFeed/Food/food_herring" Type="Image" Enable="1" />
+      <File Name="food_herring_small" Path="PetFeed/Food/food_herring_small" Type="Image" Enable="1" />
+      <File Name="food_meatball" Path="PetFeed/Food/food_meatball" Type="Image" Enable="1" />
+      <File Name="food_meatball_small" Path="PetFeed/Food/food_meatball_small" Type="Image" Enable="1" />
+      <File Name="food_milk" Path="PetFeed/Food/food_milk" Type="Image" Enable="1" />
+      <File Name="food_milk_small" Path="PetFeed/Food/food_milk_small" Type="Image" Enable="1" />
+      <File Name="food_mummy_chocolate" Path="PetFeed/Food/food_mummy_chocolate" Type="Image" Enable="1" />
+      <File Name="food_mummy_chocolate_small" Path="PetFeed/Food/food_mummy_chocolate_small" Type="Image" Enable="1" />
+      <File Name="food_nestcake" Path="PetFeed/Food/food_nestcake" Type="Image" Enable="1" />
+      <File Name="food_nestcake_small" Path="PetFeed/Food/food_nestcake_small" Type="Image" Enable="1" />
+      <File Name="food_opensandwich" Path="PetFeed/Food/food_opensandwich" Type="Image" Enable="1" />
+      <File Name="food_opensandwich_small" Path="PetFeed/Food/food_opensandwich_small" Type="Image" Enable="1" />
+      <File Name="food_orange" Path="PetFeed/Food/food_orange" Type="Image" Enable="1" />
+      <File Name="food_orange_small" Path="PetFeed/Food/food_orange_small" Type="Image" Enable="1" />
+      <File Name="food_pudding" Path="PetFeed/Food/food_pudding" Type="Image" Enable="1" />
+      <File Name="food_pudding_small" Path="PetFeed/Food/food_pudding_small" Type="Image" Enable="1" />
+      <File Name="food_rice" Path="PetFeed/Food/food_rice" Type="Image" Enable="1" />
+      <File Name="food_ricecakefish" Path="PetFeed/Food/food_ricecakefish" Type="Image" Enable="1" />
+      <File Name="food_ricecakefish_small" Path="PetFeed/Food/food_ricecakefish_small" Type="Image" Enable="1" />
+      <File Name="food_rice_small" Path="PetFeed/Food/food_rice_small" Type="Image" Enable="1" />
+      <File Name="food_rocketcookie" Path="PetFeed/Food/food_rocketcookie" Type="Image" Enable="1" />
+      <File Name="food_rocketcookie_small" Path="PetFeed/Food/food_rocketcookie_small" Type="Image" Enable="1" />
+      <File Name="food_salad" Path="PetFeed/Food/food_salad" Type="Image" Enable="1" />
+      <File Name="food_salad_small" Path="PetFeed/Food/food_salad_small" Type="Image" Enable="1" />
+      <File Name="food_sausage" Path="PetFeed/Food/food_sausage" Type="Image" Enable="1" />
+      <File Name="food_sausage_small" Path="PetFeed/Food/food_sausage_small" Type="Image" Enable="1" />
+      <File Name="food_skull_cookie" Path="PetFeed/Food/food_skull_cookie" Type="Image" Enable="1" />
+      <File Name="food_skull_cookie_small" Path="PetFeed/Food/food_skull_cookie_small" Type="Image" Enable="1" />
+      <File Name="food_spider_cake" Path="PetFeed/Food/food_spider_cake" Type="Image" Enable="1" />
+      <File Name="food_spider_cake_small" Path="PetFeed/Food/food_spider_cake_small" Type="Image" Enable="1" />
+      <File Name="food_toffee_apple" Path="PetFeed/Food/food_toffee_apple" Type="Image" Enable="1" />
+      <File Name="food_toffee_apple_small" Path="PetFeed/Food/food_toffee_apple_small" Type="Image" Enable="1" />
+      <File Name="moomcake01" Path="PetFeed/Food/moomcake01" Type="Image" Enable="1" />
+      <File Name="moomcake_small" Path="PetFeed/Food/moomcake_small" Type="Image" Enable="1" />
+      <File Name="taro001" Path="PetFeed/Food/taro001" Type="Image" Enable="1" />
+      <File Name="taro_small" Path="PetFeed/Food/taro_small" Type="Image" Enable="1" />
+      <File Name="yolkmcake" Path="PetFeed/Food/yolkmcake" Type="Image" Enable="1" />
+      <File Name="yolk_small" Path="PetFeed/Food/yolk_small" Type="Image" Enable="1" />
     </Module>
   </Modules>
 </Project>
