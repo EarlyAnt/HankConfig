@@ -202,5 +202,76 @@
       <File Name="yolkmcake" Path="PetFeed/Food/yolkmcake" Type="Image" Enable="1" />
       <File Name="yolk_small" Path="PetFeed/Food/yolk_small" Type="Image" Enable="1" />
     </Module>
+    <Module Name="WorldMap" Desc="世界地图页" >
+      <File Name="board_left" Path="WorldMap/SceneIcon/board_left" Type="Image" Enable="1" />
+      <File Name="board_left_light" Path="WorldMap/SceneIcon/board_left_light" Type="Image" Enable="1" />
+      <File Name="China" Path="WorldMap/SceneIcon/China" Type="Image" Enable="1" />
+      <File Name="Denmark" Path="WorldMap/SceneIcon/Denmark" Type="Image" Enable="1" />
+      <File Name="Desert" Path="WorldMap/SceneIcon/Desert" Type="Image" Enable="1" />
+      <File Name="earth_Asia_big" Path="WorldMap/SceneIcon/earth_Asia_big" Type="Image" Enable="1" />
+      <File Name="earth_Asia_small" Path="WorldMap/SceneIcon/earth_Asia_small" Type="Image" Enable="1" />
+      <File Name="earth_Europe_big" Path="WorldMap/SceneIcon/earth_Europe_big" Type="Image" Enable="1" />
+      <File Name="earth_Europe_small" Path="WorldMap/SceneIcon/earth_Europe_small" Type="Image" Enable="1" />
+      <File Name="Forest" Path="WorldMap/SceneIcon/Forest" Type="Image" Enable="1" />
+      <File Name="Hallowmas" Path="WorldMap/SceneIcon/Hallowmas" Type="Image" Enable="1" />
+      <File Name="ima_desert_big" Path="WorldMap/SceneIcon/ima_desert_big" Type="Image" Enable="1" />
+      <File Name="ima_desert_small" Path="WorldMap/SceneIcon/ima_desert_small" Type="Image" Enable="1" />
+      <File Name="ima_forest_big" Path="WorldMap/SceneIcon/ima_forest_big" Type="Image" Enable="1" />
+      <File Name="ima_forest_small" Path="WorldMap/SceneIcon/ima_forest_small" Type="Image" Enable="1" />
+      <File Name="ima_sea_big" Path="WorldMap/SceneIcon/ima_sea_big" Type="Image" Enable="1" />
+      <File Name="ima_sea_small" Path="WorldMap/SceneIcon/ima_sea_small" Type="Image" Enable="1" />
+      <File Name="ima_volcano_big" Path="WorldMap/SceneIcon/ima_volcano_big" Type="Image" Enable="1" />
+      <File Name="ima_volcano_small" Path="WorldMap/SceneIcon/ima_volcano_small" Type="Image" Enable="1" />
+      <File Name="magic_halloween_big" Path="WorldMap/SceneIcon/magic_halloween_big" Type="Image" Enable="1" />
+      <File Name="magic_halloween_small" Path="WorldMap/SceneIcon/magic_halloween_small" Type="Image" Enable="1" />
+      <File Name="MAGIC_merry_big" Path="WorldMap/SceneIcon/MAGIC_merry_big" Type="Image" Enable="1" />
+      <File Name="MAGIC_merry_small" Path="WorldMap/SceneIcon/MAGIC_merry_small" Type="Image" Enable="1" />
+      <File Name="MAGIC_mouseyear_big" Path="WorldMap/SceneIcon/MAGIC_mouseyear_big" Type="Image" Enable="1" />
+      <File Name="MAGIC_mouseyear_small" Path="WorldMap/SceneIcon/MAGIC_mouseyear_small" Type="Image" Enable="1" />
+      <File Name="return_big" Path="WorldMap/SceneIcon/return_big" Type="Image" Enable="1" />
+      <File Name="return_small" Path="WorldMap/SceneIcon/return_small" Type="Image" Enable="1" />
+      <File Name="Rock" Path="WorldMap/SceneIcon/Rock" Type="Image" Enable="1" />
+      <File Name="Sea" Path="WorldMap/SceneIcon/Sea" Type="Image" Enable="1" />
+      <File Name="EARTH_BG01" Path="WorldMap/ScenePreview/EARTH_BG01" Type="Image" Enable="1" />
+      <File Name="EARTH_BG02" Path="WorldMap/ScenePreview/EARTH_BG02" Type="Image" Enable="1" />
+      <File Name="IMA_BG01" Path="WorldMap/ScenePreview/IMA_BG01" Type="Image" Enable="1" />
+      <File Name="IMA_BG02" Path="WorldMap/ScenePreview/IMA_BG02" Type="Image" Enable="1" />
+      <File Name="IMA_BG03" Path="WorldMap/ScenePreview/IMA_BG03" Type="Image" Enable="1" />
+      <File Name="IMA_BG04" Path="WorldMap/ScenePreview/IMA_BG04" Type="Image" Enable="1" />
+      <File Name="MAGIC_BG01" Path="WorldMap/ScenePreview/MAGIC_BG01" Type="Image" Enable="1" />
+      <File Name="MAGIC_BG02" Path="WorldMap/ScenePreview/MAGIC_BG02" Type="Image" Enable="1" />
+      <File Name="MAGIC_BG03" Path="WorldMap/ScenePreview/MAGIC_BG03" Type="Image" Enable="1" />
+      <File Name="arrow_l" Path="WorldMap/View/arrow_l" Type="Image" Enable="1" />
+      <File Name="arrow_r" Path="WorldMap/View/arrow_r" Type="Image" Enable="1" />
+      <File Name="bg" Path="WorldMap/View/bg" Type="Image" Enable="1" />
+      <File Name="BG_MASK" Path="WorldMap/View/BG_MASK" Type="Image" Enable="1" />
+      <File Name="clock" Path="WorldMap/View/clock" Type="Image" Enable="1" />
+      <File Name="clock_bg" Path="WorldMap/View/clock_bg" Type="Image" Enable="1" />
+      <File Name="coin" Path="WorldMap/View/coin" Type="Image" Enable="1" />
+      <File Name="exp" Path="WorldMap/View/exp" Type="Image" Enable="1" />
+      <File Name="label_new" Path="WorldMap/View/label_new" Type="Image" Enable="1" />
+      <File Name="label_new02" Path="WorldMap/View/label_new02" Type="Image" Enable="1" />
+      <File Name="lock" Path="WorldMap/View/lock" Type="Image" Enable="1" />
+      <File Name="map_lock" Path="WorldMap/View/map_lock" Type="Image" Enable="1" />
+      <File Name="mark" Path="WorldMap/View/mark" Type="Image" Enable="1" />
+      <File Name="preview_bg" Path="WorldMap/View/preview_bg" Type="Image" Enable="1" />
+      <File Name="red_dot" Path="WorldMap/View/red_dot" Type="Image" Enable="1" />
+      <File Name="title_bg" Path="WorldMap/View/title_bg" Type="Image" Enable="1" />
+      <File Name="txt_bg" Path="WorldMap/View/txt_bg" Type="Image" Enable="1" />
+      <File Name="galaxy_star" Path="WorldMap/galaxy_star" Type="Image" Enable="1" />
+      <File Name="planet_castle" Path="WorldMap/planet_castle" Type="Image" Enable="1" />
+      <File Name="planet_earth" Path="WorldMap/planet_earth" Type="Image" Enable="1" />
+      <File Name="planet_ima" Path="WorldMap/planet_ima" Type="Image" Enable="1" />
+      <File Name="playagain_CHS" Path="WorldMap/playagain_CHS" Type="Image" Enable="1" />
+      <File Name="playagain_CHT" Path="WorldMap/playagain_CHT" Type="Image" Enable="1" />
+      <File Name="playagain_EN" Path="WorldMap/playagain_EN" Type="Image" Enable="1" />
+      <File Name="playagain_JP" Path="WorldMap/playagain_JP" Type="Image" Enable="1" />
+      <File Name="preview_castle" Path="WorldMap/preview_castle" Type="Image" Enable="1" />
+      <File Name="preview_earth" Path="WorldMap/preview_earth" Type="Image" Enable="1" />
+      <File Name="preview_ima" Path="WorldMap/preview_ima" Type="Image" Enable="1" />
+      <File Name="title_castle" Path="WorldMap/title_castle" Type="Image" Enable="1" />
+      <File Name="title_earth" Path="WorldMap/title_earth" Type="Image" Enable="1" />
+      <File Name="title_ima" Path="WorldMap/title_ima" Type="Image" Enable="1" />
+    </Module>
   </Modules>
 </Project>
