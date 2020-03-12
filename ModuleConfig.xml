@@ -258,6 +258,10 @@
       <File Name="red_dot" Path="WorldMap/View/red_dot" Type="Image" Enable="1" />
       <File Name="title_bg" Path="WorldMap/View/title_bg" Type="Image" Enable="1" />
       <File Name="txt_bg" Path="WorldMap/View/txt_bg" Type="Image" Enable="1" />
+      <File Name="tips_button0000" Path="WorldMap/View/tips_button0000" Type="Image" Enable="1" />
+      <File Name="tips_button0001" Path="WorldMap/View/tips_button0001" Type="Image" Enable="1" />
+      <File Name="tips_button0002" Path="WorldMap/View/tips_button0002" Type="Image" Enable="1" />
+      <File Name="tips_button0003" Path="WorldMap/View/tips_button0003" Type="Image" Enable="1" />
       <File Name="galaxy_star" Path="WorldMap/galaxy_star" Type="Image" Enable="1" />
       <File Name="planet_castle" Path="WorldMap/planet_castle" Type="Image" Enable="1" />
       <File Name="planet_earth" Path="WorldMap/planet_earth" Type="Image" Enable="1" />
