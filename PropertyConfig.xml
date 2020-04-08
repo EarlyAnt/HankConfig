@@ -205,9 +205,9 @@
     <Name>flagjuice</Name>
     <Tag>mainFood</Tag>
     <IsNew>FALSE</IsNew>
-    <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-09-27 00:00</StartTime>
-    <EndTime>2019-10-26 23:59</EndTime>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -380,10 +380,10 @@
     <Type>6</Type>
     <Name>opensandwich</Name>
     <Tag>mainFood</Tag>
-    <IsNew>TRUE</IsNew>
-    <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-11-27 00:00</StartTime>
-    <EndTime>2019-12-19 23:59</EndTime>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -446,10 +446,10 @@
     <Type>6</Type>
     <Name>meatball</Name>
     <Tag>mainFood</Tag>
-    <IsNew>TRUE</IsNew>
-    <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-11-27 00:00</StartTime>
-    <EndTime>2019-12-19 23:59</EndTime>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>40</Price>
@@ -468,10 +468,10 @@
     <Type>6</Type>
     <Name>cake</Name>
     <Tag>mainFood</Tag>
-    <IsNew>TRUE</IsNew>
-    <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-12-24 00:00</StartTime>
-    <EndTime>2020-01-21 00:00</EndTime>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>30</Price>
@@ -490,10 +490,10 @@
     <Type>6</Type>
     <Name>candy</Name>
     <Tag>snack</Tag>
-    <IsNew>TRUE</IsNew>
-    <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-12-24 00:00</StartTime>
-    <EndTime>2020-01-21 00:00</EndTime>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>15</Price>
@@ -512,10 +512,10 @@
     <Type>6</Type>
     <Name>chicken</Name>
     <Tag>mainFood</Tag>
-    <IsNew>TRUE</IsNew>
-    <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-12-24 00:00</StartTime>
-    <EndTime>2020-01-21 00:00</EndTime>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>40</Price>
@@ -578,10 +578,10 @@
     <Type>6</Type>
     <Name>food_dumplings</Name>
     <Tag></Tag>
-    <IsNew>TRUE</IsNew>
-    <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-01-23 00:00</StartTime>
-    <EndTime>2020-03-18 00:00</EndTime>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>20</Price>
@@ -600,10 +600,10 @@
     <Type>6</Type>
     <Name>food_orange</Name>
     <Tag></Tag>
-    <IsNew>TRUE</IsNew>
-    <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-01-23 00:00</StartTime>
-    <EndTime>2020-03-18 00:00</EndTime>
+    <IsNew>FALSE</IsNew>
+    <IsCampain>FALSE</IsCampain>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>8</Price>
@@ -644,10 +644,10 @@
     <Type>6</Type>
     <Name>food_sausage</Name>
     <Tag></Tag>
-    <IsNew>TRUE</IsNew>
+    <IsNew>FALSE</IsNew>
     <IsCampain>TRUE</IsCampain>
-    <StartTime>2019-01-23 00:00</StartTime>
-    <EndTime>2020-03-18 00:00</EndTime>
+    <StartTime>null</StartTime>
+    <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>
     <Rarity>0</Rarity>
     <Price>40</Price>
