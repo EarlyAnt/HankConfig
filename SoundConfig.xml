@@ -854,5 +854,8 @@
     <Sound Type="navigator_change_icon" Storage="Remote" Dec="导航轮盘切换图标">
       <Clip SoundPath="navigator_change_icon" />
     </Sound>
+    <Sound Type="feed_bgm_common" Storage="Remote" Dec="喂食页通用背景音乐">
+      <Clip SoundPath="feed_bgm_common" />
+    </Sound>
   </Sounds>
 </Project>

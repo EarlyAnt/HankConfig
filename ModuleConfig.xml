@@ -110,6 +110,7 @@
       <File Name="restruant-christmas" Path="PetFeed/View/Background/restruant-christmas" Type="Image" Enable="0" />
       <File Name="restruant-danmark" Path="PetFeed/View/Background/restruant-danmark" Type="Image" Enable="0" />
       <File Name="restruant-springfestival" Path="PetFeed/View/Background/restruant-springfestival" Type="Image" Enable="1" />
+      <File Name="restruant-normal" Path="PetFeed/View/Background/restruant-normal" Type="Image" Enable="1" />
       <File Name="bar01" Path="PetFeed/View/bar01" Type="Image" Enable="1" />
       <File Name="bar_bg" Path="PetFeed/View/bar_bg" Type="Image" Enable="1" />
       <File Name="bar_prospect" Path="PetFeed/View/bar_prospect" Type="Image" Enable="1" />
