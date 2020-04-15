@@ -645,7 +645,7 @@
     <Name>food_sausage</Name>
     <Tag></Tag>
     <IsNew>FALSE</IsNew>
-    <IsCampain>TRUE</IsCampain>
+    <IsCampain>FALSE</IsCampain>
     <StartTime>null</StartTime>
     <EndTime>null</EndTime>
     <UnlockLevel>1</UnlockLevel>

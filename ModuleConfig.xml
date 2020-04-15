@@ -276,5 +276,40 @@
       <File Name="title_earth" Path="WorldMap/title_earth" Type="Image" Enable="1" />
       <File Name="title_ima" Path="WorldMap/title_ima" Type="Image" Enable="1" />
     </Module>
+    <Module Name="Expression" Desc="表情页" >
+      <File Name="avatar01" Path="Expression/View/avatar01" Type="Image" Enable="1" />
+      <File Name="avatar02" Path="Expression/View/avatar02" Type="Image" Enable="1" />
+      <File Name="avatar03" Path="Expression/View/avatar03" Type="Image" Enable="1" />
+      <File Name="avatar04" Path="Expression/View/avatar04" Type="Image" Enable="1" />
+      <File Name="avatar05" Path="Expression/View/avatar05" Type="Image" Enable="1" />
+      <File Name="avatar06" Path="Expression/View/avatar06" Type="Image" Enable="1" />
+      <File Name="avatard" Path="Expression/View/avatard" Type="Image" Enable="1" />
+      <File Name="avatarn" Path="Expression/View/avatarn" Type="Image" Enable="1" />
+      <File Name="avatarp" Path="Expression/View/avatarp" Type="Image" Enable="1" />
+      <File Name="avatars" Path="Expression/View/avatars" Type="Image" Enable="1" />
+      <File Name="bg" Path="Expression/View/bg" Type="Image" Enable="1" />
+      <File Name="crownlable_b" Path="Expression/View/crownlable_b" Type="Image" Enable="1" />
+      <File Name="crownlable_o" Path="Expression/View/crownlable_o" Type="Image" Enable="1" />
+      <File Name="crown_c" Path="Expression/View/crown_c" Type="Image" Enable="1" />
+      <File Name="crown_g" Path="Expression/View/crown_g" Type="Image" Enable="1" />
+      <File Name="crown_s" Path="Expression/View/crown_s" Type="Image" Enable="1" />
+      <File Name="label_add_s" Path="Expression/View/label_add_s" Type="Image" Enable="1" />
+      <File Name="label_add_us" Path="Expression/View/label_add_us" Type="Image" Enable="1" />
+      <File Name="label_b_s" Path="Expression/View/label_b_s" Type="Image" Enable="1" />
+      <File Name="label_b_us" Path="Expression/View/label_b_us" Type="Image" Enable="1" />
+      <File Name="label_o_s" Path="Expression/View/label_o_s" Type="Image" Enable="1" />
+      <File Name="label_o_us" Path="Expression/View/label_o_us" Type="Image" Enable="1" />
+      <File Name="lable_me" Path="Expression/View/lable_me" Type="Image" Enable="1" />
+      <File Name="lv_bg" Path="Expression/View/lv_bg" Type="Image" Enable="1" />
+      <File Name="NO1" Path="Expression/View/NO1" Type="Image" Enable="1" />
+      <File Name="NO2" Path="Expression/View/NO2" Type="Image" Enable="1" />
+      <File Name="NO3" Path="Expression/View/NO3" Type="Image" Enable="1" />
+      <File Name="Picture_frame" Path="Expression/View/Picture_frame" Type="Image" Enable="1" />
+      <File Name="title_bg" Path="Expression/View/title_bg" Type="Image" Enable="1" />
+      <File Name="txt_friends_cn" Path="Expression/View/txt_friends_cn" Type="Image" Enable="1" />
+      <File Name="txt_friends_en" Path="Expression/View/txt_friends_en" Type="Image" Enable="1" />
+      <File Name="txt_friends_jp" Path="Expression/View/txt_friends_jp" Type="Image" Enable="1" />
+      <File Name="txt_friends_tw" Path="Expression/View/txt_friends_tw" Type="Image" Enable="1" />
+    </Module>
   </Modules>
 </Project>
