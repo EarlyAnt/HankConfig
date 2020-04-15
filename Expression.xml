@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project Name="Gululu" Version="">
+  <Expressions>
+    <Expression ID="70001" Name="bomb" Price="0" Achieve="1" Icon="p_bomb" Media="bomb" Action="1" />
+    <Expression ID="70002" Name="flower" Price="5" Achieve="0" Icon="p_flower" Media="flower" Action="1" />
+    <Expression ID="70003" Name="love" Price="7" Achieve="0" Icon="p_love" Media="love" Action="1" />
+    <Expression ID="70004" Name="octopus" Price="0" Achieve="1" Icon="p_octopus" Media="octopus" Action="1" />
+    <Expression ID="70005" Name="paint" Price="0" Achieve="1" Icon="p_paint" Media="paint" Action="1" />
+    <Expression ID="70006" Name="pig" Price="0" Achieve="1" Icon="p_pig" Media="pig" Action="1" />
+  </Expressions>
+</Project>

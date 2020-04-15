@@ -288,11 +288,16 @@
       <File Name="avatarp" Path="Expression/View/avatarp" Type="Image" Enable="1" />
       <File Name="avatars" Path="Expression/View/avatars" Type="Image" Enable="1" />
       <File Name="bg" Path="Expression/View/bg" Type="Image" Enable="1" />
+      <File Name="cash" Path="Expression/View/cash" Type="Image" Enable="1" />
+      <File Name="coin" Path="Expression/View/coin" Type="Image" Enable="1" />
+      <File Name="coin_bg" Path="Expression/View/coin_bg" Type="Image" Enable="1" />
       <File Name="crownlable_b" Path="Expression/View/crownlable_b" Type="Image" Enable="1" />
       <File Name="crownlable_o" Path="Expression/View/crownlable_o" Type="Image" Enable="1" />
       <File Name="crown_c" Path="Expression/View/crown_c" Type="Image" Enable="1" />
       <File Name="crown_g" Path="Expression/View/crown_g" Type="Image" Enable="1" />
       <File Name="crown_s" Path="Expression/View/crown_s" Type="Image" Enable="1" />
+      <File Name="disable" Path="Expression/View/disable" Type="Image" Enable="1" />
+      <File Name="emoji_bg" Path="Expression/View/emoji_bg" Type="Image" Enable="1" />
       <File Name="label_add_s" Path="Expression/View/label_add_s" Type="Image" Enable="1" />
       <File Name="label_add_us" Path="Expression/View/label_add_us" Type="Image" Enable="1" />
       <File Name="label_b_s" Path="Expression/View/label_b_s" Type="Image" Enable="1" />
@@ -300,16 +305,34 @@
       <File Name="label_o_s" Path="Expression/View/label_o_s" Type="Image" Enable="1" />
       <File Name="label_o_us" Path="Expression/View/label_o_us" Type="Image" Enable="1" />
       <File Name="lable_me" Path="Expression/View/lable_me" Type="Image" Enable="1" />
+      <File Name="limited_CHS" Path="Expression/View/limited_CHS" Type="Image" Enable="1" />
+      <File Name="limited_CHT" Path="Expression/View/limited_CHT" Type="Image" Enable="1" />
+      <File Name="limited_EN" Path="Expression/View/limited_EN" Type="Image" Enable="1" />
+      <File Name="limited_JP" Path="Expression/View/limited_JP" Type="Image" Enable="1" />
       <File Name="lv_bg" Path="Expression/View/lv_bg" Type="Image" Enable="1" />
       <File Name="NO1" Path="Expression/View/NO1" Type="Image" Enable="1" />
       <File Name="NO2" Path="Expression/View/NO2" Type="Image" Enable="1" />
       <File Name="NO3" Path="Expression/View/NO3" Type="Image" Enable="1" />
       <File Name="Picture_frame" Path="Expression/View/Picture_frame" Type="Image" Enable="1" />
+      <File Name="special_label_activity 1" Path="Expression/View/special_label_activity 1" Type="Image" Enable="1" />
+      <File Name="tag" Path="Expression/View/tag" Type="Image" Enable="1" />
       <File Name="title_bg" Path="Expression/View/title_bg" Type="Image" Enable="1" />
       <File Name="txt_friends_cn" Path="Expression/View/txt_friends_cn" Type="Image" Enable="1" />
       <File Name="txt_friends_en" Path="Expression/View/txt_friends_en" Type="Image" Enable="1" />
       <File Name="txt_friends_jp" Path="Expression/View/txt_friends_jp" Type="Image" Enable="1" />
       <File Name="txt_friends_tw" Path="Expression/View/txt_friends_tw" Type="Image" Enable="1" />
+      <File Name="p_bomb_big" Path="Expression/Icon/p_bomb_big" Type="Image" Enable="1" />
+      <File Name="p_bomb_small" Path="Expression/Icon/p_bomb_small" Type="Image" Enable="1" />
+      <File Name="p_flower_big" Path="Expression/Icon/p_flower_big" Type="Image" Enable="1" />
+      <File Name="p_flower_small" Path="Expression/Icon/p_flower_small" Type="Image" Enable="1" />
+      <File Name="p_love_big" Path="Expression/Icon/p_love_big" Type="Image" Enable="1" />
+      <File Name="p_love_small" Path="Expression/Icon/p_love_small" Type="Image" Enable="1" />
+      <File Name="p_octopus_big" Path="Expression/Icon/p_octopus_big" Type="Image" Enable="1" />
+      <File Name="p_octopus_small" Path="Expression/Icon/p_octopus_small" Type="Image" Enable="1" />
+      <File Name="p_paint_big" Path="Expression/Icon/p_paint_big" Type="Image" Enable="1" />
+      <File Name="p_paint_small" Path="Expression/Icon/p_paint_small" Type="Image" Enable="1" />
+      <File Name="p_pig_big" Path="Expression/Icon/p_pig_big" Type="Image" Enable="1" />
+      <File Name="p_pig_small" Path="Expression/Icon/p_pig_small" Type="Image" Enable="1" />
     </Module>
   </Modules>
 </Project>
