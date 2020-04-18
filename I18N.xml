@@ -26,6 +26,7 @@
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
       <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_CHS" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_CHS" />
+      <Image Key="MyFriend" Value="Texture/Expression/View/txt_friends_cn" />
 
       <!--动画配置-->
       <Animation Key="CommingSoon" Value="CommingSoon_CHS" />
@@ -196,6 +197,7 @@
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
       <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_CHT" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_CHT" />
+      <Image Key="MyFriend" Value="Texture/Expression/View/txt_friends_tw" />
 
       <!--动画配置-->
       <Animation Key="CommingSoon" Value="CommingSoon_CHT" />
@@ -366,6 +368,7 @@
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
       <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_EN" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_EN" />
+      <Image Key="MyFriend" Value="Texture/Expression/View/txt_friends_en" />
 
       <!--动画配置-->
       <Animation Key="CommingSoon" Value="CommingSoon_EN" />
@@ -536,6 +539,7 @@
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
       <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_JP" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_JP" />
+      <Image Key="MyFriend" Value="Texture/Expression/View/txt_friends_jp" />
 
       <!--动画配置-->
       <Animation Key="CommingSoon" Value="CommingSoon_JP" />

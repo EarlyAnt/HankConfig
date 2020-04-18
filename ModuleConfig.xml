@@ -310,6 +310,7 @@
       <File Name="limited_EN" Path="Expression/View/limited_EN" Type="Image" Enable="1" />
       <File Name="limited_JP" Path="Expression/View/limited_JP" Type="Image" Enable="1" />
       <File Name="lv_bg" Path="Expression/View/lv_bg" Type="Image" Enable="1" />
+      <File Name="needcoin" Path="Expression/View/needcoin" Type="Image" Enable="1" />
       <File Name="NO1" Path="Expression/View/NO1" Type="Image" Enable="1" />
       <File Name="NO2" Path="Expression/View/NO2" Type="Image" Enable="1" />
       <File Name="NO3" Path="Expression/View/NO3" Type="Image" Enable="1" />
