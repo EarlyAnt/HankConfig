@@ -311,12 +311,15 @@
       <File Name="limited_JP" Path="Expression/View/limited_JP" Type="Image" Enable="1" />
       <File Name="lv_bg" Path="Expression/View/lv_bg" Type="Image" Enable="1" />
       <File Name="needcoin" Path="Expression/View/needcoin" Type="Image" Enable="1" />
+      <File Name="net_no" Path="Expression/View/net_no" Type="Image" Enable="1" />
       <File Name="NO1" Path="Expression/View/NO1" Type="Image" Enable="1" />
       <File Name="NO2" Path="Expression/View/NO2" Type="Image" Enable="1" />
       <File Name="NO3" Path="Expression/View/NO3" Type="Image" Enable="1" />
+      <File Name="nocoin" Path="Expression/View/nocoin" Type="Image" Enable="1" />
       <File Name="Picture_frame" Path="Expression/View/Picture_frame" Type="Image" Enable="1" />
       <File Name="special_label_activity 1" Path="Expression/View/special_label_activity 1" Type="Image" Enable="1" />
       <File Name="tag" Path="Expression/View/tag" Type="Image" Enable="1" />
+      <File Name="Tips_bg" Path="Expression/View/Tips_bg" Type="Image" Enable="1" />
       <File Name="title_bg" Path="Expression/View/title_bg" Type="Image" Enable="1" />
       <File Name="txt_friends_cn" Path="Expression/View/txt_friends_cn" Type="Image" Enable="1" />
       <File Name="txt_friends_en" Path="Expression/View/txt_friends_en" Type="Image" Enable="1" />
