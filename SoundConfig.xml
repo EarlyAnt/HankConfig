@@ -857,5 +857,14 @@
     <Sound Type="feed_bgm_common" Storage="Remote" Dec="喂食页通用背景音乐">
       <Clip SoundPath="feed_bgm_common" />
     </Sound>
+    <Sound Type="expression_bgm_common" Storage="Remote" Dec="表情页通用背景音乐">
+      <Clip SoundPath="expression_bgm_common" />
+    </Sound>
+    <Sound Type="expression_send" Storage="Remote" Dec="表情页发送表情">
+      <Clip SoundPath="expression_send" />
+    </Sound>
+    <Sound Type="expression_receive" Storage="Remote" Dec="表情页收到表情">
+      <Clip SoundPath="expression_receive" />
+    </Sound>
   </Sounds>
 </Project>
