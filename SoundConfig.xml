@@ -866,5 +866,23 @@
     <Sound Type="expression_receive" Storage="Remote" Dec="表情页收到表情">
       <Clip SoundPath="expression_receive" />
     </Sound>
+    <Sound Type="expression_effect_bomb" Storage="Remote" Dec="表情音效-bomb">
+      <Clip SoundPath="expression_effect_bomb" />
+    </Sound>
+    <Sound Type="expression_effect_love" Storage="Remote" Dec="表情音效-love">
+      <Clip SoundPath="expression_effect_love" />
+    </Sound>
+    <Sound Type="expression_effect_miss_you" Storage="Remote" Dec="表情音效-miss you">
+      <Clip SoundPath="expression_effect_miss_you" />
+    </Sound>
+    <Sound Type="expression_effect_octpus" Storage="Remote" Dec="表情音效-octopus">
+      <Clip SoundPath="expression_effect_octpus" />
+    </Sound>
+    <Sound Type="expression_effect_paint" Storage="Remote" Dec="表情音效-paint">
+      <Clip SoundPath="expression_effect_paint" />
+    </Sound>
+    <Sound Type="expression_effect_pig" Storage="Remote" Dec="表情音效-pig">
+      <Clip SoundPath="expression_effect_pig" />
+    </Sound>
   </Sounds>
 </Project>

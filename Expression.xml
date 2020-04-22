@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
   <Expressions>
-    <Expression ID="70001" Name="bomb" Price="10" Achieve="1" Icon="p_bomb" AB="expression/bomb" Prefab="bomb_animation" Action="0" />
-    <Expression ID="70002" Name="flower" Price="3" Achieve="0" Icon="p_flower" AB="expression/miss_you" Prefab="miss_you_animation" Action="0" />
-    <Expression ID="70003" Name="love" Price="6" Achieve="0" Icon="p_love" AB="expression/love" Prefab="love_animation" Action="0" />
-    <Expression ID="70004" Name="octopus" Price="10" Achieve="1" Icon="p_octopus" AB="expression/octopus" Prefab="octopus_animation" Action="0" />
-    <Expression ID="70005" Name="paint" Price="15" Achieve="1" Icon="p_paint" AB="expression/paint" Prefab="paint_animation" Action="0" />
-    <Expression ID="70006" Name="pig" Price="15" Achieve="1" Icon="p_pig" AB="expression/pig" Prefab="pig_animation" Action="1" />
+    <Expression ID="70001" Name="bomb" Price="10" Achieve="1" Icon="p_bomb" AB="expression/bomb" Prefab="bomb_animation" Sound1="expression_effect_bomb" Sound2="null" Action="0" />
+    <Expression ID="70002" Name="flower" Price="3" Achieve="0" Icon="p_flower" AB="expression/miss_you" Prefab="miss_you_animation" Sound1="expression_effect_miss_you" Sound2="null" Action="0" />
+    <Expression ID="70003" Name="love" Price="6" Achieve="0" Icon="p_love" AB="expression/love" Prefab="love_animation" Sound1="expression_effect_love" Sound2="null" Action="0" />
+    <Expression ID="70004" Name="octopus" Price="10" Achieve="1" Icon="p_octopus" AB="expression/octopus" Prefab="octopus_animation" Sound1="expression_effect_octpus" Sound2="null" Action="0" />
+    <Expression ID="70005" Name="paint" Price="15" Achieve="1" Icon="p_paint" AB="expression/paint" Prefab="paint_animation" Sound1="expression_effect_paint" Sound2="null" Action="0" />
+    <Expression ID="70006" Name="pig" Price="15" Achieve="1" Icon="p_pig" AB="expression/pig" Prefab="pig_animation" Sound1="expression_effect_pig" Sound2="null" Action="0" />
   </Expressions>
 </Project>
