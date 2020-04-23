@@ -881,8 +881,11 @@
     <Sound Type="expression_effect_paint" Storage="Remote" Dec="表情音效-paint">
       <Clip SoundPath="expression_effect_paint" />
     </Sound>
-    <Sound Type="expression_effect_pig" Storage="Remote" Dec="表情音效-pig">
-      <Clip SoundPath="expression_effect_pig" />
+    <Sound Type="expression_effect_pig1" Storage="Remote" Dec="表情音效-pig">
+      <Clip SoundPath="expression_effect_pig1" />
+    </Sound>
+    <Sound Type="expression_effect_pig2" Storage="Remote" Dec="表情音效-pig">
+      <Clip SoundPath="expression_effect_pig2" />
     </Sound>
     <Sound Type="expression_flash" Storage="Remote" Dec="页面音效-嗖的一声">
       <Clip SoundPath="expression_flash" />
