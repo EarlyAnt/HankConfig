@@ -21,6 +21,7 @@
       <Text Key="倒计天" Value="{0}天|HKHB" />
       <Text Key="已拥有" Value="已拥有|HKHB" />
       <Text Key="加载中" Value="加载中|HKHB" />
+      <Text Key="喝水继续表情" Value="喝水才能继续哟～ ;P|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -192,6 +193,7 @@
       <Text Key="倒计天" Value="{0}天|HKHB" />
       <Text Key="已拥有" Value="已拥有|HKHB" />
       <Text Key="加载中" Value="加載中|DFPT" />
+      <Text Key="喝水继续表情" Value="喝水才能繼續呦～ ;P|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -363,6 +365,7 @@
       <Text Key="倒计天" Value="{0}days|DFPT" />
       <Text Key="已拥有" Value="owned|DFPT" />
       <Text Key="加载中" Value="Loading|DFPT" />
+      <Text Key="喝水继续表情" Value="Drink to continue～ ;)|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -534,6 +537,7 @@
       <Text Key="倒计天" Value="{0}日|Pomeranian" />
       <Text Key="已拥有" Value="持っている|Pomeranian" />
       <Text Key="加载中" Value="ダウンロード中|Pomeranian" />
+      <Text Key="喝水继续表情" Value="続行するには水を飲む～ ;)|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
