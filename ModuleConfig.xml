@@ -277,6 +277,7 @@
       <File Name="title_ima" Path="WorldMap/title_ima" Type="Image" Enable="1" />
     </Module>
     <Module Name="Expression" Desc="表情页" >
+      <File Name="avatar_default" Path="Expression/View/avatar_default" Type="Image" Enable="1" />
       <File Name="avatar01" Path="Expression/View/avatar01" Type="Image" Enable="1" />
       <File Name="avatar02" Path="Expression/View/avatar02" Type="Image" Enable="1" />
       <File Name="avatar03" Path="Expression/View/avatar03" Type="Image" Enable="1" />
