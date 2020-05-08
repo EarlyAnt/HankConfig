@@ -22,6 +22,7 @@
       <Text Key="已拥有" Value="已拥有|HKHB" />
       <Text Key="加载中" Value="加载中|HKHB" />
       <Text Key="喝水继续表情" Value="喝水才能继续哟～ ;P|HKHB" />
+      <Text Key="喝水获得表情" Value="喝水达标就能获得表情道具哦！|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -194,6 +195,7 @@
       <Text Key="已拥有" Value="已拥有|HKHB" />
       <Text Key="加载中" Value="加載中|DFPT" />
       <Text Key="喝水继续表情" Value="喝水才能繼續呦～ ;P|DFPT" />
+      <Text Key="喝水获得表情" Value="喝水達標就能獲得表情道具哦！|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -366,6 +368,7 @@
       <Text Key="已拥有" Value="owned|DFPT" />
       <Text Key="加载中" Value="Loading|DFPT" />
       <Text Key="喝水继续表情" Value="Drink to continue～ ;)|DFPT" />
+      <Text Key="喝水获得表情" Value="Get emoji items when you hit the daily goal!|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -538,6 +541,7 @@
       <Text Key="已拥有" Value="持っている|Pomeranian" />
       <Text Key="加载中" Value="ダウンロード中|Pomeranian" />
       <Text Key="喝水继续表情" Value="続行するには水を飲む～ ;)|Pomeranian" />
+      <Text Key="喝水获得表情" Value="水を飲んで顔を表す道具を獲得します。|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
