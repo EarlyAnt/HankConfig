@@ -326,6 +326,8 @@
       <File Name="txt_friends_en" Path="Expression/View/txt_friends_en" Type="Image" Enable="1" />
       <File Name="txt_friends_jp" Path="Expression/View/txt_friends_jp" Type="Image" Enable="1" />
       <File Name="txt_friends_tw" Path="Expression/View/txt_friends_tw" Type="Image" Enable="1" />
+      <File Name="drink_remind" Path="Expression/View/drink_remind" Type="Image" Enable="1" />
+      <File Name="water_drop" Path="Expression/View/water_drop" Type="Image" Enable="1" />
       <File Name="p_bomb_big" Path="Expression/Icon/p_bomb_big" Type="Image" Enable="1" />
       <File Name="p_bomb_small" Path="Expression/Icon/p_bomb_small" Type="Image" Enable="1" />
       <File Name="p_flower_big" Path="Expression/Icon/p_flower_big" Type="Image" Enable="1" />
