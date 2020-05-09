@@ -202,11 +202,11 @@
     <Item Id="69022" Type="6" Name="food_orange" getImage="food_orange" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69023" Type="6" Name="food_ricecakefish" getImage="food_ricecakefish" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69024" Type="6" Name="food_sausage" getImage="food_sausage" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70001" Type="7" Name="70001" getImage="p_bomb" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70002" Type="7" Name="70002" getImage="p_flower" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70003" Type="7" Name="70003" getImage="p_love" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70004" Type="7" Name="70004" getImage="p_octopus" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70005" Type="7" Name="70005" getImage="p_paint" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70006" Type="7" Name="70006" getImage="p_pig" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70001" Type="7" Name="70001" getImage="p_love_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70002" Type="7" Name="70002" getImage="p_flower_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70003" Type="7" Name="70003" getImage="p_octopus_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70004" Type="7" Name="70004" getImage="p_paint_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70005" Type="7" Name="70005" getImage="p_bomb_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70006" Type="7" Name="70006" getImage="p_pig_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>

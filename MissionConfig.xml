@@ -395,5 +395,23 @@
         <TreasureBox BoxId="91016" Height="8" />
       </Mission>
     </Scene>
+    <Scene Name="日本" Index="3" Icon="earth_Japan" TitleBg="Title_Bg_earth" TitleColor="0,0.428,0.694" BoxType="bag_jp" Preview="EARTH_BG03" Unlock="Date|2020-04-15 18:00:00">
+      <Mission Id="93001" Name="MissionName93001" Background="EARTH_Japan_bg01" Model="93001" NimIcon="" QuestId="20094" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="91017" Height="3" />
+        <TreasureBox BoxId="91018" Height="8" />
+      </Mission>
+      <Mission Id="93002" Name="MissionName93002" Background="EARTH_Japan_bg02" Model="93001" NimIcon="" QuestId="20095" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="91019" Height="3" />
+        <TreasureBox BoxId="91020" Height="8" />
+      </Mission>
+      <Mission Id="93003" Name="MissionName93003" Background="EARTH_Japan_bg03" Model="93001" NimIcon="" QuestId="20096" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="91021" Height="3" />
+        <TreasureBox BoxId="91022" Height="8" />
+      </Mission>
+      <Mission Id="93004" Name="MissionName93004" Background="EARTH_Japan_bg04" Model="93001" NimIcon="" QuestId="20097" dailyGoalPercent="0.5" AwardCoin="50" BGM="" Sound="" WaterDrop="" WaterDropAudio="">
+        <TreasureBox BoxId="91023" Height="3" />
+        <TreasureBox BoxId="91024" Height="8" />
+      </Mission>
+    </Scene>
   </World>
 </Project>

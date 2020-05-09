@@ -211,6 +211,8 @@
       <File Name="earth_Asia_small" Path="WorldMap/SceneIcon/earth_Asia_small" Type="Image" Enable="1" />
       <File Name="earth_Europe_big" Path="WorldMap/SceneIcon/earth_Europe_big" Type="Image" Enable="1" />
       <File Name="earth_Europe_small" Path="WorldMap/SceneIcon/earth_Europe_small" Type="Image" Enable="1" />
+      <File Name="earth_Japan_big" Path="WorldMap/SceneIcon/earth_Japan_big" Type="Image" Enable="1" />
+      <File Name="earth_Japan_small" Path="WorldMap/SceneIcon/earth_Japan_small" Type="Image" Enable="1" />
       <File Name="Forest" Path="WorldMap/SceneIcon/Forest" Type="Image" Enable="1" />
       <File Name="Hallowmas" Path="WorldMap/SceneIcon/Hallowmas" Type="Image" Enable="1" />
       <File Name="ima_desert_big" Path="WorldMap/SceneIcon/ima_desert_big" Type="Image" Enable="1" />
@@ -233,6 +235,7 @@
       <File Name="Sea" Path="WorldMap/SceneIcon/Sea" Type="Image" Enable="1" />
       <File Name="EARTH_BG01" Path="WorldMap/ScenePreview/EARTH_BG01" Type="Image" Enable="1" />
       <File Name="EARTH_BG02" Path="WorldMap/ScenePreview/EARTH_BG02" Type="Image" Enable="1" />
+      <File Name="EARTH_BG03" Path="WorldMap/ScenePreview/EARTH_BG03" Type="Image" Enable="1" />
       <File Name="IMA_BG01" Path="WorldMap/ScenePreview/IMA_BG01" Type="Image" Enable="1" />
       <File Name="IMA_BG02" Path="WorldMap/ScenePreview/IMA_BG02" Type="Image" Enable="1" />
       <File Name="IMA_BG03" Path="WorldMap/ScenePreview/IMA_BG03" Type="Image" Enable="1" />
