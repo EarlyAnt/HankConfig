@@ -3,17 +3,26 @@
   <AwardConfigs>
     <AwardConfig ID="10000" Desc="普通30%dailyGoal宝箱" >
       <Coin Percent="0.6" />
-      <Prop Percent="0.4" Source="Food,Expression" />
+      <Prop Percent="0.4" Source="Food,Expression" List="" />
     </AwardConfig>
     <AwardConfig ID="10001" Desc="普通60%dailyGoal宝箱" >
       <Coin Percent="0.5" />
-      <Prop Percent="0.07" Source="Expression" />
-      <Prop Percent="0.43" Source="Food,Expression" />
+      <Prop Percent="0.07" Source="Expression" List="" />
+      <Prop Percent="0.43" Source="Food,Expression" List="" />
     </AwardConfig>
     <AwardConfig ID="10002" Desc="普通100%dailyGoal宝箱" >
       <Coin Percent="0.4" />
-      <Prop Percent="0.15" Source="Expression" />
-      <Prop Percent="0.45" Source="Food,Expression" />
+      <Prop Percent="0.15" Source="Expression" List="" />
+      <Prop Percent="0.45" Source="Food,Expression" List="" />
+    </AwardConfig>
+    <AwardConfig ID="10003" Desc="随机全部食物的规则" >
+      <Prop Percent="0" Source="Food" List="all" />
+    </AwardConfig>
+    <AwardConfig ID="10004" Desc="随机全部表情的规则" >
+      <Prop Percent="0" Source="Expression" List="all" />
+    </AwardConfig>
+    <AwardConfig ID="10005" Desc="随机指定表情的规则" >
+      <Prop Percent="0" Source="Expression" List="70003,70004,70005,70006" />
     </AwardConfig>
   </AwardConfigs>
 </Project>

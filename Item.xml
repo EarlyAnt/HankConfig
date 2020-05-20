@@ -181,6 +181,15 @@
     <Item Id="40164" Type="4" Name="nim0418" getImage="Home_box_nim_volcano02 (9)" Icon="" StoryBg="" AudioId="" Description="" PetType="4" Image="atom_icon0165" Audio="Rock/9-2" Animation="" Preview="Rock/imgNim04092"/>
     <Item Id="40165" Type="4" Name="nim0419" getImage="Home_box_nim_volcano01 (10)" Icon="" StoryBg="" AudioId="" Description="" PetType="4" Image="atom_icon0156" Audio="Rock/10-1" Animation="" Preview="Rock/imgNim04101"/>
     <Item Id="40166" Type="4" Name="nim0420" getImage="Home_box_nim_volcano02 (10)" Icon="" StoryBg="" AudioId="" Description="" PetType="4" Image="atom_icon0166" Audio="Rock/10-2" Animation="" Preview="Rock/imgNim04102"/>
+    <Item Id="60001" Type="6" Name="bread" getImage="food_bread" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="60002" Type="6" Name="milk" getImage="food_milk" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="60003" Type="6" Name="rice" getImage="food_rice" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="60004" Type="6" Name="donut" getImage="food_donut" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="60005" Type="6" Name="salad" getImage="food_salad" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="60006" Type="6" Name="chocolate" getImage="food_chocolate" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69001" Type="6" Name="pork mooncake" getImage="moomcake01" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69002" Type="6" Name="yolk mooncake" getImage="yolkmcake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="69003" Type="6" Name="kernel mooncake" getImage="taro001" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69004" Type="6" Name="flagjuice" getImage="food_flagjuice" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69005" Type="6" Name="bombmuffin" getImage="food_bombmuffin" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69006" Type="6" Name="nestcake" getImage="food_nestcake" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
