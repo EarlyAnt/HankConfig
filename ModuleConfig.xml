@@ -280,7 +280,6 @@
       <File Name="title_ima" Path="WorldMap/title_ima" Type="Image" Enable="1" />
     </Module>
     <Module Name="Expression" Desc="表情页" >
-      <File Name="avatar_default" Path="Expression/View/avatar_default" Type="Image" Enable="1" />
       <File Name="avatar01" Path="Expression/View/avatar01" Type="Image" Enable="1" />
       <File Name="avatar02" Path="Expression/View/avatar02" Type="Image" Enable="1" />
       <File Name="avatar03" Path="Expression/View/avatar03" Type="Image" Enable="1" />
@@ -291,7 +290,12 @@
       <File Name="avatarn" Path="Expression/View/avatarn" Type="Image" Enable="1" />
       <File Name="avatarp" Path="Expression/View/avatarp" Type="Image" Enable="1" />
       <File Name="avatars" Path="Expression/View/avatars" Type="Image" Enable="1" />
+      <File Name="avatar_default" Path="Expression/View/avatar_default" Type="Image" Enable="1" />
       <File Name="bg" Path="Expression/View/bg" Type="Image" Enable="1" />
+      <File Name="btn_add_s" Path="Expression/View/btn_add_s" Type="Image" Enable="1" />
+      <File Name="btn_add_us" Path="Expression/View/btn_add_us" Type="Image" Enable="1" />
+      <File Name="btn_del_s" Path="Expression/View/btn_del_s" Type="Image" Enable="1" />
+      <File Name="btn_del_us" Path="Expression/View/btn_del_us" Type="Image" Enable="1" />
       <File Name="cash" Path="Expression/View/cash" Type="Image" Enable="1" />
       <File Name="coin" Path="Expression/View/coin" Type="Image" Enable="1" />
       <File Name="coin_bg" Path="Expression/View/coin_bg" Type="Image" Enable="1" />
@@ -301,6 +305,7 @@
       <File Name="crown_g" Path="Expression/View/crown_g" Type="Image" Enable="1" />
       <File Name="crown_s" Path="Expression/View/crown_s" Type="Image" Enable="1" />
       <File Name="disable" Path="Expression/View/disable" Type="Image" Enable="1" />
+      <File Name="drink_remind" Path="Expression/View/drink_remind" Type="Image" Enable="1" />
       <File Name="emoji_bg" Path="Expression/View/emoji_bg" Type="Image" Enable="1" />
       <File Name="label_add_s" Path="Expression/View/label_add_s" Type="Image" Enable="1" />
       <File Name="label_add_us" Path="Expression/View/label_add_us" Type="Image" Enable="1" />
@@ -321,6 +326,7 @@
       <File Name="NO3" Path="Expression/View/NO3" Type="Image" Enable="1" />
       <File Name="nocoin" Path="Expression/View/nocoin" Type="Image" Enable="1" />
       <File Name="Picture_frame" Path="Expression/View/Picture_frame" Type="Image" Enable="1" />
+      <File Name="seal_ok" Path="Expression/View/seal_ok" Type="Image" Enable="1" />
       <File Name="special_label_activity 1" Path="Expression/View/special_label_activity 1" Type="Image" Enable="1" />
       <File Name="tag" Path="Expression/View/tag" Type="Image" Enable="1" />
       <File Name="Tips_bg" Path="Expression/View/Tips_bg" Type="Image" Enable="1" />
@@ -329,7 +335,6 @@
       <File Name="txt_friends_en" Path="Expression/View/txt_friends_en" Type="Image" Enable="1" />
       <File Name="txt_friends_jp" Path="Expression/View/txt_friends_jp" Type="Image" Enable="1" />
       <File Name="txt_friends_tw" Path="Expression/View/txt_friends_tw" Type="Image" Enable="1" />
-      <File Name="drink_remind" Path="Expression/View/drink_remind" Type="Image" Enable="1" />
       <File Name="water_drop" Path="Expression/View/water_drop" Type="Image" Enable="1" />
       <File Name="p_bomb_big" Path="Expression/Icon/p_bomb_big" Type="Image" Enable="1" />
       <File Name="p_bomb_small" Path="Expression/Icon/p_bomb_small" Type="Image" Enable="1" />

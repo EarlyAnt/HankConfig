@@ -896,5 +896,11 @@
     <Sound Type="expression_notify" Storage="Remote" Dec="页面音效-错误提示">
       <Clip SoundPath="expression_notify" />
     </Sound>
+    <Sound Type="expression_stamp" Storage="Remote" Dec="页面音效-盖章音效">
+      <Clip SoundPath="expression_stamp" />
+    </Sound>
+    <Sound Type="expression_garbage" Storage="Remote" Dec="页面音效-丢弃音效">
+      <Clip SoundPath="expression_garbage" />
+    </Sound>
   </Sounds>
 </Project>
