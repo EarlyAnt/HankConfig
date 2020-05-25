@@ -349,5 +349,37 @@
       <File Name="p_pig_big" Path="Expression/Icon/p_pig_big" Type="Image" Enable="1" />
       <File Name="p_pig_small" Path="Expression/Icon/p_pig_small" Type="Image" Enable="1" />
     </Module>
+    <Module Name="MessageInbox" Desc="消息收件箱页" >
+      <File Name="avatar01" Path="MessageInbox/View/avatar01" Type="Image" Enable="1" />
+      <File Name="avatar02" Path="MessageInbox/View/avatar02" Type="Image" Enable="1" />
+      <File Name="avatar03" Path="MessageInbox/View/avatar03" Type="Image" Enable="1" />
+      <File Name="avatar04" Path="MessageInbox/View/avatar04" Type="Image" Enable="1" />
+      <File Name="avatar05" Path="MessageInbox/View/avatar05" Type="Image" Enable="1" />
+      <File Name="avatar06" Path="MessageInbox/View/avatar06" Type="Image" Enable="1" />
+      <File Name="avatard" Path="MessageInbox/View/avatard" Type="Image" Enable="1" />
+      <File Name="avatarn" Path="MessageInbox/View/avatarn" Type="Image" Enable="1" />
+      <File Name="avatarp" Path="MessageInbox/View/avatarp" Type="Image" Enable="1" />
+      <File Name="avatars" Path="MessageInbox/View/avatars" Type="Image" Enable="1" />
+      <File Name="avatar_default" Path="MessageInbox/View/avatar_default" Type="Image" Enable="1" />
+      <File Name="avatar_gululu" Path="MessageInbox/View/avatar_gululu" Type="Image" Enable="1" />
+      <File Name="bg" Path="MessageInbox/View/bg" Type="Image" Enable="1" />
+      <File Name="board_selected" Path="MessageInbox/View/board_selected" Type="Image" Enable="1" />
+      <File Name="board_txt" Path="MessageInbox/View/board_txt" Type="Image" Enable="1" />
+      <File Name="board_unselected" Path="MessageInbox/View/board_unselected" Type="Image" Enable="1" />
+      <File Name="btn_add_s" Path="MessageInbox/View/btn_add_s" Type="Image" Enable="1" />
+      <File Name="btn_add_us" Path="MessageInbox/View/btn_add_us" Type="Image" Enable="1" />
+      <File Name="btn_del_s" Path="MessageInbox/View/btn_del_s" Type="Image" Enable="1" />
+      <File Name="btn_del_us" Path="MessageInbox/View/btn_del_us" Type="Image" Enable="1" />
+      <File Name="crownlable_b" Path="MessageInbox/View/crownlable_b" Type="Image" Enable="1" />
+      <File Name="crown_c" Path="MessageInbox/View/crown_c" Type="Image" Enable="1" />
+      <File Name="crown_g" Path="MessageInbox/View/crown_g" Type="Image" Enable="1" />
+      <File Name="crown_s" Path="MessageInbox/View/crown_s" Type="Image" Enable="1" />
+      <File Name="drink_remind" Path="MessageInbox/View/drink_remind" Type="Image" Enable="1" />
+      <File Name="lv_bg" Path="MessageInbox/View/lv_bg" Type="Image" Enable="1" />
+      <File Name="net_no" Path="MessageInbox/View/net_no" Type="Image" Enable="1" />
+      <File Name="Picture_frame" Path="MessageInbox/View/Picture_frame" Type="Image" Enable="1" />
+      <File Name="Tips_bg" Path="MessageInbox/View/Tips_bg" Type="Image" Enable="1" />
+      <File Name="title_bg" Path="MessageInbox/View/title_bg" Type="Image" Enable="1" />
+    </Module>
   </Modules>
 </Project>
