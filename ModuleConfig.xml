@@ -375,6 +375,7 @@
       <File Name="crown_g" Path="MessageInbox/View/crown_g" Type="Image" Enable="1" />
       <File Name="crown_s" Path="MessageInbox/View/crown_s" Type="Image" Enable="1" />
       <File Name="drink_remind" Path="MessageInbox/View/drink_remind" Type="Image" Enable="1" />
+      <File Name="img_no_info" Path="MessageInbox/View/img_no_info" Type="Image" Enable="1" />
       <File Name="lv_bg" Path="MessageInbox/View/lv_bg" Type="Image" Enable="1" />
       <File Name="net_no" Path="MessageInbox/View/net_no" Type="Image" Enable="1" />
       <File Name="Picture_frame" Path="MessageInbox/View/Picture_frame" Type="Image" Enable="1" />
