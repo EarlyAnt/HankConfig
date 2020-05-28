@@ -902,5 +902,8 @@
     <Sound Type="expression_garbage" Storage="Remote" Dec="页面音效-丢弃音效">
       <Clip SoundPath="expression_garbage" />
     </Sound>
+    <Sound Type="message_inbox_no_message" Storage="Remote" Dec="页面音效-无消息">
+      <Clip SoundPath="message_inbox_no_message" />
+    </Sound>
   </Sounds>
 </Project>
