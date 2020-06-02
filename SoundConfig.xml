@@ -905,5 +905,8 @@
     <Sound Type="message_inbox_no_message" Storage="Remote" Dec="页面音效-无消息">
       <Clip SoundPath="message_inbox_no_message" />
     </Sound>
+    <Sound Type="message_inbox_shake_hands" Storage="Remote" Dec="页面音效-胜利握手">
+      <Clip SoundPath="message_inbox_shake_hands" />
+    </Sound>
   </Sounds>
 </Project>
