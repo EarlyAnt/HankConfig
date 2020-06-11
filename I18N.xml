@@ -542,17 +542,17 @@
       <Text Key="SANSA" Value="サンサ|Pomeranian" />
       <Text Key="YOYO" Value="ヨーヨー|Pomeranian" />
       <Text Key="NUO" Value="ヌーオ|Pomeranian" />
-      <Text Key="达到等级可解锁" Value="レベル{0}でロック解除可能|Pomeranian" />
-      <Text Key="解锁宠物" Value="ふ化{0}|Pomeranian" />
+      <Text Key="达到等级可解锁" Value="レベル{0}でロック解除|Pomeranian" />
+      <Text Key="解锁宠物" Value="ロック解除{0}|Pomeranian" />
       <Text Key="Feed_Prescribe" Value="限定|Pomeranian" />
-      <Text Key="Feed_Sold_Out" Value="売り切れ|Pomeranian" />
-      <Text Key="Feed_No_Coin" Value="コインが足りない|Pomeranian" />
-      <Text Key="退出下载" Value="DL中止|Pomeranian" />
-      <Text Key="关卡进度" Value="進行状況|Pomeranian" />
+      <Text Key="Feed_Sold_Out" Value="完売|Pomeranian" />
+      <Text Key="Feed_No_Coin" Value="コインが不足しています|Pomeranian" />
+      <Text Key="退出下载" Value="ダウンロードを中止する|Pomeranian" />
+      <Text Key="关卡进度" Value="進捗状況|Pomeranian" />
       <Text Key="倒计天" Value="{0}日|Pomeranian" />
-      <Text Key="已拥有" Value="持っている|Pomeranian" />
-      <Text Key="加载中" Value="ダウンロード中|Pomeranian" />
-      <Text Key="喝水继续表情" Value="続行するには水を飲む～ ;)|Pomeranian" />
+      <Text Key="已拥有" Value="所有済|Pomeranian" />
+      <Text Key="加载中" Value="ローディング|Pomeranian" />
+      <Text Key="喝水继续表情" Value="飲んで続ける～ ;)|Pomeranian" />
       <Text Key="喝水获得表情" Value="水を飲んで顔を表す道具を獲得します。|Pomeranian" />
       <Text Key="收件箱" Value="受信トレイ|Pomeranian" />
       <Text Key="给你发来一个好友申请" Value="友達申請を送信する|Pomeranian" />
