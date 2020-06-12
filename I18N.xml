@@ -561,7 +561,7 @@
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
-      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_JP" />
+      <Image Key="Feed_Prescribe" Value="Texture/PetFeed/View/limited_jp" />
       <Image Key="PlayAgain" Value="Texture/WorldMap/playagain_JP" />
       <Image Key="MyFriend" Value="Texture/Expression/View/txt_friends_jp" />
 
