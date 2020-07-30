@@ -348,6 +348,10 @@
       <File Name="p_paint_small" Path="Expression/Icon/p_paint_small" Type="Image" Enable="1" />
       <File Name="p_pig_big" Path="Expression/Icon/p_pig_big" Type="Image" Enable="1" />
       <File Name="p_pig_small" Path="Expression/Icon/p_pig_small" Type="Image" Enable="1" />
+      <File Name="p_raindow_big" Path="Expression/Icon/p_raindow_big" Type="Image" Enable="1" />
+      <File Name="p_raindow_small" Path="Expression/Icon/p_raindow_small" Type="Image" Enable="1" />
+      <File Name="p_tantan_big" Path="Expression/Icon/p_tantan_big" Type="Image" Enable="1" />
+      <File Name="p_tantan_small" Path="Expression/Icon/p_tantan_small" Type="Image" Enable="1" />
     </Module>
     <Module Name="MessageInbox" Desc="消息收件箱页" >
       <File Name="avatar01" Path="MessageInbox/View/avatar01" Type="Image" Enable="1" />
