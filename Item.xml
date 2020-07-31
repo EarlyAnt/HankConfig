@@ -217,5 +217,7 @@
     <Item Id="70004" Type="7" Name="70004" getImage="p_paint_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="70005" Type="7" Name="70005" getImage="p_bomb_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="70006" Type="7" Name="70006" getImage="p_pig_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70007" Type="7" Name="70007" getImage="p_raindow_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70008" Type="7" Name="70008" getImage="p_tantan_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>

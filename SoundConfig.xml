@@ -887,6 +887,16 @@
     <Sound Type="expression_effect_pig2" Storage="Remote" Dec="表情音效-pig">
       <Clip SoundPath="expression_effect_pig2" />
     </Sound>
+    <Sound Type="expression_effect_rainbow" Storage="Remote" Dec="表情音效-rainbow">
+      <Clip SoundPath="expression_effect_rainbow_01" />
+      <Clip SoundPath="expression_effect_rainbow_02" />
+      <Clip SoundPath="expression_effect_rainbow_03" />
+      <Clip SoundPath="expression_effect_rainbow_04" />
+      <Clip SoundPath="expression_effect_rainbow_05" />
+    </Sound>
+    <Sound Type="expression_effect_stormrain" Storage="Remote" Dec="表情音效-tantan">
+      <Clip SoundPath="expression_effect_stormrain_01" />
+    </Sound>
     <Sound Type="expression_flash" Storage="Remote" Dec="页面音效-嗖的一声">
       <Clip SoundPath="expression_flash" />
     </Sound>
