@@ -1,0 +1,4 @@
+->本地记住git账号和密码
+1.先按提示输入用户名和密码
+2.输入指令git config --global credential.helper store
+3.再次执行 git pull 操作就不需要再输入用户名和密码了
