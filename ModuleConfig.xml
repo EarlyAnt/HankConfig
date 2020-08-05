@@ -291,6 +291,24 @@
       <File Name="avatarp" Path="Expression/View/avatarp" Type="Image" Enable="1" />
       <File Name="avatars" Path="Expression/View/avatars" Type="Image" Enable="1" />
       <File Name="avatar_default" Path="Expression/View/avatar_default" Type="Image" Enable="1" />
+      <File Name="avatar00" Path="Expression/View/avatar00" Type="Image" Enable="1" />
+      <File Name="avatar07" Path="Expression/View/avatar07" Type="Image" Enable="1" />
+      <File Name="avatar08" Path="Expression/View/avatar08" Type="Image" Enable="1" />
+      <File Name="avatar09" Path="Expression/View/avatar09" Type="Image" Enable="1" />
+      <File Name="avatar11" Path="Expression/View/avatar11" Type="Image" Enable="1" />
+      <File Name="avatar12" Path="Expression/View/avatar12" Type="Image" Enable="1" />
+      <File Name="avatar13" Path="Expression/View/avatar13" Type="Image" Enable="1" />
+      <File Name="avatar14" Path="Expression/View/avatar14" Type="Image" Enable="1" />
+      <File Name="avatar15" Path="Expression/View/avatar15" Type="Image" Enable="1" />
+      <File Name="avatar16" Path="Expression/View/avatar16" Type="Image" Enable="1" />
+      <File Name="avatar17" Path="Expression/View/avatar17" Type="Image" Enable="1" />
+      <File Name="avatar18" Path="Expression/View/avatar18" Type="Image" Enable="1" />
+      <File Name="avatar19" Path="Expression/View/avatar19" Type="Image" Enable="1" />
+      <File Name="avatar20" Path="Expression/View/avatar20" Type="Image" Enable="1" />
+      <File Name="avatar21" Path="Expression/View/avatar21" Type="Image" Enable="1" />
+      <File Name="avatar22" Path="Expression/View/avatar22" Type="Image" Enable="1" />
+      <File Name="avatar23" Path="Expression/View/avatar23" Type="Image" Enable="1" />
+      <File Name="avatar24" Path="Expression/View/avatar24" Type="Image" Enable="1" />
       <File Name="bg" Path="Expression/View/bg" Type="Image" Enable="1" />
       <File Name="btn_add_s" Path="Expression/View/btn_add_s" Type="Image" Enable="1" />
       <File Name="btn_add_us" Path="Expression/View/btn_add_us" Type="Image" Enable="1" />
@@ -366,6 +384,24 @@
       <File Name="avatars" Path="MessageInbox/View/avatars" Type="Image" Enable="1" />
       <File Name="avatar_default" Path="MessageInbox/View/avatar_default" Type="Image" Enable="1" />
       <File Name="avatar_gululu" Path="MessageInbox/View/avatar_gululu" Type="Image" Enable="1" />
+      <File Name="avatar00" Path="MessageInbox/View/avatar00" Type="Image" Enable="1" />
+      <File Name="avatar07" Path="MessageInbox/View/avatar07" Type="Image" Enable="1" />
+      <File Name="avatar08" Path="MessageInbox/View/avatar08" Type="Image" Enable="1" />
+      <File Name="avatar09" Path="MessageInbox/View/avatar09" Type="Image" Enable="1" />
+      <File Name="avatar11" Path="MessageInbox/View/avatar11" Type="Image" Enable="1" />
+      <File Name="avatar12" Path="MessageInbox/View/avatar12" Type="Image" Enable="1" />
+      <File Name="avatar13" Path="MessageInbox/View/avatar13" Type="Image" Enable="1" />
+      <File Name="avatar14" Path="MessageInbox/View/avatar14" Type="Image" Enable="1" />
+      <File Name="avatar15" Path="MessageInbox/View/avatar15" Type="Image" Enable="1" />
+      <File Name="avatar16" Path="MessageInbox/View/avatar16" Type="Image" Enable="1" />
+      <File Name="avatar17" Path="MessageInbox/View/avatar17" Type="Image" Enable="1" />
+      <File Name="avatar18" Path="MessageInbox/View/avatar18" Type="Image" Enable="1" />
+      <File Name="avatar19" Path="MessageInbox/View/avatar19" Type="Image" Enable="1" />
+      <File Name="avatar20" Path="MessageInbox/View/avatar20" Type="Image" Enable="1" />
+      <File Name="avatar21" Path="MessageInbox/View/avatar21" Type="Image" Enable="1" />
+      <File Name="avatar22" Path="MessageInbox/View/avatar22" Type="Image" Enable="1" />
+      <File Name="avatar23" Path="MessageInbox/View/avatar23" Type="Image" Enable="1" />
+      <File Name="avatar24" Path="MessageInbox/View/avatar24" Type="Image" Enable="1" />
       <File Name="bg" Path="MessageInbox/View/bg" Type="Image" Enable="1" />
       <File Name="board_selected" Path="MessageInbox/View/board_selected" Type="Image" Enable="1" />
       <File Name="board_txt" Path="MessageInbox/View/board_txt" Type="Image" Enable="1" />
