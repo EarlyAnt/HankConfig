@@ -866,6 +866,9 @@
     <Sound Type="expression_receive" Storage="Remote" Dec="表情页收到表情">
       <Clip SoundPath="expression_receive" />
     </Sound>
+    <Sound Type="expression_not_go2" Storage="Remote" Dec="表情页不是Go2水杯">
+      <Clip SoundPath="expression_not_go2" />
+    </Sound>
     <Sound Type="expression_effect_bomb" Storage="Remote" Dec="表情音效-bomb">
       <Clip SoundPath="expression_effect_bomb" />
     </Sound>
@@ -917,6 +920,9 @@
     </Sound>
     <Sound Type="message_inbox_shake_hands" Storage="Remote" Dec="页面音效-胜利握手">
       <Clip SoundPath="message_inbox_shake_hands" />
+    </Sound>
+    <Sound Type="message_inbox_trash" Storage="Remote" Dec="页面音效-拒绝交友申请">
+      <Clip SoundPath="message_inbox_trash" />
     </Sound>
   </Sounds>
 </Project>

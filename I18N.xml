@@ -27,6 +27,8 @@
       <Text Key="给你发来一个好友申请" Value="给你发来一个好友申请|HKHB" />
       <Text Key="好友申请" Value="好友申请|HKHB" />
       <Text Key="系统消息" Value="系统消息|HKHB" />
+      <Text Key="旧水杯" Value="对方系统过旧，不支持该表情。|HKHB" />
+      <Text Key="来自" Value="来自|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -204,6 +206,8 @@
       <Text Key="给你发来一个好友申请" Value="給你發來一個好友申請|DFPT" />
       <Text Key="好友申请" Value="好友申請|DFPT" />
       <Text Key="系统消息" Value="系統消息|DFPT" />
+      <Text Key="旧水杯" Value="對方系統過舊，不支持該表情。|DFPT" />
+      <Text Key="来自" Value="來自|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -381,6 +385,8 @@
       <Text Key="给你发来一个好友申请" Value="Friend request|DFPT" />
       <Text Key="好友申请" Value="Friend request|DFPT" />
       <Text Key="系统消息" Value="System|DFPT" />
+      <Text Key="旧水杯" Value="The system of your friend's bottle is too old to support the emoji.|DFPT" />
+      <Text Key="来自" Value="From|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -558,6 +564,8 @@
       <Text Key="给你发来一个好友申请" Value="友達申請を送信する|Pomeranian" />
       <Text Key="好友申请" Value="友達リクエスト|Pomeranian" />
       <Text Key="系统消息" Value="システム|Pomeranian" />
+      <Text Key="旧水杯" Value="相手のシステムが古いので、この表情はサポートされていません。|Pomeranian" />
+      <Text Key="来自" Value="出身地|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />

@@ -322,6 +322,7 @@
       <File Name="crown_c" Path="Expression/View/crown_c" Type="Image" Enable="1" />
       <File Name="crown_g" Path="Expression/View/crown_g" Type="Image" Enable="1" />
       <File Name="crown_s" Path="Expression/View/crown_s" Type="Image" Enable="1" />
+      <File Name="cup_ban" Path="Expression/View/cup_ban" Type="Image" Enable="1" />
       <File Name="disable" Path="Expression/View/disable" Type="Image" Enable="1" />
       <File Name="drink_remind" Path="Expression/View/drink_remind" Type="Image" Enable="1" />
       <File Name="emoji_bg" Path="Expression/View/emoji_bg" Type="Image" Enable="1" />
