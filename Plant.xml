@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
   <Plants>
-    <Plant ID="80001" Index="1" Name="苹果树" Achieve="0" Icon="" AB="" Prefab="" Price="10" Period="8" GainExp="8" GainAward="10006" GainValue="100" InteractionExp="1" InteractionAward="10006" InteractionValue="5" LockLevel="1" Rarity="1" />
-    <Plant ID="80002" Index="2" Name="桃树" Achieve="0" Icon="" AB="" Prefab="" Price="10" Period="10" GainExp="10" GainAward="10006" GainValue="120" InteractionExp="1" InteractionAward="10006" InteractionValue="5" LockLevel="1" Rarity="1" />
-    <Plant ID="80003" Index="3" Name="梨树" Achieve="0" Icon="" AB="" Prefab="" Price="20" Period="15" GainExp="15" GainAward="10006" GainValue="150" InteractionExp="1" InteractionAward="10006" InteractionValue="5" LockLevel="3" Rarity="1" />
-    <Plant ID="80004" Index="4" Name="西瓜" Achieve="0" Icon="" AB="" Prefab="" Price="20" Period="18" GainExp="18" GainAward="10006" GainValue="180" InteractionExp="1" InteractionAward="10006" InteractionValue="10" LockLevel="4" Rarity="1" />
-    <Plant ID="80005" Index="5" Name="榴莲" Achieve="0" Icon="" AB="" Prefab="" Price="30" Period="24" GainExp="24" GainAward="10006" GainValue="200" InteractionExp="2" InteractionAward="10006" InteractionValue="10" LockLevel="5" Rarity="1" />
-    <Plant ID="80006" Index="6" Name="椰子" Achieve="0" Icon="" AB="" Prefab="" Price="30" Period="26" GainExp="30" GainAward="10006" GainValue="250" InteractionExp="2" InteractionAward="10006" InteractionValue="10" LockLevel="7" Rarity="2" />
-    <Plant ID="80007" Index="7" Name="菠萝" Achieve="1" Icon="" AB="" Prefab="" Price="40" Period="24" GainExp="40" GainAward="10006" GainValue="300" InteractionExp="3" InteractionAward="10006" InteractionValue="15" LockLevel="8" Rarity="3" />
+    <Plant ID="80001" Index="1" Name="苹果树" Achieve="0" Icon="" AB="" Prefab="" Price="10" Period="8" GainExp="8" GainAward="10006" GainValue="100" WaterExp="1" WaterAward="10006" WaterValue="5" RobExp="1" RobAward="10006" RobValue="10" RobCoin="2" LockLevel="1" Rarity="1" />
+    <Plant ID="80002" Index="2" Name="桃树" Achieve="0" Icon="" AB="" Prefab="" Price="10" Period="10" GainExp="10" GainAward="10006" GainValue="120" WaterExp="1" WaterAward="10006" WaterValue="5" RobExp="2" RobAward="10006" RobValue="10" RobCoin="2" LockLevel="1" Rarity="1" />
+    <Plant ID="80003" Index="3" Name="梨树" Achieve="0" Icon="" AB="" Prefab="" Price="20" Period="15" GainExp="15" GainAward="10006" GainValue="150" WaterExp="1" WaterAward="10006" WaterValue="6" RobExp="2" RobAward="10006" RobValue="12" RobCoin="3" LockLevel="3" Rarity="1" />
+    <Plant ID="80004" Index="4" Name="西瓜" Achieve="0" Icon="" AB="" Prefab="" Price="20" Period="18" GainExp="18" GainAward="10006" GainValue="180" WaterExp="1" WaterAward="10006" WaterValue="6" RobExp="2" RobAward="10006" RobValue="13" RobCoin="3" LockLevel="4" Rarity="1" />
+    <Plant ID="80005" Index="5" Name="榴莲" Achieve="0" Icon="" AB="" Prefab="" Price="30" Period="24" GainExp="24" GainAward="10006" GainValue="200" WaterExp="2" WaterAward="10006" WaterValue="8" RobExp="3" RobAward="10006" RobValue="15" RobCoin="3" LockLevel="5" Rarity="1" />
+    <Plant ID="80006" Index="6" Name="椰子" Achieve="0" Icon="" AB="" Prefab="" Price="30" Period="26" GainExp="30" GainAward="10006" GainValue="250" WaterExp="2" WaterAward="10006" WaterValue="8" RobExp="3" RobAward="10006" RobValue="20" RobCoin="4" LockLevel="7" Rarity="2" />
+    <Plant ID="80007" Index="7" Name="菠萝" Achieve="1" Icon="" AB="" Prefab="" Price="40" Period="24" GainExp="40" GainAward="10006" GainValue="300" WaterExp="3" WaterAward="10006" WaterValue="10" RobExp="5" RobAward="10006" RobValue="30" RobCoin="5" LockLevel="8" Rarity="3" />
   </Plants>
 </Project>
