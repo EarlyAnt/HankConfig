@@ -13,7 +13,7 @@
     <AwardConfig ID="10002" Desc="普通100%dailyGoal宝箱" >
       <Coin Percent="0.4" />
       <Prop Percent="0.15" Source="Expression" List="" />
-      <Prop Percent="0.45" Source="Food,Expression" List="" />
+      <Prop Percent="0.45" Source="Food,Expression,Plant" List="" />
     </AwardConfig>
     <AwardConfig ID="10003" Desc="随机全部食物的规则" >
       <Prop Percent="0" Source="Food" List="all" />
@@ -23,6 +23,9 @@
     </AwardConfig>
     <AwardConfig ID="10005" Desc="随机指定表情的规则" >
       <Prop Percent="0" Source="Expression" List="70003,70004,70005,70006" />
+    </AwardConfig>
+    <AwardConfig ID="10006" Desc="只奖励金币的规则" >
+      <Coin Percent="1" />
     </AwardConfig>
   </AwardConfigs>
 </Project>

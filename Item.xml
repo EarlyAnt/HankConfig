@@ -211,13 +211,20 @@
     <Item Id="69022" Type="6" Name="food_orange" getImage="food_orange" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69023" Type="6" Name="food_ricecakefish" getImage="food_ricecakefish" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="69024" Type="6" Name="food_sausage" getImage="food_sausage" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70001" Type="7" Name="70001" getImage="p_love_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70002" Type="7" Name="70002" getImage="p_flower_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70003" Type="7" Name="70003" getImage="p_octopus_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70004" Type="7" Name="70004" getImage="p_paint_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70005" Type="7" Name="70005" getImage="p_bomb_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70006" Type="7" Name="70006" getImage="p_pig_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70007" Type="7" Name="70007" getImage="p_raindow_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="70008" Type="7" Name="70008" getImage="p_tantan_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70001" Type="7" Name="love" getImage="p_love_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70002" Type="7" Name="flower" getImage="p_flower_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70003" Type="7" Name="octopus" getImage="p_octopus_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70004" Type="7" Name="paint" getImage="p_paint_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70005" Type="7" Name="bomb" getImage="p_bomb_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70006" Type="7" Name="pig" getImage="p_pig_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70007" Type="7" Name="rainbow" getImage="p_raindow_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="70008" Type="7" Name="tantan" getImage="p_tantan_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80001" Type="8" Name="apple" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80002" Type="8" Name="peach" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80003" Type="8" Name="pear" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80004" Type="8" Name="watermelon" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80005" Type="8" Name="durian" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80006" Type="8" Name="coconut" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80007" Type="8" Name="pineapple" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>
