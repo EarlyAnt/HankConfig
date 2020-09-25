@@ -423,5 +423,8 @@
       <File Name="Tips_bg" Path="MessageInbox/View/Tips_bg" Type="Image" Enable="1" />
       <File Name="title_bg" Path="MessageInbox/View/title_bg" Type="Image" Enable="1" />
     </Module>
+    <Module Name="Garden" Desc="庄园页" >
+      <File Name="effect" Path="Garden/View/effect" Type="Image" Enable="1" />
+    </Module>
   </Modules>
 </Project>
