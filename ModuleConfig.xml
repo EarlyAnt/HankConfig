@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
   <Modules>
-    <Module Name="PetDress" Desc="换装页" >
+    <Module Name="PetDress" Desc="换装页">
       <File Name="cash" Path="PetDress/View/cash" Type="Image" Enable="1" />
       <File Name="check" Path="PetDress/View/check" Type="Image" Enable="1" />
       <File Name="clock" Path="PetDress/View/clock" Type="Image" Enable="1" />
@@ -104,7 +104,7 @@
       <File Name="part_ wing_love_big" Path="PetDress/Accessories/part_ wing_love_big" Type="Image" Enable="1" />
       <File Name="part_ wing_love_small" Path="PetDress/Accessories/part_ wing_love_small" Type="Image" Enable="1" />
     </Module>
-    <Module Name="PetFeed" Desc="喂食页" >
+    <Module Name="PetFeed" Desc="喂食页">
       <File Name="hallowmas_bg" Path="PetFeed/View/Background/hallowmas_bg" Type="Image" Enable="0" />
       <File Name="restaurant_nationalday_bg" Path="PetFeed/View/Background/restaurant_nationalday_bg" Type="Image" Enable="0" />
       <File Name="restruant-christmas" Path="PetFeed/View/Background/restruant-christmas" Type="Image" Enable="0" />
@@ -203,7 +203,7 @@
       <File Name="yolkmcake" Path="PetFeed/Food/yolkmcake" Type="Image" Enable="1" />
       <File Name="yolk_small" Path="PetFeed/Food/yolk_small" Type="Image" Enable="1" />
     </Module>
-    <Module Name="WorldMap" Desc="世界地图页" >
+    <Module Name="WorldMap" Desc="世界地图页">
       <File Name="China" Path="WorldMap/SceneIcon/China" Type="Image" Enable="1" />
       <File Name="Denmark" Path="WorldMap/SceneIcon/Denmark" Type="Image" Enable="1" />
       <File Name="Desert" Path="WorldMap/SceneIcon/Desert" Type="Image" Enable="1" />
@@ -279,7 +279,7 @@
       <File Name="title_earth" Path="WorldMap/title_earth" Type="Image" Enable="1" />
       <File Name="title_ima" Path="WorldMap/title_ima" Type="Image" Enable="1" />
     </Module>
-    <Module Name="Expression" Desc="表情页" >
+    <Module Name="Expression" Desc="表情页">
       <File Name="avatar01" Path="Expression/View/avatar01" Type="Image" Enable="1" />
       <File Name="avatar02" Path="Expression/View/avatar02" Type="Image" Enable="1" />
       <File Name="avatar03" Path="Expression/View/avatar03" Type="Image" Enable="1" />
@@ -372,7 +372,7 @@
       <File Name="p_tantan_big" Path="Expression/Icon/p_tantan_big" Type="Image" Enable="1" />
       <File Name="p_tantan_small" Path="Expression/Icon/p_tantan_small" Type="Image" Enable="1" />
     </Module>
-    <Module Name="MessageInbox" Desc="消息收件箱页" >
+    <Module Name="MessageInbox" Desc="消息收件箱页">
       <File Name="avatar01" Path="MessageInbox/View/avatar01" Type="Image" Enable="1" />
       <File Name="avatar02" Path="MessageInbox/View/avatar02" Type="Image" Enable="1" />
       <File Name="avatar03" Path="MessageInbox/View/avatar03" Type="Image" Enable="1" />
@@ -423,10 +423,61 @@
       <File Name="Tips_bg" Path="MessageInbox/View/Tips_bg" Type="Image" Enable="1" />
       <File Name="title_bg" Path="MessageInbox/View/title_bg" Type="Image" Enable="1" />
     </Module>
-	<Module Name="Garden" Desc="庄园页" >
-	  <File Name="garden_bg" Path="Garden/View/garden_bg" Type="Image" Enable="1" />
-	  <File Name="garden_bg2" Path="Garden/View/garden_bg2" Type="Image" Enable="1" />
-	  <File Name="garden_bg3" Path="Garden/View/garden_bg3" Type="Image" Enable="1" />
-	</Module>
+    <Module Name="Garden" Desc="庄园页">
+      <File Name="avatar00" Path="Garden/View/avatar00" Type="Image" Enable="1" />
+      <File Name="avatar01" Path="Garden/View/avatar01" Type="Image" Enable="1" />
+      <File Name="avatar02" Path="Garden/View/avatar02" Type="Image" Enable="1" />
+      <File Name="avatar03" Path="Garden/View/avatar03" Type="Image" Enable="1" />
+      <File Name="avatar04" Path="Garden/View/avatar04" Type="Image" Enable="1" />
+      <File Name="avatar05" Path="Garden/View/avatar05" Type="Image" Enable="1" />
+      <File Name="avatar06" Path="Garden/View/avatar06" Type="Image" Enable="1" />
+      <File Name="avatar07" Path="Garden/View/avatar07" Type="Image" Enable="1" />
+      <File Name="avatar08" Path="Garden/View/avatar08" Type="Image" Enable="1" />
+      <File Name="avatar09" Path="Garden/View/avatar09" Type="Image" Enable="1" />
+      <File Name="avatar11" Path="Garden/View/avatar11" Type="Image" Enable="1" />
+      <File Name="avatar12" Path="Garden/View/avatar12" Type="Image" Enable="1" />
+      <File Name="avatar13" Path="Garden/View/avatar13" Type="Image" Enable="1" />
+      <File Name="avatar14" Path="Garden/View/avatar14" Type="Image" Enable="1" />
+      <File Name="avatar15" Path="Garden/View/avatar15" Type="Image" Enable="1" />
+      <File Name="avatar16" Path="Garden/View/avatar16" Type="Image" Enable="1" />
+      <File Name="avatar17" Path="Garden/View/avatar17" Type="Image" Enable="1" />
+      <File Name="avatar18" Path="Garden/View/avatar18" Type="Image" Enable="1" />
+      <File Name="avatar19" Path="Garden/View/avatar19" Type="Image" Enable="1" />
+      <File Name="avatar20" Path="Garden/View/avatar20" Type="Image" Enable="1" />
+      <File Name="avatar21" Path="Garden/View/avatar21" Type="Image" Enable="1" />
+      <File Name="avatar22" Path="Garden/View/avatar22" Type="Image" Enable="1" />
+      <File Name="avatar23" Path="Garden/View/avatar23" Type="Image" Enable="1" />
+      <File Name="avatar24" Path="Garden/View/avatar24" Type="Image" Enable="1" />
+      <File Name="avatard" Path="Garden/View/avatard" Type="Image" Enable="1" />
+      <File Name="avatarn" Path="Garden/View/avatarn" Type="Image" Enable="1" />
+      <File Name="avatarp" Path="Garden/View/avatarp" Type="Image" Enable="1" />
+      <File Name="avatars" Path="Garden/View/avatars" Type="Image" Enable="1" />
+      <File Name="avatar_default" Path="Garden/View/avatar_default" Type="Image" Enable="1" />
+      <File Name="bar01" Path="Garden/View/bar01" Type="Image" Enable="1" />
+      <File Name="bar02" Path="Garden/View/bar02" Type="Image" Enable="1" />
+      <File Name="bg" Path="Garden/View/bg" Type="Image" Enable="1" />
+      <File Name="board" Path="Garden/View/board" Type="Image" Enable="1" />
+      <File Name="board_left" Path="Garden/View/board_left" Type="Image" Enable="1" />
+      <File Name="board_left_light" Path="Garden/View/board_left_light" Type="Image" Enable="1" />
+      <File Name="coin" Path="Garden/View/coin" Type="Image" Enable="1" />
+      <File Name="coin_bg" Path="Garden/View/coin_bg" Type="Image" Enable="1" />
+      <File Name="friend_bg" Path="Garden/View/friend_bg" Type="Image" Enable="1" />
+      <File Name="friend_big" Path="Garden/View/friend_big" Type="Image" Enable="1" />
+      <File Name="friend_small" Path="Garden/View/friend_small" Type="Image" Enable="1" />
+      <File Name="halo" Path="Garden/View/halo" Type="Image" Enable="1" />
+      <File Name="like" Path="Garden/View/like" Type="Image" Enable="1" />
+      <File Name="Picture_frame" Path="Garden/View/Picture_frame" Type="Image" Enable="1" />
+      <File Name="pitch_on" Path="Garden/View/pitch_on" Type="Image" Enable="1" />
+      <File Name="return_big" Path="Garden/View/return_big" Type="Image" Enable="1" />
+      <File Name="return_small" Path="Garden/View/return_small" Type="Image" Enable="1" />
+      <File Name="seed_big" Path="Garden/View/seed_big" Type="Image" Enable="1" />
+      <File Name="seed_small" Path="Garden/View/seed_small" Type="Image" Enable="1" />
+      <File Name="take" Path="Garden/View/take" Type="Image" Enable="1" />
+      <File Name="time" Path="Garden/View/time" Type="Image" Enable="1" />
+      <File Name="tips_board" Path="Garden/View/tips_board" Type="Image" Enable="1" />
+      <File Name="water_big" Path="Garden/View/water_big" Type="Image" Enable="1" />
+      <File Name="water_small" Path="Garden/View/water_small" Type="Image" Enable="1" />
+      <File Name="wood_bg" Path="Garden/View/wood_bg" Type="Image" Enable="1" />
+    </Module>
   </Modules>
 </Project>
