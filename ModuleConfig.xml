@@ -476,6 +476,14 @@
       <File Name="take" Path="Garden/View/take" Type="Image" Enable="1" />
       <File Name="time" Path="Garden/View/time" Type="Image" Enable="1" />
       <File Name="tips_board" Path="Garden/View/tips_board" Type="Image" Enable="1" />
+      <File Name="town_bg_morning" Path="Garden/View/town_bg_morning" Type="Image" Enable="1" />
+      <File Name="town_bg_night" Path="Garden/View/town_bg_night" Type="Image" Enable="1" />
+      <File Name="town_plantbg_1x2b" Path="Garden/View/town_plantbg_1x2b" Type="Image" Enable="1" />
+      <File Name="town_plantbg_1x2f" Path="Garden/View/town_plantbg_1x2f" Type="Image" Enable="1" />
+      <File Name="town_plantbg_2x2b" Path="Garden/View/town_plantbg_2x2b" Type="Image" Enable="1" />
+      <File Name="town_plantbg_2x2f" Path="Garden/View/town_plantbg_2x2f" Type="Image" Enable="1" />
+      <File Name="town_plantbg_3x3b" Path="Garden/View/town_plantbg_3x3b" Type="Image" Enable="1" />
+      <File Name="town_plantbg_3x3f" Path="Garden/View/town_plantbg_3x3f" Type="Image" Enable="1" />
       <File Name="water_big" Path="Garden/View/water_big" Type="Image" Enable="1" />
       <File Name="water_small" Path="Garden/View/water_small" Type="Image" Enable="1" />
       <File Name="wood_bg" Path="Garden/View/wood_bg" Type="Image" Enable="1" />
