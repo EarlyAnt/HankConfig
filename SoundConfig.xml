@@ -924,5 +924,14 @@
     <Sound Type="message_inbox_trash" Storage="Remote" Dec="页面音效-拒绝交友申请">
       <Clip SoundPath="message_inbox_trash" />
     </Sound>
+    <Sound Type="garden_bgm" Storage="Remote" Dec="庄园背景音乐">
+      <Clip SoundPath="garden_bgm" />
+    </Sound>
+    <Sound Type="garden_panel_enter" Storage="Remote" Dec="庄园面板入场">
+      <Clip SoundPath="garden_panel_enter" />
+    </Sound>
+    <Sound Type="garden_panel_exit" Storage="Remote" Dec="庄园面板退场">
+      <Clip SoundPath="garden_panel_exit" />
+    </Sound>
   </Sounds>
 </Project>
