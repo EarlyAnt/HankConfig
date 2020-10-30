@@ -455,6 +455,7 @@
       <File Name="avatar_default" Path="Garden/View/avatar_default" Type="Image" Enable="1" />
       <File Name="bar01" Path="Garden/View/bar01" Type="Image" Enable="1" />
       <File Name="bar02" Path="Garden/View/bar02" Type="Image" Enable="1" />
+      <File Name="basket" Path="Garden/View/basket" Type="Image" Enable="1" />
       <File Name="bg" Path="Garden/View/bg" Type="Image" Enable="1" />
       <File Name="board" Path="Garden/View/board" Type="Image" Enable="1" />
       <File Name="board_left" Path="Garden/View/board_left" Type="Image" Enable="1" />
