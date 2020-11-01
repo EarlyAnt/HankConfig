@@ -488,6 +488,9 @@
       <File Name="water_big" Path="Garden/View/water_big" Type="Image" Enable="1" />
       <File Name="water_small" Path="Garden/View/water_small" Type="Image" Enable="1" />
       <File Name="wood_bg" Path="Garden/View/wood_bg" Type="Image" Enable="1" />
+      <File Name="fruit01" Path="Garden/Fruit/fruit01" Type="Image" Enable="1" />
+      <File Name="fruit02" Path="Garden/Fruit/fruit02" Type="Image" Enable="1" />
+      <File Name="fruit04" Path="Garden/Fruit/fruit04" Type="Image" Enable="1" />
     </Module>
   </Modules>
 </Project>
