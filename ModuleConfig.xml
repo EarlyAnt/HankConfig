@@ -463,6 +463,7 @@
       <File Name="board_left_light" Path="Garden/View/board_left_light" Type="Image" Enable="1" />
       <File Name="coin" Path="Garden/View/coin" Type="Image" Enable="1" />
       <File Name="coin_bg" Path="Garden/View/coin_bg" Type="Image" Enable="1" />
+      <File Name="EXP" Path="Garden/View/EXP" Type="Image" Enable="1" />
       <File Name="friend_bg" Path="Garden/View/friend_bg" Type="Image" Enable="1" />
       <File Name="friend_big" Path="Garden/View/friend_big" Type="Image" Enable="1" />
       <File Name="friend_small" Path="Garden/View/friend_small" Type="Image" Enable="1" />
