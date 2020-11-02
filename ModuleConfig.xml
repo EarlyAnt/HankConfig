@@ -424,6 +424,8 @@
       <File Name="title_bg" Path="MessageInbox/View/title_bg" Type="Image" Enable="1" />
     </Module>
     <Module Name="Garden" Desc="庄园页">
+      <File Name="addfriend" Path="Garden/View/addfriend" Type="Image" Enable="1" />
+      <File Name="add_friend_flag" Path="Garden/View/add_friend_flag" Type="Image" Enable="1" />
       <File Name="avatar00" Path="Garden/View/avatar00" Type="Image" Enable="1" />
       <File Name="avatar01" Path="Garden/View/avatar01" Type="Image" Enable="1" />
       <File Name="avatar02" Path="Garden/View/avatar02" Type="Image" Enable="1" />
@@ -456,7 +458,6 @@
       <File Name="bar01" Path="Garden/View/bar01" Type="Image" Enable="1" />
       <File Name="bar02" Path="Garden/View/bar02" Type="Image" Enable="1" />
       <File Name="basket" Path="Garden/View/basket" Type="Image" Enable="1" />
-      <File Name="bg" Path="Garden/View/bg" Type="Image" Enable="1" />
       <File Name="board" Path="Garden/View/board" Type="Image" Enable="1" />
       <File Name="board_left" Path="Garden/View/board_left" Type="Image" Enable="1" />
       <File Name="board_left_light" Path="Garden/View/board_left_light" Type="Image" Enable="1" />
@@ -465,6 +466,7 @@
       <File Name="friend_bg" Path="Garden/View/friend_bg" Type="Image" Enable="1" />
       <File Name="friend_big" Path="Garden/View/friend_big" Type="Image" Enable="1" />
       <File Name="friend_small" Path="Garden/View/friend_small" Type="Image" Enable="1" />
+      <File Name="grey_mask" Path="Garden/View/grey_mask" Type="Image" Enable="1" />
       <File Name="halo" Path="Garden/View/halo" Type="Image" Enable="1" />
       <File Name="like" Path="Garden/View/like" Type="Image" Enable="1" />
       <File Name="Picture_frame" Path="Garden/View/Picture_frame" Type="Image" Enable="1" />
@@ -474,7 +476,6 @@
       <File Name="seed_big" Path="Garden/View/seed_big" Type="Image" Enable="1" />
       <File Name="seed_small" Path="Garden/View/seed_small" Type="Image" Enable="1" />
       <File Name="steal" Path="Garden/View/steal" Type="Image" Enable="1" />
-      <File Name="take" Path="Garden/View/take" Type="Image" Enable="1" />
       <File Name="time" Path="Garden/View/time" Type="Image" Enable="1" />
       <File Name="tips_board" Path="Garden/View/tips_board" Type="Image" Enable="1" />
       <File Name="town_bg_morning" Path="Garden/View/town_bg_morning" Type="Image" Enable="1" />
