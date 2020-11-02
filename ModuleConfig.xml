@@ -475,6 +475,7 @@
       <File Name="return_small" Path="Garden/View/return_small" Type="Image" Enable="1" />
       <File Name="seed_big" Path="Garden/View/seed_big" Type="Image" Enable="1" />
       <File Name="seed_small" Path="Garden/View/seed_small" Type="Image" Enable="1" />
+      <File Name="shovel" Path="Garden/View/shovel" Type="Image" Enable="1" />
       <File Name="steal" Path="Garden/View/steal" Type="Image" Enable="1" />
       <File Name="time" Path="Garden/View/time" Type="Image" Enable="1" />
       <File Name="tips_board" Path="Garden/View/tips_board" Type="Image" Enable="1" />
