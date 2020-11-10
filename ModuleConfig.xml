@@ -475,6 +475,7 @@
       <File Name="return_big" Path="Garden/View/return_big" Type="Image" Enable="1" />
       <File Name="return_small" Path="Garden/View/return_small" Type="Image" Enable="1" />
       <File Name="seed_big" Path="Garden/View/seed_big" Type="Image" Enable="1" />
+      <File Name="seed_panel" Path="Garden/View/seed_panel" Type="Image" Enable="1" />
       <File Name="seed_small" Path="Garden/View/seed_small" Type="Image" Enable="1" />
       <File Name="shovel" Path="Garden/View/shovel" Type="Image" Enable="1" />
       <File Name="steal" Path="Garden/View/steal" Type="Image" Enable="1" />
@@ -494,6 +495,20 @@
       <File Name="fruit01" Path="Garden/Fruit/fruit01" Type="Image" Enable="1" />
       <File Name="fruit02" Path="Garden/Fruit/fruit02" Type="Image" Enable="1" />
       <File Name="fruit04" Path="Garden/Fruit/fruit04" Type="Image" Enable="1" />
+      <File Name="seed_blueberry_s" Path="Garden/Icon/seed_blueberry_s" Type="Image" Enable="1" />
+      <File Name="seed_blueberry_us" Path="Garden/Icon/seed_blueberry_us" Type="Image" Enable="1" />
+      <File Name="seed_hami_s" Path="Garden/Icon/seed_hami_s" Type="Image" Enable="1" />
+      <File Name="seed_hami_us" Path="Garden/Icon/seed_hami_us" Type="Image" Enable="1" />
+      <File Name="seed_pineapple_s" Path="Garden/Icon/seed_pineapple_s" Type="Image" Enable="1" />
+      <File Name="seed_pineapple_us" Path="Garden/Icon/seed_pineapple_us" Type="Image" Enable="1" />
+      <File Name="seed_pitaya_s" Path="Garden/Icon/seed_pitaya_s" Type="Image" Enable="1" />
+      <File Name="seed_pitaya_us" Path="Garden/Icon/seed_pitaya_us" Type="Image" Enable="1" />
+      <File Name="seed_raspberry_s" Path="Garden/Icon/seed_raspberry_s" Type="Image" Enable="1" />
+      <File Name="seed_raspberry_us" Path="Garden/Icon/seed_raspberry_us" Type="Image" Enable="1" />
+      <File Name="seed_strawberry_s" Path="Garden/Icon/seed_strawberry_s" Type="Image" Enable="1" />
+      <File Name="seed_strawberry_us" Path="Garden/Icon/seed_strawberry_us" Type="Image" Enable="1" />
+      <File Name="seed_watermelon_s" Path="Garden/Icon/seed_watermelon_s" Type="Image" Enable="1" />
+      <File Name="seed_watermelon_us" Path="Garden/Icon/seed_watermelon_us" Type="Image" Enable="1" />
     </Module>
   </Modules>
 </Project>
