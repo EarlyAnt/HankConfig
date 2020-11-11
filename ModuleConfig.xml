@@ -461,8 +461,11 @@
       <File Name="board" Path="Garden/View/board" Type="Image" Enable="1" />
       <File Name="board_left" Path="Garden/View/board_left" Type="Image" Enable="1" />
       <File Name="board_left_light" Path="Garden/View/board_left_light" Type="Image" Enable="1" />
+      <File Name="cancel_light" Path="Garden/View/cancel_light" Type="Image" Enable="1" />
+      <File Name="cancel_normal" Path="Garden/View/cancel_normal" Type="Image" Enable="1" />
       <File Name="coin" Path="Garden/View/coin" Type="Image" Enable="1" />
       <File Name="coin_bg" Path="Garden/View/coin_bg" Type="Image" Enable="1" />
+      <File Name="disable" Path="Garden/View/disable" Type="Image" Enable="1" />
       <File Name="EXP" Path="Garden/View/EXP" Type="Image" Enable="1" />
       <File Name="friend_bg" Path="Garden/View/friend_bg" Type="Image" Enable="1" />
       <File Name="friend_big" Path="Garden/View/friend_big" Type="Image" Enable="1" />
@@ -470,6 +473,16 @@
       <File Name="grey_mask" Path="Garden/View/grey_mask" Type="Image" Enable="1" />
       <File Name="halo" Path="Garden/View/halo" Type="Image" Enable="1" />
       <File Name="like" Path="Garden/View/like" Type="Image" Enable="1" />
+      <File Name="limited_CHS" Path="Garden/View/limited_CHS" Type="Image" Enable="1" />
+      <File Name="limited_CHT" Path="Garden/View/limited_CHT" Type="Image" Enable="1" />
+      <File Name="limited_EN" Path="Garden/View/limited_EN" Type="Image" Enable="1" />
+      <File Name="limited_JP" Path="Garden/View/limited_JP" Type="Image" Enable="1" />
+      <File Name="lv_bg" Path="Garden/View/lv_bg" Type="Image" Enable="1" />
+      <File Name="needcoin" Path="Garden/View/needcoin" Type="Image" Enable="1" />
+      <File Name="net_no" Path="Garden/View/net_no" Type="Image" Enable="1" />
+      <File Name="nocoin" Path="Garden/View/nocoin" Type="Image" Enable="1" />
+      <File Name="ok_light" Path="Garden/View/ok_light" Type="Image" Enable="1" />
+      <File Name="ok_normal" Path="Garden/View/ok_normal" Type="Image" Enable="1" />
       <File Name="Picture_frame" Path="Garden/View/Picture_frame" Type="Image" Enable="1" />
       <File Name="pitch_on" Path="Garden/View/pitch_on" Type="Image" Enable="1" />
       <File Name="return_big" Path="Garden/View/return_big" Type="Image" Enable="1" />
@@ -478,8 +491,11 @@
       <File Name="seed_panel" Path="Garden/View/seed_panel" Type="Image" Enable="1" />
       <File Name="seed_small" Path="Garden/View/seed_small" Type="Image" Enable="1" />
       <File Name="shovel" Path="Garden/View/shovel" Type="Image" Enable="1" />
+      <File Name="special_label_activity 1" Path="Garden/View/special_label_activity 1" Type="Image" Enable="1" />
       <File Name="steal" Path="Garden/View/steal" Type="Image" Enable="1" />
+      <File Name="tag" Path="Garden/View/tag" Type="Image" Enable="1" />
       <File Name="time" Path="Garden/View/time" Type="Image" Enable="1" />
+      <File Name="Tips_bg" Path="Garden/View/Tips_bg" Type="Image" Enable="1" />
       <File Name="tips_board" Path="Garden/View/tips_board" Type="Image" Enable="1" />
       <File Name="town_bg_morning" Path="Garden/View/town_bg_morning" Type="Image" Enable="1" />
       <File Name="town_bg_night" Path="Garden/View/town_bg_night" Type="Image" Enable="1" />
@@ -489,12 +505,17 @@
       <File Name="town_plantbg_2x2f" Path="Garden/View/town_plantbg_2x2f" Type="Image" Enable="1" />
       <File Name="town_plantbg_3x3b" Path="Garden/View/town_plantbg_3x3b" Type="Image" Enable="1" />
       <File Name="town_plantbg_3x3f" Path="Garden/View/town_plantbg_3x3f" Type="Image" Enable="1" />
+      <File Name="Unlock_bg" Path="Garden/View/Unlock_bg" Type="Image" Enable="1" />
       <File Name="water_big" Path="Garden/View/water_big" Type="Image" Enable="1" />
       <File Name="water_small" Path="Garden/View/water_small" Type="Image" Enable="1" />
       <File Name="wood_bg" Path="Garden/View/wood_bg" Type="Image" Enable="1" />
       <File Name="fruit01" Path="Garden/Fruit/fruit01" Type="Image" Enable="1" />
       <File Name="fruit02" Path="Garden/Fruit/fruit02" Type="Image" Enable="1" />
+      <File Name="fruit03" Path="Garden/Fruit/fruit03" Type="Image" Enable="1" />
       <File Name="fruit04" Path="Garden/Fruit/fruit04" Type="Image" Enable="1" />
+      <File Name="fruit05" Path="Garden/Fruit/fruit05" Type="Image" Enable="1" />
+      <File Name="fruit06" Path="Garden/Fruit/fruit06" Type="Image" Enable="1" />
+      <File Name="fruit07" Path="Garden/Fruit/fruit07" Type="Image" Enable="1" />
       <File Name="seed_blueberry_s" Path="Garden/Icon/seed_blueberry_s" Type="Image" Enable="1" />
       <File Name="seed_blueberry_us" Path="Garden/Icon/seed_blueberry_us" Type="Image" Enable="1" />
       <File Name="seed_hami_s" Path="Garden/Icon/seed_hami_s" Type="Image" Enable="1" />
