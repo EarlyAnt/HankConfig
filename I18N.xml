@@ -392,7 +392,7 @@
       <Text Key="旧水杯" Value="The system of your friend's bottle is too old to support the emoji.|DFPT" />
       <Text Key="来自" Value="From|DFPT" />
       <Text Key="确定播种吗" Value="Are you sure to plant the seed|DFPT" />
-      <Text Key="成熟时间" Value="Growth time: {0}h|DFPT" />
+      <Text Key="成熟时间" Value="Growth Time: {0}h|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
