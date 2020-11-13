@@ -30,6 +30,7 @@
       <Text Key="旧水杯" Value="对方系统过旧，不支持该表情。|HKHB" />
       <Text Key="来自" Value="来自|HKHB" />
       <Text Key="确定播种吗" Value="确定种下这颗种子吗|HKHB" />
+      <Text Key="成熟时间" Value="成熟时间: {0}h|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -210,6 +211,7 @@
       <Text Key="旧水杯" Value="對方系統過舊，不支持該表情。|DFPT" />
       <Text Key="来自" Value="來自|DFPT" />
       <Text Key="确定播种吗" Value="確定種下這棵種子嗎|DFPT" />
+      <Text Key="成熟时间" Value="成熟時間: {0}h|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -390,6 +392,7 @@
       <Text Key="旧水杯" Value="The system of your friend's bottle is too old to support the emoji.|DFPT" />
       <Text Key="来自" Value="From|DFPT" />
       <Text Key="确定播种吗" Value="Are you sure to plant the seed|DFPT" />
+      <Text Key="成熟时间" Value="Maturation time: {0}h|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -570,6 +573,7 @@
       <Text Key="旧水杯" Value="相手のシステムが古いので、この表情はサポートされていません。|Pomeranian" />
       <Text Key="来自" Value="出身地|Pomeranian" />
       <Text Key="确定播种吗" Value="この種を植えることを確定しますか|Pomeranian" />
+      <Text Key="成熟时间" Value="成熟した時間: {0}h|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
