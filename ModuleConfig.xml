@@ -463,9 +463,11 @@
       <File Name="board_left_light" Path="Garden/View/board_left_light" Type="Image" Enable="1" />
       <File Name="cancel_light" Path="Garden/View/cancel_light" Type="Image" Enable="1" />
       <File Name="cancel_normal" Path="Garden/View/cancel_normal" Type="Image" Enable="1" />
+      <File Name="clock" Path="Garden/View/clock" Type="Image" Enable="1" />
       <File Name="coin" Path="Garden/View/coin" Type="Image" Enable="1" />
       <File Name="coin_bg" Path="Garden/View/coin_bg" Type="Image" Enable="1" />
       <File Name="disable" Path="Garden/View/disable" Type="Image" Enable="1" />
+      <File Name="drink_remind" Path="Garden/View/drink_remind" Type="Image" Enable="1" />
       <File Name="EXP" Path="Garden/View/EXP" Type="Image" Enable="1" />
       <File Name="friend_bg" Path="Garden/View/friend_bg" Type="Image" Enable="1" />
       <File Name="friend_big" Path="Garden/View/friend_big" Type="Image" Enable="1" />

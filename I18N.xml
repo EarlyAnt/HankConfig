@@ -31,6 +31,11 @@
       <Text Key="来自" Value="来自|HKHB" />
       <Text Key="确定播种吗" Value="确定种下这颗种子吗|HKHB" />
       <Text Key="成熟时间" Value="成熟时间: {0}h|HKHB" />
+      <Text Key="饮水可再偷一次" Value="马上喝水就能再偷一次呦|HKHB" />
+      <Text Key="你不在的时候" Value="你不在的时候|HKHB" />
+      <Text Key="帮助你" Value="帮助你|HKHB" />
+      <Text Key="偷了你的" Value="偷了你的|HKHB" />
+      <Text Key="为你" Value="为你|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -212,6 +217,11 @@
       <Text Key="来自" Value="來自|DFPT" />
       <Text Key="确定播种吗" Value="確定種下這棵種子嗎|DFPT" />
       <Text Key="成熟时间" Value="成熟時間: {0}h|DFPT" />
+      <Text Key="饮水可再偷一次" Value="馬上喝水就能再偷一次呦|DFPT" />
+      <Text Key="你不在的时候" Value="你不在的時候|DFPT" />
+      <Text Key="帮助你" Value="幫助你|DFPT" />
+      <Text Key="偷了你的" Value="偷了你的|DFPT" />
+      <Text Key="为你" Value="為你|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -393,6 +403,11 @@
       <Text Key="来自" Value="From|DFPT" />
       <Text Key="确定播种吗" Value="Are you sure to plant the seed|DFPT" />
       <Text Key="成熟时间" Value="Growth Time: {0}h|DFPT" />
+      <Text Key="饮水可再偷一次" Value="Drink water right away and you'll steal it again|DFPT" />
+      <Text Key="你不在的时候" Value="While you were away|DFPT" />
+      <Text Key="帮助你" Value="watered|DFPT" />
+      <Text Key="偷了你的" Value="stolen|DFPT" />
+      <Text Key="为你" Value="liked|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -574,6 +589,11 @@
       <Text Key="来自" Value="出身地|Pomeranian" />
       <Text Key="确定播种吗" Value="この種を植えることを確定しますか|Pomeranian" />
       <Text Key="成熟时间" Value="成熟した時間: {0}h|Pomeranian" />
+      <Text Key="饮水可再偷一次" Value="すぐに水を飲めば、もう一度盗めるよ|Pomeranian" />
+      <Text Key="你不在的时候" Value="あなたがいない時|Pomeranian" />
+      <Text Key="帮助你" Value="水を|Pomeranian" />
+      <Text Key="偷了你的" Value="盗んで|Pomeranian" />
+      <Text Key="为你" Value="ポイント|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
