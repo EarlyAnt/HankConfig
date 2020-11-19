@@ -219,12 +219,12 @@
     <Item Id="70006" Type="7" Name="pig" getImage="p_pig_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="70007" Type="7" Name="rainbow" getImage="p_raindow_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
     <Item Id="70008" Type="7" Name="tantan" getImage="p_tantan_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="80001" Type="8" Name="apple" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="80002" Type="8" Name="peach" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="80003" Type="8" Name="pear" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="80004" Type="8" Name="watermelon" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="80005" Type="8" Name="durian" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="80006" Type="8" Name="coconut" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
-    <Item Id="80007" Type="8" Name="pineapple" getImage="_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80001" Type="8" Name="strawberry" getImage="seed_strawberry_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80002" Type="8" Name="hamimelon" getImage="seed_hami_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80003" Type="8" Name="blueberry" getImage="seed_blueberry_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80004" Type="8" Name="watermelon" getImage="seed_watermelon_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80005" Type="8" Name="raspberry" getImage="seed_raspberry_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80006" Type="8" Name="pineapple" getImage="seed_pineapple_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
+    <Item Id="80007" Type="8" Name="pitaya" getImage="seed_pitaya_big" Icon="" StoryBg="" AudioId="" Description="" PetType="" Image="" Audio="" Animation="" Preview=""/>
   </Items>
 </Project>
