@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
   <GardenLevels>
-    <GardenLevel Level="1" Exp="0" />
-    <GardenLevel Level="2" Exp="10" />
-    <GardenLevel Level="3" Exp="25" />
-    <GardenLevel Level="4" Exp="55" />
-    <GardenLevel Level="5" Exp="105" />
-    <GardenLevel Level="6" Exp="205" />
-    <GardenLevel Level="7" Exp="355" />
-    <GardenLevel Level="8" Exp="535" />
-    <GardenLevel Level="9" Exp="785" />
-    <GardenLevel Level="10" Exp="1135" />
+    <GardenLevel Level="1" Exp="0" LandCount="2" />
+    <GardenLevel Level="2" Exp="10" LandCount="2" />
+    <GardenLevel Level="3" Exp="25" LandCount="2" />
+    <GardenLevel Level="4" Exp="55" LandCount="3" />
+    <GardenLevel Level="5" Exp="105" LandCount="3" />
+    <GardenLevel Level="6" Exp="205" LandCount="3" />
+    <GardenLevel Level="7" Exp="355" LandCount="4" />
+    <GardenLevel Level="8" Exp="535" LandCount="4" />
+    <GardenLevel Level="9" Exp="785" LandCount="4" />
+    <GardenLevel Level="10" Exp="1135" LandCount="5" />
   </GardenLevels>
 </Project>
