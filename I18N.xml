@@ -36,6 +36,7 @@
       <Text Key="帮助你" Value="帮助你|HKHB" />
       <Text Key="偷了你的" Value="偷了你的|HKHB" />
       <Text Key="为你" Value="为你|HKHB" />
+      <Text Key="预计收益" Value="预计收益|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -222,6 +223,7 @@
       <Text Key="帮助你" Value="幫助你|DFPT" />
       <Text Key="偷了你的" Value="偷了你的|DFPT" />
       <Text Key="为你" Value="為你|DFPT" />
+      <Text Key="预计收益" Value="預計收益|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -408,6 +410,7 @@
       <Text Key="帮助你" Value="watered|DFPT" />
       <Text Key="偷了你的" Value="stolen|DFPT" />
       <Text Key="为你" Value="liked|DFPT" />
+      <Text Key="预计收益" Value="Earnings|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -594,6 +597,7 @@
       <Text Key="帮助你" Value="水を|Pomeranian" />
       <Text Key="偷了你的" Value="盗んで|Pomeranian" />
       <Text Key="为你" Value="ポイント|Pomeranian" />
+      <Text Key="预计收益" Value="期待収益|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
