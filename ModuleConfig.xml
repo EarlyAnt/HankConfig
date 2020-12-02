@@ -466,6 +466,7 @@
       <File Name="cancel_light" Path="Garden/View/cancel_light" Type="Image" Enable="1" />
       <File Name="cancel_normal" Path="Garden/View/cancel_normal" Type="Image" Enable="1" />
       <File Name="clock" Path="Garden/View/clock" Type="Image" Enable="1" />
+      <File Name="clock_big" Path="Garden/View/clock_big" Type="Image" Enable="1" />
       <File Name="coin" Path="Garden/View/coin" Type="Image" Enable="1" />
       <File Name="coin_bg" Path="Garden/View/coin_bg" Type="Image" Enable="1" />
       <File Name="disable" Path="Garden/View/disable" Type="Image" Enable="1" />

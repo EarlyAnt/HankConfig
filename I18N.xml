@@ -37,6 +37,7 @@
       <Text Key="偷了你的" Value="偷了你的|HKHB" />
       <Text Key="为你" Value="为你|HKHB" />
       <Text Key="预计收益" Value="预计收益|HKHB" />
+      <Text Key="时间未到" Value="时间还不到哦，晚点再来吧！|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -224,6 +225,7 @@
       <Text Key="偷了你的" Value="偷了你的|DFPT" />
       <Text Key="为你" Value="為你|DFPT" />
       <Text Key="预计收益" Value="預計收益|DFPT" />
+      <Text Key="时间未到" Value="時間還不到哦，晚點再來吧！|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -411,6 +413,7 @@
       <Text Key="偷了你的" Value="stolen|DFPT" />
       <Text Key="为你" Value="liked|DFPT" />
       <Text Key="预计收益" Value="Reward|DFPT" />
+      <Text Key="时间未到" Value="Not now, please come \nback later!|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -598,6 +601,7 @@
       <Text Key="偷了你的" Value="盗んで|Pomeranian" />
       <Text Key="为你" Value="ポイント|Pomeranian" />
       <Text Key="预计收益" Value="推定報酬|Pomeranian" />
+      <Text Key="时间未到" Value="時間がなくなってきました、後で戻\nってきてください！|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
