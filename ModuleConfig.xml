@@ -464,6 +464,7 @@
       <File Name="board_left" Path="Garden/View/board_left" Type="Image" Enable="1" />
       <File Name="board_left_light" Path="Garden/View/board_left_light" Type="Image" Enable="1" />
       <File Name="boarddark_bg" Path="Garden/View/boarddark_bg" Type="Image" Enable="1" />
+      <File Name="bubble" Path="Garden/View/bubble" Type="Image" Enable="1" />
       <File Name="cancel_light" Path="Garden/View/cancel_light" Type="Image" Enable="1" />
       <File Name="cancel_normal" Path="Garden/View/cancel_normal" Type="Image" Enable="1" />
       <File Name="clock" Path="Garden/View/clock" Type="Image" Enable="1" />
