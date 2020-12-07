@@ -426,6 +426,7 @@
     <Module Name="Garden" Desc="庄园页">
       <File Name="addfriend" Path="Garden/View/addfriend" Type="Image" Enable="1" />
       <File Name="add_friend_flag" Path="Garden/View/add_friend_flag" Type="Image" Enable="1" />
+      <File Name="arrow" Path="Garden/View/arrow" Type="Image" Enable="1" />
       <File Name="avatar00" Path="Garden/View/avatar00" Type="Image" Enable="1" />
       <File Name="avatar01" Path="Garden/View/avatar01" Type="Image" Enable="1" />
       <File Name="avatar02" Path="Garden/View/avatar02" Type="Image" Enable="1" />
