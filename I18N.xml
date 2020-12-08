@@ -407,7 +407,7 @@
       <Text Key="来自" Value="From|DFPT" />
       <Text Key="确定播种吗" Value="Are you sure to plant the seed|DFPT" />
       <Text Key="成熟时间" Value="Growth Time: {0}h|DFPT" />
-      <Text Key="饮水可再偷一次" Value="Drink water right away and you'll steal it again|DFPT" />
+      <Text Key="饮水可再偷一次" Value="Drink water right away \nand you'll steal it again|DFPT" />
       <Text Key="你不在的时候" Value="While you were away|DFPT" />
       <Text Key="帮助你" Value="watered|DFPT" />
       <Text Key="偷了你的" Value="stolen|DFPT" />
@@ -595,7 +595,7 @@
       <Text Key="来自" Value="出身地|Pomeranian" />
       <Text Key="确定播种吗" Value="この種を植えることを確定しますか|Pomeranian" />
       <Text Key="成熟时间" Value="成熟した時間: {0}h|Pomeranian" />
-      <Text Key="饮水可再偷一次" Value="すぐに水を飲めば、もう一度盗めるよ|Pomeranian" />
+      <Text Key="饮水可再偷一次" Value="すぐに水を飲めば、もう一度\n盗めるよ|Pomeranian" />
       <Text Key="你不在的时候" Value="あなたがいない時|Pomeranian" />
       <Text Key="帮助你" Value="水を|Pomeranian" />
       <Text Key="偷了你的" Value="盗んで|Pomeranian" />
