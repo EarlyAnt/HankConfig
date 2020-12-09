@@ -38,6 +38,7 @@
       <Text Key="为你" Value="为你|HKHB" />
       <Text Key="预计收益" Value="预计收益|HKHB" />
       <Text Key="时间未到" Value="时间还不到哦，晚点再来吧！|HKHB" />
+      <Text Key="田地扩大" Value="你的田地扩大啦！|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -226,6 +227,7 @@
       <Text Key="为你" Value="為你|DFPT" />
       <Text Key="预计收益" Value="預計收益|DFPT" />
       <Text Key="时间未到" Value="時間還不到哦，晚點再來吧！|DFPT" />
+      <Text Key="田地扩大" Value="你的田地擴大啦！|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -414,6 +416,7 @@
       <Text Key="为你" Value="liked|DFPT" />
       <Text Key="预计收益" Value="Reward|DFPT" />
       <Text Key="时间未到" Value="Not now, please come \nback later!|DFPT" />
+      <Text Key="田地扩大" Value="Your land has expanded!|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -602,6 +605,7 @@
       <Text Key="为你" Value="ポイント|Pomeranian" />
       <Text Key="预计收益" Value="推定報酬|Pomeranian" />
       <Text Key="时间未到" Value="時間がなくなってきました、後で戻\nってきてください！|Pomeranian" />
+      <Text Key="田地扩大" Value="あなたの畑は広がっています！|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
