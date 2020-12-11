@@ -933,5 +933,20 @@
     <Sound Type="garden_panel_exit" Storage="Remote" Dec="庄园面板退场">
       <Clip SoundPath="garden_panel_exit" />
     </Sound>
+    <Sound Type="garden_gain" Storage="Remote" Dec="庄园收获">
+      <Clip SoundPath="garden_gain" />
+    </Sound>
+    <Sound Type="garden_level_up" Storage="Remote" Dec="庄园升级">
+      <Clip SoundPath="garden_level_up" />
+    </Sound>
+    <Sound Type="garden_reward" Storage="Remote" Dec="庄园收取宝箱奖励">
+      <Clip SoundPath="garden_reward" />
+    </Sound>
+    <Sound Type="garden_steal" Storage="Remote" Dec="庄园偷取">
+      <Clip SoundPath="garden_steal" />
+    </Sound>
+    <Sound Type="garden_treasure_box_progress" Storage="Remote" Dec="庄园宝箱进度">
+      <Clip SoundPath="garden_treasure_box_progress" />
+    </Sound>
   </Sounds>
 </Project>
