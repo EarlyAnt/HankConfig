@@ -498,6 +498,7 @@
       <File Name="red_dot" Path="Garden/View/red_dot" Type="Image" Enable="1" />
       <File Name="return_big" Path="Garden/View/return_big" Type="Image" Enable="1" />
       <File Name="return_small" Path="Garden/View/return_small" Type="Image" Enable="1" />
+      <File Name="scarecrow" Path="Garden/View/scarecrow" Type="Image" Enable="2" />
       <File Name="seed_big" Path="Garden/View/seed_big" Type="Image" Enable="1" />
       <File Name="seed_panel" Path="Garden/View/seed_panel" Type="Image" Enable="1" />
       <File Name="seed_small" Path="Garden/View/seed_small" Type="Image" Enable="1" />
