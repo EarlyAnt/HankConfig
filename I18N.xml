@@ -39,6 +39,7 @@
       <Text Key="预计收益" Value="预计收益|HKHB" />
       <Text Key="时间未到" Value="时间还不到哦，晚点再来吧！|HKHB" />
       <Text Key="田地扩大" Value="你的田地扩大啦！|HKHB" />
+      <Text Key="下载App解锁庄园" Value="下载App，配对水杯才即可解锁庄园功能！|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -228,6 +229,7 @@
       <Text Key="预计收益" Value="預計收益|DFPT" />
       <Text Key="时间未到" Value="時間還不到哦，晚點再來吧！|DFPT" />
       <Text Key="田地扩大" Value="你的田地擴大啦！|DFPT" />
+      <Text Key="下载App解锁庄园" Value="下載App，配對水杯即可解鎖莊園功能！|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -417,6 +419,7 @@
       <Text Key="预计收益" Value="Reward|DFPT" />
       <Text Key="时间未到" Value="Not now, please come \nback later!|DFPT" />
       <Text Key="田地扩大" Value="Your land has expanded!|DFPT" />
+      <Text Key="下载App解锁庄园" Value="Download the app to unlock the Garden!|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -606,6 +609,7 @@
       <Text Key="预计收益" Value="推定報酬|Pomeranian" />
       <Text Key="时间未到" Value="時間がなくなってきました、後で戻\nってきてください！|Pomeranian" />
       <Text Key="田地扩大" Value="あなたの畑は広がっています！|Pomeranian" />
+      <Text Key="下载App解锁庄园" Value="アプリをダウンロードして、庭のロックを解除してください！|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />

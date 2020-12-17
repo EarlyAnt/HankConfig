@@ -495,6 +495,7 @@
       <File Name="ok_normal" Path="Garden/View/ok_normal" Type="Image" Enable="1" />
       <File Name="Picture_frame" Path="Garden/View/Picture_frame" Type="Image" Enable="1" />
       <File Name="pitch_on" Path="Garden/View/pitch_on" Type="Image" Enable="1" />
+      <File Name="qr_code" Path="Garden/View/qr_code" Type="Image" Enable="1" />
       <File Name="red_dot" Path="Garden/View/red_dot" Type="Image" Enable="1" />
       <File Name="return_big" Path="Garden/View/return_big" Type="Image" Enable="1" />
       <File Name="return_small" Path="Garden/View/return_small" Type="Image" Enable="1" />
