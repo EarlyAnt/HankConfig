@@ -969,5 +969,20 @@
     <Sound Type="garden_water_plant" Storage="Remote" Dec="庄园浇水">
       <Clip SoundPath="garden_water_plant" />
     </Sound>
+    <Sound Type="drink_water_remind_ring1" Storage="Remote" Dec="饮水提醒铃声1">
+      <Clip SoundPath="drink_water_remind_ring1" />
+    </Sound>
+    <Sound Type="drink_water_remind_ring2" Storage="Remote" Dec="饮水提醒铃声2">
+      <Clip SoundPath="drink_water_remind_ring2" />
+    </Sound>
+    <Sound Type="drink_water_remind_ring3" Storage="Remote" Dec="饮水提醒铃声3">
+      <Clip SoundPath="drink_water_remind_ring3" />
+    </Sound>
+    <Sound Type="drink_water_remind_ring4" Storage="Remote" Dec="饮水提醒铃声4">
+      <Clip SoundPath="drink_water_remind_ring4" />
+    </Sound>
+    <Sound Type="drink_water_remind_ring5" Storage="Remote" Dec="饮水提醒铃声5">
+      <Clip SoundPath="drink_water_remind_ring5" />
+    </Sound>
   </Sounds>
 </Project>
