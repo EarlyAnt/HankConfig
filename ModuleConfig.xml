@@ -546,19 +546,34 @@
     </Module>
     <Module Name="DrinkWaterRemind" Desc="饮水提醒设置页">
       <File Name="bg" Path="DrinkWaterRemind/bg" Type="Image" Enable="1" />
+      <File Name="board_bg" Path="DrinkWaterRemind/board_bg" Type="Image" Enable="1" />
       <File Name="board_left" Path="DrinkWaterRemind/board_left" Type="Image" Enable="1" />
       <File Name="board_left_light" Path="DrinkWaterRemind/board_left_light" Type="Image" Enable="1" />
+      <File Name="icon_random" Path="DrinkWaterRemind/icon_random" Type="Image" Enable="1" />
+      <File Name="icon_random_s" Path="DrinkWaterRemind/icon_random_s" Type="Image" Enable="1" />
+      <File Name="icon_record" Path="DrinkWaterRemind/icon_record" Type="Image" Enable="1" />
+      <File Name="icon_record_s" Path="DrinkWaterRemind/icon_record_s" Type="Image" Enable="1" />
+      <File Name="icon_ring" Path="DrinkWaterRemind/icon_ring" Type="Image" Enable="1" />
+      <File Name="icon_ring_s" Path="DrinkWaterRemind/icon_ring_s" Type="Image" Enable="1" />
       <File Name="img" Path="DrinkWaterRemind/img" Type="Image" Enable="1" />
+      <File Name="line" Path="DrinkWaterRemind/line" Type="Image" Enable="1" />
       <File Name="nodisturb_b" Path="DrinkWaterRemind/nodisturb_b" Type="Image" Enable="1" />
       <File Name="nodisturb_s" Path="DrinkWaterRemind/nodisturb_s" Type="Image" Enable="1" />
+      <File Name="random" Path="DrinkWaterRemind/random" Type="Image" Enable="1" />
+      <File Name="record01" Path="DrinkWaterRemind/record01" Type="Image" Enable="1" />
+      <File Name="record02" Path="DrinkWaterRemind/record02" Type="Image" Enable="1" />
       <File Name="remind_b" Path="DrinkWaterRemind/remind_b" Type="Image" Enable="1" />
       <File Name="remind_s" Path="DrinkWaterRemind/remind_s" Type="Image" Enable="1" />
       <File Name="return_b" Path="DrinkWaterRemind/return_b" Type="Image" Enable="1" />
       <File Name="return_s" Path="DrinkWaterRemind/return_s" Type="Image" Enable="1" />
+      <File Name="ring" Path="DrinkWaterRemind/ring" Type="Image" Enable="1" />
+      <File Name="sleep" Path="DrinkWaterRemind/sleep" Type="Image" Enable="1" />
+      <File Name="study" Path="DrinkWaterRemind/study" Type="Image" Enable="1" />
       <File Name="time_b" Path="DrinkWaterRemind/time_b" Type="Image" Enable="1" />
       <File Name="time_board_b" Path="DrinkWaterRemind/time_board_b" Type="Image" Enable="1" />
       <File Name="time_board_s" Path="DrinkWaterRemind/time_board_s" Type="Image" Enable="1" />
       <File Name="time_s" Path="DrinkWaterRemind/time_s" Type="Image" Enable="1" />
+      <File Name="tips_bg" Path="DrinkWaterRemind/tips_bg" Type="Image" Enable="1" />
       <File Name="title_bg" Path="DrinkWaterRemind/title_bg" Type="Image" Enable="1" />
     </Module>
   </Modules>
