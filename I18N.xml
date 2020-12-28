@@ -47,6 +47,7 @@
       <Text Key="录制语音说明" Value="还没有语音呢，录制一段15S的语音提醒么？|HKHB" />
       <Text Key="覆盖录音说明" Value="要覆盖当前录音么？|HKHB" />
       <Text Key="勿扰说明" Value="在以下时间内，饮水提醒不工作，请在App上的勿扰模式内更改设定。|HKHB" />
+      <Text Key="铃声已启用" Value="铃声已启用|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -244,6 +245,7 @@
       <Text Key="录制语音说明" Value="還沒有語音呢，錄製一段15S的語音提醒麼？ |DFPT" />
       <Text Key="覆盖录音说明" Value="要覆蓋當前錄音麼？|DFPT" />
       <Text Key="勿扰说明" Value="在以下時間內，飲水提醒不工作，請在App上的勿擾模式內更改設定。 |DFPT" />
+      <Text Key="铃声已启用" Value="鈴聲已啟用|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -441,6 +443,7 @@
       <Text Key="录制语音说明" Value="No audio has been found, want to record a new reminder(15s)?|DFPT" />
       <Text Key="覆盖录音说明" Value="Are you sure to replace the current reminder?|DFPT" />
       <Text Key="勿扰说明" Value="The reminder doesn't work within the below intervals, you can modify the setting on App.|DFPT" />
+      <Text Key="铃声已启用" Value="Ringtone enabled|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -638,6 +641,7 @@
       <Text Key="录制语音说明" Value="まだ音声がありません。15 Sの音声リマインダを録音しますか？|Pomeranian" />
       <Text Key="覆盖录音说明" Value="現在の録音を上書きしますか？|Pomeranian" />
       <Text Key="勿扰说明" Value="以下の時間帯において、水を飲むときは作業しないように注意してください。|Pomeranian" />
+      <Text Key="铃声已启用" Value="着信音が|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
