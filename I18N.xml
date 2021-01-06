@@ -49,6 +49,7 @@
       <Text Key="勿扰说明" Value="在以下时间内，饮水提醒不工作，请在App上的勿扰模式内更改设定。|HKHB" />
       <Text Key="铃声已启用" Value="铃声已启用|HKHB" />
       <Text Key="正在录音" Value="正在录音|HKHB" />
+      <Text Key="饮水提醒间隔" Value="每隔{0}分钟提醒一次|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -248,6 +249,7 @@
       <Text Key="勿扰说明" Value="在以下時間內，飲水提醒不工作，請在App上的勿擾模式內更改設定。 |DFPT" />
       <Text Key="铃声已启用" Value="鈴聲已啟用|DFPT" />
       <Text Key="正在录音" Value="正在錄音|DFPT" />
+      <Text Key="饮水提醒间隔" Value="每隔{0}分鐘提醒一次|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -447,6 +449,7 @@
       <Text Key="勿扰说明" Value="The reminder doesn't work within the below intervals, you can modify the setting on App.|DFPT" />
       <Text Key="铃声已启用" Value="Ringtone enabled|DFPT" />
       <Text Key="正在录音" Value="Recording|DFPT" />
+      <Text Key="饮水提醒间隔" Value="Remind every {0} minutes|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -646,6 +649,7 @@
       <Text Key="勿扰说明" Value="以下の時間帯において、水を飲むときは作業しないように注意してください。|Pomeranian" />
       <Text Key="铃声已启用" Value="着信音が|Pomeranian" />
       <Text Key="正在录音" Value="録音中|Pomeranian" />
+      <Text Key="饮水提醒间隔" Value="{0}分おきに注意する|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
