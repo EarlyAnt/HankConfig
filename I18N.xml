@@ -42,7 +42,7 @@
       <Text Key="下载App解锁庄园" Value="下载App，配对水杯才即可解锁庄园功能！|HKHB" />
       <Text Key="饮水提醒" Value="饮水提醒|HKHB" />
       <Text Key="饮水提醒已关闭" Value="饮水提醒已关闭|HKHB" />
-      <Text Key="修改提醒语音" Value="该设置从{0}生效，每隔{1}分钟提醒一次|HKHB" />
+      <Text Key="修改提醒语音" Value="该设置从{0}生效，每隔\n{1}分钟提醒一次|HKHB" />
       <Text Key="录制语音标题" Value="录制语音提醒|HKHB" />
       <Text Key="录制语音说明" Value="还没有语音呢，录制一段15S的语音提醒么？|HKHB" />
       <Text Key="覆盖录音说明" Value="要覆盖当前录音么？|HKHB" />
@@ -242,7 +242,7 @@
       <Text Key="下载App解锁庄园" Value="下載App，配對水杯即可解鎖莊園功能！|DFPT" />
       <Text Key="饮水提醒" Value="飲水提醒|DFPT" />
       <Text Key="饮水提醒已关闭" Value="飲水提醒已關閉|DFPT" />
-      <Text Key="修改提醒语音" Value="該設定從{0}生效，每隔{1}分鐘提醒一次 |DFPT" />
+      <Text Key="修改提醒语音" Value="該設定從{0}生效，每隔\n{1}分鐘提醒一次 |DFPT" />
       <Text Key="录制语音标题" Value="錄製語音提醒|DFPT" />
       <Text Key="录制语音说明" Value="還沒有語音呢，錄製一段15S的語音提醒麼？ |DFPT" />
       <Text Key="覆盖录音说明" Value="要覆蓋當前錄音麼？|DFPT" />
