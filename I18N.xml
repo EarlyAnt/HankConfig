@@ -51,6 +51,7 @@
       <Text Key="正在录音" Value="正在录音|HKHB" />
       <Text Key="饮水提醒间隔" Value="每隔{0}分钟提醒一次|HKHB" />
       <Text Key="该喝水啦" Value="该喝水啦|HKHB" />
+      <Text Key="下次饮水提醒时间" Value="下次提醒{0:d2}:{1:d2}|HKHB" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHS" />
@@ -252,6 +253,7 @@
       <Text Key="正在录音" Value="正在錄音|DFPT" />
       <Text Key="饮水提醒间隔" Value="每隔{0}分鐘提醒一次|DFPT" />
       <Text Key="该喝水啦" Value="該喝水啦|DFPT" />
+      <Text Key="下次饮水提醒时间" Value="下次提醒{0:d2}:{1:d2}|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_CHT" />
@@ -453,6 +455,7 @@
       <Text Key="正在录音" Value="Recording|DFPT" />
       <Text Key="饮水提醒间隔" Value="Remind every {0} minutes|DFPT" />
       <Text Key="该喝水啦" Value="Time to drink|DFPT" />
+      <Text Key="下次饮水提醒时间" Value="Next time {0:d2}:{1:d2}|DFPT" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_EN" />
@@ -654,6 +657,7 @@
       <Text Key="正在录音" Value="録音中|Pomeranian" />
       <Text Key="饮水提醒间隔" Value="{0}分おきに注意する|Pomeranian" />
       <Text Key="该喝水啦" Value="水を飲もう|Pomeranian" />
+      <Text Key="下次饮水提醒时间" Value="次回注意する{0:d2}:{1:d2}|Pomeranian" />
 
       <!--图片配置-->
       <Image Key="PetPageTitle" Value="Texture/PetPage/pet_title_JP" />
