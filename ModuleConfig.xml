@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project Name="Gululu" Version="">
   <Modules>
+    <Module Name="MainView" Desc="主页(公共资源)">
+      <File Name="avatar01" Path="Common/Avatar/avatar01" Type="Image" Enable="1" />
+      <File Name="avatar02" Path="Common/Avatar/avatar02" Type="Image" Enable="1" />
+      <File Name="avatar03" Path="Common/Avatar/avatar03" Type="Image" Enable="1" />
+      <File Name="avatar04" Path="Common/Avatar/avatar04" Type="Image" Enable="1" />
+      <File Name="avatar05" Path="Common/Avatar/avatar05" Type="Image" Enable="1" />
+      <File Name="avatar06" Path="Common/Avatar/avatar06" Type="Image" Enable="1" />
+      <File Name="avatard" Path="Common/Avatar/avatard" Type="Image" Enable="1" />
+      <File Name="avatarn" Path="Common/Avatar/avatarn" Type="Image" Enable="1" />
+      <File Name="avatarp" Path="Common/Avatar/avatarp" Type="Image" Enable="1" />
+      <File Name="avatars" Path="Common/Avatar/avatars" Type="Image" Enable="1" />
+      <File Name="avatar_default" Path="Common/Avatar/avatar_default" Type="Image" Enable="1" />
+      <File Name="avatar_gululu" Path="Common/Avatar/avatar_gululu" Type="Image" Enable="1" />
+      <File Name="avatar00" Path="Common/Avatar/avatar00" Type="Image" Enable="1" />
+      <File Name="avatar07" Path="Common/Avatar/avatar07" Type="Image" Enable="1" />
+      <File Name="avatar08" Path="Common/Avatar/avatar08" Type="Image" Enable="1" />
+      <File Name="avatar09" Path="Common/Avatar/avatar09" Type="Image" Enable="1" />
+      <File Name="avatar11" Path="Common/Avatar/avatar11" Type="Image" Enable="1" />
+      <File Name="avatar12" Path="Common/Avatar/avatar12" Type="Image" Enable="1" />
+      <File Name="avatar13" Path="Common/Avatar/avatar13" Type="Image" Enable="1" />
+      <File Name="avatar14" Path="Common/Avatar/avatar14" Type="Image" Enable="1" />
+      <File Name="avatar15" Path="Common/Avatar/avatar15" Type="Image" Enable="1" />
+      <File Name="avatar16" Path="Common/Avatar/avatar16" Type="Image" Enable="1" />
+      <File Name="avatar17" Path="Common/Avatar/avatar17" Type="Image" Enable="1" />
+      <File Name="avatar18" Path="Common/Avatar/avatar18" Type="Image" Enable="1" />
+      <File Name="avatar19" Path="Common/Avatar/avatar19" Type="Image" Enable="1" />
+      <File Name="avatar20" Path="Common/Avatar/avatar20" Type="Image" Enable="1" />
+      <File Name="avatar21" Path="Common/Avatar/avatar21" Type="Image" Enable="1" />
+      <File Name="avatar22" Path="Common/Avatar/avatar22" Type="Image" Enable="1" />
+      <File Name="avatar23" Path="Common/Avatar/avatar23" Type="Image" Enable="1" />
+      <File Name="avatar24" Path="Common/Avatar/avatar24" Type="Image" Enable="1" />
+    </Module>
     <Module Name="PetDress" Desc="换装页">
       <File Name="cash" Path="PetDress/View/cash" Type="Image" Enable="1" />
       <File Name="check" Path="PetDress/View/check" Type="Image" Enable="1" />
@@ -280,35 +312,6 @@
       <File Name="title_ima" Path="WorldMap/title_ima" Type="Image" Enable="1" />
     </Module>
     <Module Name="Expression" Desc="表情页">
-      <File Name="avatar01" Path="Expression/View/avatar01" Type="Image" Enable="1" />
-      <File Name="avatar02" Path="Expression/View/avatar02" Type="Image" Enable="1" />
-      <File Name="avatar03" Path="Expression/View/avatar03" Type="Image" Enable="1" />
-      <File Name="avatar04" Path="Expression/View/avatar04" Type="Image" Enable="1" />
-      <File Name="avatar05" Path="Expression/View/avatar05" Type="Image" Enable="1" />
-      <File Name="avatar06" Path="Expression/View/avatar06" Type="Image" Enable="1" />
-      <File Name="avatard" Path="Expression/View/avatard" Type="Image" Enable="1" />
-      <File Name="avatarn" Path="Expression/View/avatarn" Type="Image" Enable="1" />
-      <File Name="avatarp" Path="Expression/View/avatarp" Type="Image" Enable="1" />
-      <File Name="avatars" Path="Expression/View/avatars" Type="Image" Enable="1" />
-      <File Name="avatar_default" Path="Expression/View/avatar_default" Type="Image" Enable="1" />
-      <File Name="avatar00" Path="Expression/View/avatar00" Type="Image" Enable="1" />
-      <File Name="avatar07" Path="Expression/View/avatar07" Type="Image" Enable="1" />
-      <File Name="avatar08" Path="Expression/View/avatar08" Type="Image" Enable="1" />
-      <File Name="avatar09" Path="Expression/View/avatar09" Type="Image" Enable="1" />
-      <File Name="avatar11" Path="Expression/View/avatar11" Type="Image" Enable="1" />
-      <File Name="avatar12" Path="Expression/View/avatar12" Type="Image" Enable="1" />
-      <File Name="avatar13" Path="Expression/View/avatar13" Type="Image" Enable="1" />
-      <File Name="avatar14" Path="Expression/View/avatar14" Type="Image" Enable="1" />
-      <File Name="avatar15" Path="Expression/View/avatar15" Type="Image" Enable="1" />
-      <File Name="avatar16" Path="Expression/View/avatar16" Type="Image" Enable="1" />
-      <File Name="avatar17" Path="Expression/View/avatar17" Type="Image" Enable="1" />
-      <File Name="avatar18" Path="Expression/View/avatar18" Type="Image" Enable="1" />
-      <File Name="avatar19" Path="Expression/View/avatar19" Type="Image" Enable="1" />
-      <File Name="avatar20" Path="Expression/View/avatar20" Type="Image" Enable="1" />
-      <File Name="avatar21" Path="Expression/View/avatar21" Type="Image" Enable="1" />
-      <File Name="avatar22" Path="Expression/View/avatar22" Type="Image" Enable="1" />
-      <File Name="avatar23" Path="Expression/View/avatar23" Type="Image" Enable="1" />
-      <File Name="avatar24" Path="Expression/View/avatar24" Type="Image" Enable="1" />
       <File Name="bg" Path="Expression/View/bg" Type="Image" Enable="1" />
       <File Name="btn_add_s" Path="Expression/View/btn_add_s" Type="Image" Enable="1" />
       <File Name="btn_add_us" Path="Expression/View/btn_add_us" Type="Image" Enable="1" />
@@ -373,36 +376,6 @@
       <File Name="p_tantan_small" Path="Expression/Icon/p_tantan_small" Type="Image" Enable="1" />
     </Module>
     <Module Name="MessageInbox" Desc="消息收件箱页">
-      <File Name="avatar01" Path="MessageInbox/View/avatar01" Type="Image" Enable="1" />
-      <File Name="avatar02" Path="MessageInbox/View/avatar02" Type="Image" Enable="1" />
-      <File Name="avatar03" Path="MessageInbox/View/avatar03" Type="Image" Enable="1" />
-      <File Name="avatar04" Path="MessageInbox/View/avatar04" Type="Image" Enable="1" />
-      <File Name="avatar05" Path="MessageInbox/View/avatar05" Type="Image" Enable="1" />
-      <File Name="avatar06" Path="MessageInbox/View/avatar06" Type="Image" Enable="1" />
-      <File Name="avatard" Path="MessageInbox/View/avatard" Type="Image" Enable="1" />
-      <File Name="avatarn" Path="MessageInbox/View/avatarn" Type="Image" Enable="1" />
-      <File Name="avatarp" Path="MessageInbox/View/avatarp" Type="Image" Enable="1" />
-      <File Name="avatars" Path="MessageInbox/View/avatars" Type="Image" Enable="1" />
-      <File Name="avatar_default" Path="MessageInbox/View/avatar_default" Type="Image" Enable="1" />
-      <File Name="avatar_gululu" Path="MessageInbox/View/avatar_gululu" Type="Image" Enable="1" />
-      <File Name="avatar00" Path="MessageInbox/View/avatar00" Type="Image" Enable="1" />
-      <File Name="avatar07" Path="MessageInbox/View/avatar07" Type="Image" Enable="1" />
-      <File Name="avatar08" Path="MessageInbox/View/avatar08" Type="Image" Enable="1" />
-      <File Name="avatar09" Path="MessageInbox/View/avatar09" Type="Image" Enable="1" />
-      <File Name="avatar11" Path="MessageInbox/View/avatar11" Type="Image" Enable="1" />
-      <File Name="avatar12" Path="MessageInbox/View/avatar12" Type="Image" Enable="1" />
-      <File Name="avatar13" Path="MessageInbox/View/avatar13" Type="Image" Enable="1" />
-      <File Name="avatar14" Path="MessageInbox/View/avatar14" Type="Image" Enable="1" />
-      <File Name="avatar15" Path="MessageInbox/View/avatar15" Type="Image" Enable="1" />
-      <File Name="avatar16" Path="MessageInbox/View/avatar16" Type="Image" Enable="1" />
-      <File Name="avatar17" Path="MessageInbox/View/avatar17" Type="Image" Enable="1" />
-      <File Name="avatar18" Path="MessageInbox/View/avatar18" Type="Image" Enable="1" />
-      <File Name="avatar19" Path="MessageInbox/View/avatar19" Type="Image" Enable="1" />
-      <File Name="avatar20" Path="MessageInbox/View/avatar20" Type="Image" Enable="1" />
-      <File Name="avatar21" Path="MessageInbox/View/avatar21" Type="Image" Enable="1" />
-      <File Name="avatar22" Path="MessageInbox/View/avatar22" Type="Image" Enable="1" />
-      <File Name="avatar23" Path="MessageInbox/View/avatar23" Type="Image" Enable="1" />
-      <File Name="avatar24" Path="MessageInbox/View/avatar24" Type="Image" Enable="1" />
       <File Name="bg" Path="MessageInbox/View/bg" Type="Image" Enable="1" />
       <File Name="board_selected" Path="MessageInbox/View/board_selected" Type="Image" Enable="1" />
       <File Name="board_txt" Path="MessageInbox/View/board_txt" Type="Image" Enable="1" />
@@ -430,35 +403,6 @@
       <File Name="add_friend_flag" Path="Garden/View/add_friend_flag" Type="Image" Enable="1" />
       <File Name="arrow" Path="Garden/View/arrow" Type="Image" Enable="1" />
       <File Name="arrow2" Path="Garden/View/arrow2" Type="Image" Enable="1" />
-      <File Name="avatar00" Path="Garden/View/avatar00" Type="Image" Enable="1" />
-      <File Name="avatar01" Path="Garden/View/avatar01" Type="Image" Enable="1" />
-      <File Name="avatar02" Path="Garden/View/avatar02" Type="Image" Enable="1" />
-      <File Name="avatar03" Path="Garden/View/avatar03" Type="Image" Enable="1" />
-      <File Name="avatar04" Path="Garden/View/avatar04" Type="Image" Enable="1" />
-      <File Name="avatar05" Path="Garden/View/avatar05" Type="Image" Enable="1" />
-      <File Name="avatar06" Path="Garden/View/avatar06" Type="Image" Enable="1" />
-      <File Name="avatar07" Path="Garden/View/avatar07" Type="Image" Enable="1" />
-      <File Name="avatar08" Path="Garden/View/avatar08" Type="Image" Enable="1" />
-      <File Name="avatar09" Path="Garden/View/avatar09" Type="Image" Enable="1" />
-      <File Name="avatar11" Path="Garden/View/avatar11" Type="Image" Enable="1" />
-      <File Name="avatar12" Path="Garden/View/avatar12" Type="Image" Enable="1" />
-      <File Name="avatar13" Path="Garden/View/avatar13" Type="Image" Enable="1" />
-      <File Name="avatar14" Path="Garden/View/avatar14" Type="Image" Enable="1" />
-      <File Name="avatar15" Path="Garden/View/avatar15" Type="Image" Enable="1" />
-      <File Name="avatar16" Path="Garden/View/avatar16" Type="Image" Enable="1" />
-      <File Name="avatar17" Path="Garden/View/avatar17" Type="Image" Enable="1" />
-      <File Name="avatar18" Path="Garden/View/avatar18" Type="Image" Enable="1" />
-      <File Name="avatar19" Path="Garden/View/avatar19" Type="Image" Enable="1" />
-      <File Name="avatar20" Path="Garden/View/avatar20" Type="Image" Enable="1" />
-      <File Name="avatar21" Path="Garden/View/avatar21" Type="Image" Enable="1" />
-      <File Name="avatar22" Path="Garden/View/avatar22" Type="Image" Enable="1" />
-      <File Name="avatar23" Path="Garden/View/avatar23" Type="Image" Enable="1" />
-      <File Name="avatar24" Path="Garden/View/avatar24" Type="Image" Enable="1" />
-      <File Name="avatard" Path="Garden/View/avatard" Type="Image" Enable="1" />
-      <File Name="avatarn" Path="Garden/View/avatarn" Type="Image" Enable="1" />
-      <File Name="avatarp" Path="Garden/View/avatarp" Type="Image" Enable="1" />
-      <File Name="avatars" Path="Garden/View/avatars" Type="Image" Enable="1" />
-      <File Name="avatar_default" Path="Garden/View/avatar_default" Type="Image" Enable="1" />
       <File Name="bar01" Path="Garden/View/bar01" Type="Image" Enable="1" />
       <File Name="bar02" Path="Garden/View/bar02" Type="Image" Enable="1" />
       <File Name="basket" Path="Garden/View/basket" Type="Image" Enable="1" />
