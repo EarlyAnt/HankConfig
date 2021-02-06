@@ -39,7 +39,7 @@
       <Text Key="预计收益" Value="预计收益|HKHB" />
       <Text Key="时间未到" Value="时间还不到哦，晚点再来吧！|HKHB" />
       <Text Key="田地扩大" Value="你的田地扩大啦！|HKHB" />
-      <Text Key="下载App解锁庄园" Value="下载App，配对水杯才即可解锁庄园功能！|HKHB" />
+      <Text Key="下载App解锁游戏" Value="下载App，配对水杯即可解锁更多游戏！|HKHB" />
       <Text Key="饮水提醒" Value="饮水提醒|HKHB" />
       <Text Key="饮水提醒已关闭" Value="饮水提醒已关闭|HKHB" />
       <Text Key="修改提醒语音" Value="下次提醒在[{0}]，每隔\n[{1}]分钟提醒一次|HKHB" />
@@ -241,7 +241,7 @@
       <Text Key="预计收益" Value="預計收益|DFPT" />
       <Text Key="时间未到" Value="時間還不到哦，晚點再來吧！|DFPT" />
       <Text Key="田地扩大" Value="你的田地擴大啦！|DFPT" />
-      <Text Key="下载App解锁庄园" Value="下載App，配對水杯即可解鎖莊園功能！|DFPT" />
+      <Text Key="下载App解锁游戏" Value="下載App，配對水杯即可解鎖更多遊戲！|DFPT" />
       <Text Key="饮水提醒" Value="飲水提醒|DFPT" />
       <Text Key="饮水提醒已关闭" Value="飲水提醒已關閉|DFPT" />
       <Text Key="修改提醒语音" Value="下次提醒在[{0}]，每隔\n[{1}]分鐘提醒一次 |DFPT" />
@@ -443,7 +443,7 @@
       <Text Key="预计收益" Value="Reward|DFPT" />
       <Text Key="时间未到" Value="Not now, please come \nback later!|DFPT" />
       <Text Key="田地扩大" Value="Your land has expanded!|DFPT" />
-      <Text Key="下载App解锁庄园" Value="Download the app to unlock the Garden!|DFPT" />
+      <Text Key="下载App解锁游戏" Value="Download the app to unlock more games!|DFPT" />
       <Text Key="饮水提醒" Value="Water drink reminder|DFPT" />
       <Text Key="饮水提醒已关闭" Value="Reminder OFF|DFPT" />
       <Text Key="修改提醒语音" Value="Cool, we will remind you at [{0}] and every [{1}] mins after|DFPT" />
@@ -645,7 +645,7 @@
       <Text Key="预计收益" Value="推定報酬|Pomeranian" />
       <Text Key="时间未到" Value="時間がなくなってきました、後で戻\nってきてください！|Pomeranian" />
       <Text Key="田地扩大" Value="あなたの畑は広がっています！|Pomeranian" />
-      <Text Key="下载App解锁庄园" Value="アプリをダウンロードして、庭のロックを解除してください！|Pomeranian" />
+      <Text Key="下载App解锁游戏" Value="アプリをダウンロードして、より多くのゲームをアンロックしてください!|Pomeranian" />
       <Text Key="饮水提醒" Value="水を飲むリマインダー|Pomeranian" />
       <Text Key="饮水提醒已关闭" Value="アラームが閉じられました|Pomeranian" />
       <Text Key="修改提醒语音" Value="[{0}]と[{1}]分ごとにお知らせします|Pomeranian" />
