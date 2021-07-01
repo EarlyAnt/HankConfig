@@ -313,6 +313,7 @@
       <File Name="title_ima" Path="WorldMap/title_ima" Type="Image" Enable="1" />
     </Module>
     <Module Name="Expression" Desc="表情页">
+      <File Name="area_board" Path="Expression/View/area_board" Type="Image" Enable="1" />
       <File Name="bg" Path="Expression/View/bg" Type="Image" Enable="1" />
       <File Name="btn_add_s" Path="Expression/View/btn_add_s" Type="Image" Enable="1" />
       <File Name="btn_add_us" Path="Expression/View/btn_add_us" Type="Image" Enable="1" />
